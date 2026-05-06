@@ -156,7 +156,6 @@ html,body{min-height:100vh;background:var(--paper);color:var(--ink);font-family:
     </div>
     <div class="lang-tabs">
       <button class="ltab active">日本語</button>
-      <button class="ltab add" title="Add language">+</button>
     </div>
   </div>
 
@@ -199,6 +198,8 @@ let currentPage = 1;
 let fcIdx = 0, fcFlipped = false, fcOk = 0, fcNo = 0;
 let qIdx = 0,  qOk = 0,  qTotal = 0, qItems = [];
 
+const COMING = { vocab:true };
+
 /* ── Data loading ── */
 async function loadData(file) {
   const body = document.getElementById('browse-body');
@@ -209,7 +210,9 @@ async function loadData(file) {
     ALL_DATA = await r.json();
     filtered = ALL_DATA;
     currentPage = 1;
-    renderBrowse();
+    if (mode === 'cards') startCards();
+    else if (mode === 'quiz') startQuiz();
+    else renderBrowse();
   } catch(e) {
     body.innerHTML = `<div class="empty"><span class="empty-k">×</span><div class="empty-t">Could not load ${file}<br>Make sure you are running a local server.</div></div>`;
   }
@@ -228,11 +231,10 @@ function switchType(t, el) {
 
   const files   = { kanji:'data/jp_kanji.json', vocab:'data/jp_vocab.json', grammar:'data/jp_grammar.json' };
   const glyphs  = { kanji:'漢', vocab:'語', grammar:'文' };
-  const coming  = { vocab:true, grammar:true };
+  const coming  = COMING;
 
   if (coming[t]) {
-    document.getElementById('browse-body').innerHTML =
-      `<div class="empty"><span class="empty-k">${glyphs[t]}</span><div class="empty-t">Coming soon.<br>Upload a PDF to populate this section.</div></div>`;
+    switchMode(mode);
     return;
   }
   loadData(files[t]);
@@ -244,6 +246,13 @@ function switchMode(m) {
   document.getElementById('browse-mode').style.display = m === 'browse' ? '' : 'none';
   document.getElementById('cards-mode').style.display  = m === 'cards'  ? '' : 'none';
   document.getElementById('quiz-mode').style.display   = m === 'quiz'   ? '' : 'none';
+  if (COMING[type]) {
+    const glyphs = { vocab:'語' };
+    const target = m === 'cards' ? 'cards-body' : m === 'quiz' ? 'quiz-body' : 'browse-body';
+    document.getElementById(target).innerHTML =
+      `<div class="empty"><span class="empty-k">${glyphs[type]}</span><div class="empty-t">Coming soon.</div></div>`;
+    return;
+  }
   if (m === 'cards') startCards();
   if (m === 'quiz')  startQuiz();
 }
@@ -252,8 +261,10 @@ function switchMode(m) {
 function onSearch() {
   const q = document.getElementById('search').value.toLowerCase();
   filtered = ALL_DATA.filter(k =>
-    !q || k.jp.includes(q) || k.on.toLowerCase().includes(q) ||
-    k.kun.includes(q) || k.en.toLowerCase().includes(q)
+    !q || k.jp.toLowerCase().includes(q) ||
+    (k.on  && k.on.toLowerCase().includes(q)) ||
+    (k.kun && k.kun.toLowerCase().includes(q)) ||
+    k.en.toLowerCase().includes(q)
   );
   currentPage = 1;
   detailIdx   = null;
@@ -268,14 +279,15 @@ function renderBrowse() {
   const start = (currentPage - 1) * PER_PAGE;
   const slice = filtered.slice(start, start + PER_PAGE);
 
-  document.getElementById('count-lbl').textContent = `${total} kanji`;
+  const typeLabel = { kanji:'kanji', vocab:'vocab', grammar:'grammar' };
+  document.getElementById('count-lbl').textContent = `${total} ${typeLabel[type]}`;
   document.getElementById('browse-body').innerHTML =
     '<div class="items-grid">' +
     slice.map((k, i) =>
       `<div class="icard" onclick="openDetail(${start + i})">
         <div class="icard-num">${k.n}</div>
-        <div class="icard-jp">${k.jp}</div>
-        <div class="icard-on">${k.on}</div>
+        <div class="icard-jp" style="font-size:${type==='grammar'?'14px':'32px'}">${k.jp}</div>
+        <div class="icard-on">${k.on || ''}</div>
         <div class="icard-en">${k.en}</div>
       </div>`
     ).join('') + '</div>';
@@ -312,21 +324,15 @@ function showDetail(i) {
   document.getElementById('count-lbl').textContent = '';
   document.getElementById('pagination').innerHTML  = '';
   document.getElementById('browse-body').innerHTML = `
-    <button class="back-btn" onclick="closeDetail()">← All kanji</button>
+    <button class="back-btn" onclick="closeDetail()">← All ${type}</button>
     <div class="detail-card detail-wrap">
-      <div class="detail-hero">
-        <div class="detail-kanji">${k.jp}</div>
+      <div class="detail-hero" style="flex-direction:column;align-items:flex-start;">
+        <div class="detail-kanji" style="font-size:${type==='grammar'?'22px':'90px'}">${k.jp}</div>
         <div class="detail-meta">
           <div class="detail-en">${k.en}</div>
           <div class="detail-readings">
-            <div class="reading-row">
-              <span class="reading-lbl">On</span>
-              <span class="reading-val">${k.on}</span>
-            </div>
-            <div class="reading-row">
-              <span class="reading-lbl">Kun</span>
-              <span class="reading-val">${k.kun}</span>
-            </div>
+            ${k.on  ? `<div class="reading-row"><span class="reading-lbl">On</span><span class="reading-val">${k.on}</span></div>` : ''}
+            ${k.kun ? `<div class="reading-row"><span class="reading-lbl">Kun</span><span class="reading-val">${k.kun}</span></div>` : ''}
           </div>
         </div>
       </div>
@@ -374,8 +380,8 @@ function showCard() {
       </div>
       <div class="fc-card" id="fc-card" onclick="flipCard()">
         <div id="fc-inner" style="width:100%;text-align:center">
-          <div class="fc-jp">${k.jp}</div>
-          <div class="fc-reading">${k.on}</div>
+          <div class="fc-jp" style="font-size:${type==='grammar'?'22px':'80px'}">${k.jp}</div>
+          <div class="fc-reading">${k.on || ''}</div>
         </div>
         <div class="fc-hint" id="fc-hint">tap to reveal</div>
       </div>
@@ -393,8 +399,8 @@ function flipCard() {
   document.getElementById('fc-inner').innerHTML = `
     <div class="fc-answer">
       <div class="fc-ans-en">${k.en}</div>
-      <div class="fc-ans-row">音読み：${k.on}</div>
-      <div class="fc-ans-row">訓読み：${k.kun}</div>
+      ${k.on  ? `<div class="fc-ans-row">音読み：${k.on}</div>` : ''}
+      ${k.kun ? `<div class="fc-ans-row">訓読み：${k.kun}</div>` : ''}
     </div>`;
   document.getElementById('fc-hint').style.display = 'none';
   document.getElementById('fc-btns').style.display = 'grid';
@@ -443,9 +449,9 @@ function showQ() {
       <div class="q-stat"><div class="q-num" style="color:var(--red)">${qTotal-qOk}</div><div class="q-lbl">Wrong</div></div>
     </div>
     <div class="q-card">
-      <div class="q-prompt">What is the meaning of this kanji?</div>
-      <div class="q-kanji">${k.jp}</div>
-      <div class="q-reading">${k.on} · ${k.kun}</div>
+      <div class="q-prompt">What is the meaning of this ${type}?</div>
+      <div class="q-kanji" style="font-size:${type==='grammar'?'18px':'56px'}">${k.jp}</div>
+      <div class="q-reading">${k.on && k.kun ? k.on + ' · ' + k.kun : k.on || ''}</div>
       <div class="q-opts" id="q-opts">
         ${opts.map(o =>
           `<button class="q-opt"
