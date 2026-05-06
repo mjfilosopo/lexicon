@@ -1,0 +1,481 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Lexicon — Language Study Suite</title>
+<link href="https://fonts.googleapis.com/css2?family=Noto+Serif+JP:wght@300;400;500&family=DM+Serif+Display:ital@0;1&family=DM+Mono:wght@300;400&display=swap" rel="stylesheet">
+<style>
+*{box-sizing:border-box;margin:0;padding:0}
+:root{
+  --ink:#1a1814;--ink2:#5a5650;--ink3:#9a9490;
+  --paper:#faf9f6;--paper2:#f2f0eb;
+  --red:#8b2020;--red-lt:#f5ebe8;
+  --gold:#7a6020;--gold-lt:#f5f0e0;
+  --teal:#1a5248;--teal-lt:#e5f2ee;
+  --border:rgba(26,24,20,0.1);--border2:rgba(26,24,20,0.2);
+}
+html,body{min-height:100vh;background:var(--paper);color:var(--ink);font-family:'DM Mono',monospace}
+.app{max-width:1040px;margin:0 auto;padding:2rem 1.5rem 4rem}
+
+/* ── Masthead ── */
+.masthead{display:flex;align-items:flex-end;justify-content:space-between;margin-bottom:1.75rem;padding-bottom:1.25rem;border-bottom:1px solid var(--border2)}
+.brand-top{font-family:'DM Serif Display',serif;font-size:32px;letter-spacing:-0.5px;line-height:1}
+.brand-top em{font-style:italic;color:var(--red)}
+.brand-sub{font-size:11px;letter-spacing:0.15em;color:var(--ink3);text-transform:uppercase;margin-top:3px;font-weight:300}
+.lang-tabs{display:flex}
+.ltab{padding:6px 16px;font-size:11px;letter-spacing:0.1em;text-transform:uppercase;cursor:pointer;border:1px solid var(--border2);background:transparent;color:var(--ink3);transition:all 0.2s;font-weight:300;font-family:'DM Mono',monospace}
+.ltab:first-child{border-radius:4px 0 0 4px}
+.ltab:last-child{border-radius:0 4px 4px 0}
+.ltab+.ltab{border-left:none}
+.ltab.active{background:var(--ink);color:var(--paper);border-color:var(--ink)}
+.ltab.add{font-size:18px;padding:3px 13px;letter-spacing:0}
+.ltab.add:hover{background:var(--paper2);color:var(--ink)}
+
+/* ── Toolbar ── */
+.toolbar{display:flex;align-items:center;justify-content:space-between;margin-bottom:1.25rem;gap:12px;flex-wrap:wrap}
+.type-row{display:flex;gap:6px}
+.tpill{padding:5px 14px;font-size:11px;letter-spacing:0.1em;text-transform:uppercase;cursor:pointer;border:1px solid var(--border);background:transparent;color:var(--ink3);border-radius:2px;transition:all 0.18s;font-weight:300;font-family:'DM Mono',monospace}
+.tpill.k.active{background:var(--red-lt);color:var(--red);border-color:var(--red)}
+.tpill.v.active{background:var(--teal-lt);color:var(--teal);border-color:var(--teal)}
+.tpill.g.active{background:var(--gold-lt);color:var(--gold);border-color:var(--gold)}
+.mode-nav{display:flex}
+.mnav{padding:7px 18px;font-size:11px;letter-spacing:0.08em;text-transform:uppercase;cursor:pointer;border:1px solid var(--border2);background:transparent;color:var(--ink3);transition:all 0.2s;font-weight:300;font-family:'DM Mono',monospace}
+.mnav:first-child{border-radius:4px 0 0 4px}
+.mnav:last-child{border-radius:0 4px 4px 0}
+.mnav+.mnav{border-left:none}
+.mnav.active{background:var(--ink);color:var(--paper);border-color:var(--ink)}
+
+/* ── Browse ── */
+.search-wrap{margin-bottom:1rem}
+.search-in{width:100%;padding:10px 14px;border:1px solid var(--border2);background:var(--paper);color:var(--ink);font-family:'DM Mono',monospace;font-size:13px;font-weight:300;border-radius:4px;outline:none;transition:border-color 0.2s}
+.search-in::placeholder{color:var(--ink3)}
+.search-in:focus{border-color:var(--ink)}
+.count-label{font-size:11px;color:var(--ink3);letter-spacing:0.08em;margin-bottom:10px;font-weight:300}
+
+.items-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(145px,1fr));gap:1px;background:var(--border2)}
+.icard{background:var(--paper);padding:1rem 0.9rem;cursor:pointer;transition:background 0.15s;position:relative;min-height:105px}
+.icard:hover{background:var(--paper2)}
+.icard-num{font-size:10px;color:var(--ink3);letter-spacing:0.08em;margin-bottom:5px;font-weight:300}
+.icard-jp{font-family:'Noto Serif JP',serif;font-size:32px;font-weight:400;color:var(--ink);line-height:1;margin-bottom:7px}
+.icard-on{font-size:11px;color:var(--ink3);font-weight:300;margin-bottom:2px;font-family:'Noto Serif JP',serif}
+.icard-en{font-size:11px;color:var(--ink2);font-weight:300;line-height:1.4;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}
+
+/* ── Pagination ── */
+.pagination{display:flex;align-items:center;justify-content:center;gap:4px;margin-top:1.5rem;flex-wrap:wrap}
+.pg-btn{padding:6px 11px;font-size:11px;letter-spacing:0.06em;cursor:pointer;border:1px solid var(--border2);background:transparent;color:var(--ink3);border-radius:2px;font-family:'DM Mono',monospace;font-weight:300;transition:all 0.15s}
+.pg-btn:hover:not(:disabled){border-color:var(--ink);color:var(--ink)}
+.pg-btn.active{background:var(--ink);color:var(--paper);border-color:var(--ink)}
+.pg-btn:disabled{opacity:0.25;cursor:default}
+.pg-sep{font-size:11px;color:var(--ink3);padding:0 2px}
+
+/* ── Detail ── */
+.detail-wrap{animation:fadein 0.2s ease}
+@keyframes fadein{from{opacity:0;transform:translateY(5px)}to{opacity:1;transform:none}}
+.back-btn{display:inline-flex;align-items:center;gap:5px;font-size:11px;letter-spacing:0.1em;text-transform:uppercase;color:var(--ink3);cursor:pointer;margin-bottom:1.25rem;border:none;background:none;padding:0;font-family:'DM Mono',monospace;font-weight:300}
+.back-btn:hover{color:var(--ink)}
+.detail-card{background:var(--paper);border:1px solid var(--border2);border-radius:4px;overflow:hidden}
+.detail-hero{padding:2rem 2rem 1.75rem;border-bottom:1px solid var(--border);display:flex;align-items:flex-end;gap:2rem;flex-wrap:wrap}
+.detail-kanji{font-family:'Noto Serif JP',serif;font-size:90px;font-weight:300;color:var(--ink);line-height:1}
+.detail-meta{flex:1;min-width:160px;padding-bottom:4px}
+.detail-en{font-family:'DM Serif Display',serif;font-size:22px;font-style:italic;color:var(--ink);margin-bottom:12px;line-height:1.3}
+.detail-readings{display:flex;flex-direction:column;gap:6px}
+.reading-row{display:flex;gap:10px;align-items:baseline}
+.reading-lbl{font-size:10px;letter-spacing:0.12em;text-transform:uppercase;color:var(--ink3);font-weight:300;min-width:30px}
+.reading-val{font-size:14px;color:var(--ink2);font-family:'Noto Serif JP',serif;font-weight:300}
+.detail-nav-row{display:flex;justify-content:space-between;align-items:center;padding:12px 2rem;border-top:1px solid var(--border)}
+.dnav{font-size:11px;letter-spacing:0.08em;text-transform:uppercase;color:var(--ink3);cursor:pointer;border:none;background:none;font-family:'DM Mono',monospace;font-weight:300;padding:4px 0}
+.dnav:hover{color:var(--ink)}
+.dnav:disabled{opacity:0.2;cursor:default}
+.dnav-pos{font-size:11px;color:var(--ink3);letter-spacing:0.1em}
+
+/* ── Flashcards ── */
+.fc-wrap{display:flex;flex-direction:column;gap:1.25rem}
+.fc-prog-row{display:flex;align-items:center;gap:10px}
+.fc-bar{flex:1;height:1px;background:var(--border2)}
+.fc-bar-fill{height:100%;background:var(--ink);transition:width 0.3s}
+.fc-pos{font-size:11px;color:var(--ink3);font-weight:300;white-space:nowrap}
+.fc-card{background:var(--paper);border:1px solid var(--border2);border-radius:4px;min-height:300px;display:flex;align-items:center;justify-content:center;cursor:pointer;padding:2.5rem;position:relative;user-select:none}
+.fc-jp{font-family:'Noto Serif JP',serif;font-size:80px;font-weight:300;color:var(--ink);line-height:1;text-align:center;margin-bottom:12px}
+.fc-reading{font-size:14px;color:var(--ink3);letter-spacing:0.08em;text-align:center;font-weight:300;font-family:'Noto Serif JP',serif}
+.fc-hint{position:absolute;bottom:14px;right:18px;font-size:10px;letter-spacing:0.12em;text-transform:uppercase;color:var(--ink3);font-weight:300}
+.fc-answer{text-align:center;width:100%}
+.fc-ans-en{font-family:'DM Serif Display',serif;font-size:28px;font-style:italic;color:var(--ink);margin-bottom:1.25rem}
+.fc-ans-row{font-size:13px;color:var(--ink3);font-family:'Noto Serif JP',serif;font-weight:300;margin-bottom:5px;line-height:1.8}
+.fc-btns{display:grid;grid-template-columns:1fr 1fr;gap:8px}
+.btn-again{padding:12px;border:1px solid var(--border2);background:transparent;color:var(--red);font-family:'DM Mono',monospace;font-size:11px;letter-spacing:0.1em;text-transform:uppercase;cursor:pointer;border-radius:4px;font-weight:300;transition:background 0.15s}
+.btn-again:hover{background:var(--red-lt)}
+.btn-good{padding:12px;border:1px solid var(--teal);background:transparent;color:var(--teal);font-family:'DM Mono',monospace;font-size:11px;letter-spacing:0.1em;text-transform:uppercase;cursor:pointer;border-radius:4px;font-weight:300;transition:background 0.15s}
+.btn-good:hover{background:var(--teal-lt)}
+
+/* ── Quiz ── */
+.q-strip{display:grid;grid-template-columns:repeat(3,1fr);gap:1px;background:var(--border);border-radius:4px;overflow:hidden;margin-bottom:1.25rem}
+.q-stat{background:var(--paper);padding:12px 10px;text-align:center}
+.q-num{font-family:'DM Serif Display',serif;font-size:24px;color:var(--ink)}
+.q-lbl{font-size:10px;letter-spacing:0.1em;text-transform:uppercase;color:var(--ink3);margin-top:2px;font-weight:300}
+.q-card{background:var(--paper);border:1px solid var(--border2);border-radius:4px;padding:2rem}
+.q-prompt{font-size:10px;letter-spacing:0.15em;text-transform:uppercase;color:var(--ink3);margin-bottom:1rem;font-weight:300}
+.q-kanji{font-family:'Noto Serif JP',serif;font-size:56px;font-weight:300;color:var(--ink);margin-bottom:6px;line-height:1}
+.q-reading{font-size:13px;color:var(--ink3);margin-bottom:1.5rem;font-weight:300;letter-spacing:0.05em;font-family:'Noto Serif JP',serif}
+.q-opts{display:grid;grid-template-columns:1fr 1fr;gap:8px}
+.q-opt{padding:12px 14px;border:1px solid var(--border2);background:var(--paper);color:var(--ink2);font-family:'DM Mono',monospace;font-size:12px;cursor:pointer;text-align:left;border-radius:4px;font-weight:300;line-height:1.5;transition:all 0.13s}
+.q-opt:hover:not(:disabled){border-color:var(--ink);color:var(--ink);background:var(--paper2)}
+.q-opt:disabled{cursor:default}
+.q-opt.correct{border-color:var(--teal);background:var(--teal-lt);color:var(--teal)}
+.q-opt.wrong{border-color:var(--red);background:var(--red-lt);color:var(--red)}
+.q-fb{padding:11px 14px;border-radius:4px;font-size:12px;font-weight:300;line-height:1.6;margin-top:8px}
+.q-fb.c{background:var(--teal-lt);color:var(--teal);border-left:2px solid var(--teal)}
+.q-fb.w{background:var(--red-lt);color:var(--red);border-left:2px solid var(--red)}
+.next-btn{padding:10px 22px;border:1px solid var(--ink);background:transparent;color:var(--ink);font-family:'DM Mono',monospace;font-size:11px;letter-spacing:0.1em;text-transform:uppercase;cursor:pointer;border-radius:4px;margin-top:10px;font-weight:300;transition:all 0.2s}
+.next-btn:hover{background:var(--ink);color:var(--paper)}
+
+/* ── Results ── */
+.result{background:var(--paper);border:1px solid var(--border2);border-radius:4px;padding:3rem 2rem;text-align:center}
+.result-pct{font-family:'DM Serif Display',serif;font-size:72px;line-height:1;margin-bottom:4px}
+.result-lbl{font-size:11px;letter-spacing:0.12em;text-transform:uppercase;color:var(--ink3);font-weight:300}
+.result-grid{display:grid;grid-template-columns:1fr 1fr;gap:1px;background:var(--border);border-radius:4px;overflow:hidden;margin:1.5rem 0}
+.rg{background:var(--paper);padding:16px;text-align:center}
+.rg-n{font-family:'DM Serif Display',serif;font-size:32px}
+.rg-l{font-size:10px;letter-spacing:0.1em;text-transform:uppercase;color:var(--ink3);font-weight:300;margin-top:3px}
+
+/* ── Empty / Loading ── */
+.empty{padding:4rem 1rem;text-align:center}
+.empty-k{font-family:'Noto Serif JP',serif;font-size:80px;font-weight:300;color:var(--border2);display:block;margin-bottom:1rem}
+.empty-t{font-size:12px;color:var(--ink3);font-weight:300;line-height:2}
+.loading{padding:4rem 1rem;text-align:center;font-size:12px;color:var(--ink3);letter-spacing:0.15em;text-transform:uppercase;font-weight:300;animation:pulse 1.4s ease infinite}
+@keyframes pulse{0%,100%{opacity:0.3}50%{opacity:1}}
+</style>
+</head>
+<body>
+<div class="app">
+
+  <div class="masthead">
+    <div>
+      <div class="brand-top"><em>Lexicon</em></div>
+      <div class="brand-sub">Language study suite</div>
+    </div>
+    <div class="lang-tabs">
+      <button class="ltab active">日本語</button>
+      <button class="ltab add" title="Add language">+</button>
+    </div>
+  </div>
+
+  <div class="toolbar">
+    <div class="type-row">
+      <button class="tpill k active" onclick="switchType('kanji',this)">漢字 Kanji</button>
+      <button class="tpill v" onclick="switchType('vocab',this)">語彙 Vocab</button>
+      <button class="tpill g" onclick="switchType('grammar',this)">文法 Grammar</button>
+    </div>
+    <div class="mode-nav">
+      <button class="mnav active" onclick="switchMode('browse')">Browse</button>
+      <button class="mnav" onclick="switchMode('cards')">Cards</button>
+      <button class="mnav" onclick="switchMode('quiz')">Quiz</button>
+    </div>
+  </div>
+
+  <div id="browse-mode">
+    <div class="search-wrap">
+      <input class="search-in" id="search" placeholder="Search kanji, reading, or meaning…" oninput="onSearch()">
+    </div>
+    <div id="count-lbl" class="count-label"></div>
+    <div id="browse-body"></div>
+    <div id="pagination"></div>
+  </div>
+  <div id="cards-mode" style="display:none"><div id="cards-body"></div></div>
+  <div id="quiz-mode"  style="display:none"><div id="quiz-body"></div></div>
+
+</div>
+
+<script>
+/* ── State ── */
+const PER_PAGE = 50;
+let ALL_DATA   = [];   // loaded from JSON
+let mode       = 'browse';
+let type       = 'kanji';
+let filtered   = [];
+let detailIdx  = null;
+let currentPage = 1;
+
+let fcIdx = 0, fcFlipped = false, fcOk = 0, fcNo = 0;
+let qIdx = 0,  qOk = 0,  qTotal = 0, qItems = [];
+
+/* ── Data loading ── */
+async function loadData(file) {
+  const body = document.getElementById('browse-body');
+  body.innerHTML = '<div class="loading">Loading · 読み込み中</div>';
+  try {
+    const r = await fetch(file);
+    if (!r.ok) throw new Error(r.status);
+    ALL_DATA = await r.json();
+    filtered = ALL_DATA;
+    currentPage = 1;
+    renderBrowse();
+  } catch(e) {
+    body.innerHTML = `<div class="empty"><span class="empty-k">×</span><div class="empty-t">Could not load ${file}<br>Make sure you are running a local server.</div></div>`;
+  }
+}
+
+/* ── Type / Mode switching ── */
+function switchType(t, el) {
+  type = t;
+  document.querySelectorAll('.tpill').forEach(b => b.classList.remove('active'));
+  el.classList.add('active');
+  detailIdx = null;
+  ALL_DATA  = [];
+  filtered  = [];
+  document.getElementById('count-lbl').textContent = '';
+  document.getElementById('pagination').innerHTML  = '';
+
+  const files   = { kanji:'data/jp_kanji.json', vocab:'data/jp_vocab.json', grammar:'data/jp_grammar.json' };
+  const glyphs  = { kanji:'漢', vocab:'語', grammar:'文' };
+  const coming  = { vocab:true, grammar:true };
+
+  if (coming[t]) {
+    document.getElementById('browse-body').innerHTML =
+      `<div class="empty"><span class="empty-k">${glyphs[t]}</span><div class="empty-t">Coming soon.<br>Upload a PDF to populate this section.</div></div>`;
+    return;
+  }
+  loadData(files[t]);
+}
+
+function switchMode(m) {
+  mode = m;
+  document.querySelectorAll('.mnav').forEach((b,i) => b.classList.toggle('active', ['browse','cards','quiz'][i] === m));
+  document.getElementById('browse-mode').style.display = m === 'browse' ? '' : 'none';
+  document.getElementById('cards-mode').style.display  = m === 'cards'  ? '' : 'none';
+  document.getElementById('quiz-mode').style.display   = m === 'quiz'   ? '' : 'none';
+  if (m === 'cards') startCards();
+  if (m === 'quiz')  startQuiz();
+}
+
+/* ── Browse ── */
+function onSearch() {
+  const q = document.getElementById('search').value.toLowerCase();
+  filtered = ALL_DATA.filter(k =>
+    !q || k.jp.includes(q) || k.on.toLowerCase().includes(q) ||
+    k.kun.includes(q) || k.en.toLowerCase().includes(q)
+  );
+  currentPage = 1;
+  detailIdx   = null;
+  renderBrowse();
+}
+
+function renderBrowse() {
+  if (detailIdx !== null) { showDetail(detailIdx); return; }
+
+  const total = filtered.length;
+  const pages = Math.ceil(total / PER_PAGE);
+  const start = (currentPage - 1) * PER_PAGE;
+  const slice = filtered.slice(start, start + PER_PAGE);
+
+  document.getElementById('count-lbl').textContent = `${total} kanji`;
+  document.getElementById('browse-body').innerHTML =
+    '<div class="items-grid">' +
+    slice.map((k, i) =>
+      `<div class="icard" onclick="openDetail(${start + i})">
+        <div class="icard-num">${k.n}</div>
+        <div class="icard-jp">${k.jp}</div>
+        <div class="icard-on">${k.on}</div>
+        <div class="icard-en">${k.en}</div>
+      </div>`
+    ).join('') + '</div>';
+
+  renderPagination(pages);
+}
+
+function renderPagination(pages) {
+  if (pages <= 1) { document.getElementById('pagination').innerHTML = ''; return; }
+  const c = currentPage;
+  let html = '';
+  const btn = (p, label, disabled=false, active=false) =>
+    `<button class="pg-btn${active?' active':''}" onclick="goPage(${p})" ${disabled?'disabled':''}>${label}</button>`;
+
+  html += btn(c-1, '←', c===1);
+  for (let p = 1; p <= pages; p++) {
+    if (p === 1 || p === pages || Math.abs(p - c) <= 2) {
+      html += btn(p, p, false, p===c);
+    } else if (Math.abs(p - c) === 3) {
+      html += `<span class="pg-sep">…</span>`;
+    }
+  }
+  html += btn(c+1, '→', c===pages);
+  document.getElementById('pagination').innerHTML = `<div class="pagination">${html}</div>`;
+}
+
+function goPage(p) { currentPage = p; renderBrowse(); window.scrollTo(0,0); }
+
+function openDetail(i) { detailIdx = i; renderBrowse(); }
+function closeDetail()  { detailIdx = null; renderBrowse(); }
+
+function showDetail(i) {
+  const k = filtered[i];
+  document.getElementById('count-lbl').textContent = '';
+  document.getElementById('pagination').innerHTML  = '';
+  document.getElementById('browse-body').innerHTML = `
+    <button class="back-btn" onclick="closeDetail()">← All kanji</button>
+    <div class="detail-card detail-wrap">
+      <div class="detail-hero">
+        <div class="detail-kanji">${k.jp}</div>
+        <div class="detail-meta">
+          <div class="detail-en">${k.en}</div>
+          <div class="detail-readings">
+            <div class="reading-row">
+              <span class="reading-lbl">On</span>
+              <span class="reading-val">${k.on}</span>
+            </div>
+            <div class="reading-row">
+              <span class="reading-lbl">Kun</span>
+              <span class="reading-val">${k.kun}</span>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="detail-nav-row">
+        <button class="dnav" onclick="openDetail(${i-1})" ${i===0?'disabled':''}>← Prev</button>
+        <span class="dnav-pos">${i+1} / ${filtered.length}</span>
+        <button class="dnav" onclick="openDetail(${i+1})" ${i===filtered.length-1?'disabled':''}>Next →</button>
+      </div>
+    </div>`;
+}
+
+/* ── Flashcards ── */
+function startCards() {
+  if (!ALL_DATA.length) {
+    document.getElementById('cards-body').innerHTML =
+      '<div class="empty"><span class="empty-k">暗</span><div class="empty-t">Switch to Browse first to load kanji.</div></div>';
+    return;
+  }
+  fcIdx = 0; fcFlipped = false; fcOk = 0; fcNo = 0;
+  showCard();
+}
+
+function showCard() {
+  if (fcIdx >= ALL_DATA.length) {
+    document.getElementById('cards-body').innerHTML = `
+      <div class="result detail-wrap">
+        <div class="result-pct">${Math.round(fcOk/ALL_DATA.length*100)}<span style="font-size:32px">%</span></div>
+        <div class="result-lbl">Deck complete · 完了</div>
+        <div class="result-grid">
+          <div class="rg"><div class="rg-n" style="color:var(--teal)">${fcOk}</div><div class="rg-l">Got it</div></div>
+          <div class="rg"><div class="rg-n" style="color:var(--red)">${fcNo}</div><div class="rg-l">Again</div></div>
+        </div>
+        <button class="next-btn" onclick="startCards()">Restart deck</button>
+      </div>`;
+    return;
+  }
+  const k   = ALL_DATA[fcIdx];
+  const pct = Math.round(fcIdx / ALL_DATA.length * 100);
+  fcFlipped = false;
+  document.getElementById('cards-body').innerHTML = `
+    <div class="fc-wrap">
+      <div class="fc-prog-row">
+        <div class="fc-bar"><div class="fc-bar-fill" style="width:${pct}%"></div></div>
+        <div class="fc-pos">${fcIdx+1} / ${ALL_DATA.length}</div>
+      </div>
+      <div class="fc-card" id="fc-card" onclick="flipCard()">
+        <div id="fc-inner" style="width:100%;text-align:center">
+          <div class="fc-jp">${k.jp}</div>
+          <div class="fc-reading">${k.on}</div>
+        </div>
+        <div class="fc-hint" id="fc-hint">tap to reveal</div>
+      </div>
+      <div class="fc-btns" id="fc-btns" style="display:none">
+        <button class="btn-again" onclick="markCard(false)">× Again</button>
+        <button class="btn-good"  onclick="markCard(true)">✓ Got it</button>
+      </div>
+    </div>`;
+}
+
+function flipCard() {
+  if (fcFlipped) return;
+  fcFlipped = true;
+  const k = ALL_DATA[fcIdx];
+  document.getElementById('fc-inner').innerHTML = `
+    <div class="fc-answer">
+      <div class="fc-ans-en">${k.en}</div>
+      <div class="fc-ans-row">音読み：${k.on}</div>
+      <div class="fc-ans-row">訓読み：${k.kun}</div>
+    </div>`;
+  document.getElementById('fc-hint').style.display = 'none';
+  document.getElementById('fc-btns').style.display = 'grid';
+}
+
+function markCard(good) { if(good) fcOk++; else fcNo++; fcIdx++; showCard(); }
+
+/* ── Quiz ── */
+function startQuiz() {
+  if (!ALL_DATA.length) {
+    document.getElementById('quiz-body').innerHTML =
+      '<div class="empty"><span class="empty-k">試</span><div class="empty-t">Switch to Browse first to load kanji.</div></div>';
+    return;
+  }
+  qIdx = 0; qOk = 0; qTotal = 0;
+  qItems = [...ALL_DATA].sort(() => Math.random() - 0.5);
+  showQ();
+}
+
+function showQ() {
+  if (qIdx >= qItems.length) {
+    const pct = Math.round(qOk / qTotal * 100);
+    document.getElementById('quiz-body').innerHTML = `
+      <div class="result detail-wrap">
+        <div class="result-pct">${pct}<span style="font-size:32px">%</span></div>
+        <div class="result-lbl">Quiz complete · 終了</div>
+        <div class="result-grid">
+          <div class="rg"><div class="rg-n" style="color:var(--teal)">${qOk}</div><div class="rg-l">Correct</div></div>
+          <div class="rg"><div class="rg-n" style="color:var(--red)">${qTotal-qOk}</div><div class="rg-l">Wrong</div></div>
+        </div>
+        <button class="next-btn" onclick="startQuiz()">Try again</button>
+      </div>`;
+    return;
+  }
+  const k    = qItems[qIdx];
+  const wrong = ALL_DATA.filter(x => x.jp !== k.jp)
+                        .sort(() => Math.random()-0.5)
+                        .slice(0, 3)
+                        .map(x => x.en);
+  const opts = [...wrong, k.en].sort(() => Math.random() - 0.5);
+
+  document.getElementById('quiz-body').innerHTML = `
+    <div class="q-strip">
+      <div class="q-stat"><div class="q-num">${qIdx+1}/${qItems.length}</div><div class="q-lbl">Question</div></div>
+      <div class="q-stat"><div class="q-num" style="color:var(--teal)">${qOk}</div><div class="q-lbl">Correct</div></div>
+      <div class="q-stat"><div class="q-num" style="color:var(--red)">${qTotal-qOk}</div><div class="q-lbl">Wrong</div></div>
+    </div>
+    <div class="q-card">
+      <div class="q-prompt">What is the meaning of this kanji?</div>
+      <div class="q-kanji">${k.jp}</div>
+      <div class="q-reading">${k.on} · ${k.kun}</div>
+      <div class="q-opts" id="q-opts">
+        ${opts.map(o =>
+          `<button class="q-opt"
+            onclick="checkQ(this,'${o.replace(/'/g,"\\'")}','${k.en.replace(/'/g,"\\'")}')">
+            ${o}
+          </button>`
+        ).join('')}
+      </div>
+      <div id="q-fb"></div>
+    </div>`;
+}
+
+function checkQ(btn, chosen, correct) {
+  document.querySelectorAll('.q-opt').forEach(b => b.disabled = true);
+  const ok = chosen === correct;
+  if (ok) qOk++;
+  qTotal++;
+  btn.classList.add(ok ? 'correct' : 'wrong');
+  if (!ok) document.querySelectorAll('.q-opt').forEach(b => {
+    if (b.textContent.trim() === correct) b.classList.add('correct');
+  });
+  document.getElementById('q-fb').innerHTML = `
+    <div class="q-fb ${ok?'c':'w'}">${ok ? '正解 — Correct' : '不正解 — Correct: ' + correct}</div>
+    <button class="next-btn" onclick="nextQ()">Next →</button>`;
+}
+
+function nextQ() { qIdx++; showQ(); }
+
+/* ── Init ── */
+loadData('data/jp_kanji.json');
+</script>
+</body>
+</html>
