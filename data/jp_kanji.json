@@ -1,0 +1,10530 @@
+[
+  {
+    "n": 1,
+    "jp": "氏",
+    "on": "シ",
+    "kun": "うじ",
+    "en": "family name, surname, clan"
+  },
+  {
+    "n": 2,
+    "jp": "統",
+    "on": "トウ",
+    "kun": "す(べる)",
+    "en": "ruling, governing"
+  },
+  {
+    "n": 3,
+    "jp": "基",
+    "on": "キ",
+    "kun": "もと、もとい",
+    "en": "fundamentals, counter for machines, foundation"
+  },
+  {
+    "n": 4,
+    "jp": "価",
+    "on": "カ",
+    "kun": "あたい",
+    "en": "value, price"
+  },
+  {
+    "n": 5,
+    "jp": "提",
+    "on": "テイ",
+    "kun": "さ(げる)",
+    "en": "propose, take along, carry in hand"
+  },
+  {
+    "n": 6,
+    "jp": "挙",
+    "on": "キョ",
+    "kun": "あ(げる)、こぞ(る)",
+    "en": "raise, plan, project, behavior, actions"
+  },
+  {
+    "n": 7,
+    "jp": "応",
+    "on": "オウ",
+    "kun": "こた(える)",
+    "en": "apply, answer, yes, OK, reply, accept"
+  },
+  {
+    "n": 8,
+    "jp": "企",
+    "on": "キ",
+    "kun": "くわだ(てる)、たくら(む)",
+    "en": "undertake, scheme, design, attempt, plan"
+  },
+  {
+    "n": 9,
+    "jp": "検",
+    "on": "ケン",
+    "kun": "しら(べる)",
+    "en": "examination, investigate"
+  },
+  {
+    "n": 10,
+    "jp": "藤",
+    "on": "トウ",
+    "kun": "ふじ",
+    "en": "wisteria"
+  },
+  {
+    "n": 11,
+    "jp": "沢",
+    "on": "タク",
+    "kun": "さわ",
+    "en": "swamp, marsh, brilliance, grace"
+  },
+  {
+    "n": 12,
+    "jp": "裁",
+    "on": "サイ",
+    "kun": "た(つ)、さば(く)",
+    "en": "tailor, judge, decision, cut out (pattern)"
+  },
+  {
+    "n": 13,
+    "jp": "証",
+    "on": "ショウ",
+    "kun": "あかし",
+    "en": "evidence, proof, certificate"
+  },
+  {
+    "n": 14,
+    "jp": "援",
+    "on": "エン",
+    "kun": "—",
+    "en": "abet, help, save"
+  },
+  {
+    "n": 15,
+    "jp": "可",
+    "on": "カ",
+    "kun": "べ(き)",
+    "en": "can, passable, mustn't, should not"
+  },
+  {
+    "n": 16,
+    "jp": "施",
+    "on": "シ、セ",
+    "kun": "ほどこ(す)",
+    "en": "give, bestow, perform, alms"
+  },
+  {
+    "n": 17,
+    "jp": "井",
+    "on": "セイ、ショウ",
+    "kun": "い",
+    "en": "well, well crib, town, community"
+  },
+  {
+    "n": 18,
+    "jp": "護",
+    "on": "ゴ",
+    "kun": "まも(る)",
+    "en": "safeguard, protect"
+  },
+  {
+    "n": 19,
+    "jp": "展",
+    "on": "テン",
+    "kun": "—",
+    "en": "unfold, expand"
+  },
+  {
+    "n": 20,
+    "jp": "態",
+    "on": "タイ",
+    "kun": "わざ(と)",
+    "en": "attitude, condition"
+  },
+  {
+    "n": 21,
+    "jp": "鮮",
+    "on": "セン",
+    "kun": "あざ(やか)",
+    "en": "fresh, vivid, clear"
+  },
+  {
+    "n": 22,
+    "jp": "視",
+    "on": "シ",
+    "kun": "み(る)",
+    "en": "inspection, regard as, see, look at"
+  },
+  {
+    "n": 23,
+    "jp": "条",
+    "on": "ジョウ、チョウ、デキ",
+    "kun": "えだ、すじ",
+    "en": "article, clause, counter for articles"
+  },
+  {
+    "n": 24,
+    "jp": "幹",
+    "on": "カン",
+    "kun": "みき",
+    "en": "tree trunk, main part, talent, capability"
+  },
+  {
+    "n": 25,
+    "jp": "独",
+    "on": "ドク",
+    "kun": "ひと(り)",
+    "en": "single, alone, spontaneously"
+  },
+  {
+    "n": 26,
+    "jp": "宮",
+    "on": "キュウ、グウ、ク",
+    "kun": "みや",
+    "en": "Shinto shrine, constellations, palace, princess"
+  },
+  {
+    "n": 27,
+    "jp": "率",
+    "on": "ソツ、リツ",
+    "kun": "ひき(いる)",
+    "en": "ratio, rate, proportion, %, factor, lead"
+  },
+  {
+    "n": 28,
+    "jp": "衛",
+    "on": "エイ",
+    "kun": "—",
+    "en": "defense, protection"
+  },
+  {
+    "n": 29,
+    "jp": "張",
+    "on": "チョウ",
+    "kun": "は(る)",
+    "en": "lengthen, stretch, spread, put up (tent)"
+  },
+  {
+    "n": 30,
+    "jp": "監",
+    "on": "カン",
+    "kun": "—",
+    "en": "oversee, official, govt office, rule, administer"
+  },
+  {
+    "n": 31,
+    "jp": "環",
+    "on": "カン",
+    "kun": "わ",
+    "en": "ring, circle, link, wheel"
+  },
+  {
+    "n": 32,
+    "jp": "審",
+    "on": "シン",
+    "kun": "つまび(らか)、つぶさ(に)",
+    "en": "hearing, judge, trial"
+  },
+  {
+    "n": 33,
+    "jp": "義",
+    "on": "ギ",
+    "kun": "—",
+    "en": "righteousness, justice, morality, honor, loyalty, meaning"
+  },
+  {
+    "n": 34,
+    "jp": "訴",
+    "on": "ソ",
+    "kun": "うった(える)",
+    "en": "accusation, sue, complain of pain, appeal to"
+  },
+  {
+    "n": 35,
+    "jp": "株",
+    "on": "シュ",
+    "kun": "かぶ",
+    "en": "stocks, stump, shares, stock, counter for small plants"
+  },
+  {
+    "n": 36,
+    "jp": "姿",
+    "on": "シ",
+    "kun": "すがた",
+    "en": "figure, form, shape"
+  },
+  {
+    "n": 37,
+    "jp": "閣",
+    "on": "カク",
+    "kun": "—",
+    "en": "tower, tall building, palace"
+  },
+  {
+    "n": 38,
+    "jp": "韓",
+    "on": "カン",
+    "kun": "から、いげた",
+    "en": "Korea"
+  },
+  {
+    "n": 39,
+    "jp": "衆",
+    "on": "シュウ、シュ",
+    "kun": "おお(い)",
+    "en": "masses, great numbers, multitude, populace"
+  },
+  {
+    "n": 40,
+    "jp": "評",
+    "on": "ヒョウ",
+    "kun": "—",
+    "en": "evaluate, criticism, comment"
+  },
+  {
+    "n": 41,
+    "jp": "岡",
+    "on": "コウ",
+    "kun": "おか",
+    "en": "mount, hill, knoll"
+  },
+  {
+    "n": 42,
+    "jp": "影",
+    "on": "エイ",
+    "kun": "かげ",
+    "en": "shadow, silhouette, phantom"
+  },
+  {
+    "n": 43,
+    "jp": "松",
+    "on": "ショウ",
+    "kun": "まつ",
+    "en": "pine tree"
+  },
+  {
+    "n": 44,
+    "jp": "撃",
+    "on": "ゲキ",
+    "kun": "う(つ)",
+    "en": "beat, attack, defeat, conquer"
+  },
+  {
+    "n": 45,
+    "jp": "佐",
+    "on": "サ",
+    "kun": "—",
+    "en": "assistant, help"
+  },
+  {
+    "n": 46,
+    "jp": "核",
+    "on": "カク",
+    "kun": "—",
+    "en": "nucleus, core, kernel"
+  },
+  {
+    "n": 47,
+    "jp": "整",
+    "on": "セイ",
+    "kun": "ととの(える)",
+    "en": "organize, arranging, tune, tone, meter, key (music)"
+  },
+  {
+    "n": 48,
+    "jp": "融",
+    "on": "ユウ",
+    "kun": "と(ける)",
+    "en": "dissolve, melt"
+  },
+  {
+    "n": 49,
+    "jp": "製",
+    "on": "セイ",
+    "kun": "—",
+    "en": "made in..., manufacture"
+  },
+  {
+    "n": 50,
+    "jp": "票",
+    "on": "ヒョウ",
+    "kun": "—",
+    "en": "ballot, label, ticket, sign"
+  },
+  {
+    "n": 51,
+    "jp": "渉",
+    "on": "ショウ",
+    "kun": "わた(る)",
+    "en": "ford, go cross, transit, ferry, import, involve"
+  },
+  {
+    "n": 52,
+    "jp": "響",
+    "on": "キョウ",
+    "kun": "ひび(く)",
+    "en": "echo, sound, resound, ring, vibrate"
+  },
+  {
+    "n": 53,
+    "jp": "推",
+    "on": "スイ",
+    "kun": "お(す)",
+    "en": "conjecture, infer, guess, suppose, support, push (for)"
+  },
+  {
+    "n": 54,
+    "jp": "請",
+    "on": "セイ、シン、ショウ",
+    "kun": "こ(う)、う(ける)",
+    "en": "solicit, invite, ask"
+  },
+  {
+    "n": 55,
+    "jp": "器",
+    "on": "キ",
+    "kun": "うつわ",
+    "en": "utensil, vessel, receptacle, implement, instrument, ability, container"
+  },
+  {
+    "n": 56,
+    "jp": "士",
+    "on": "シ",
+    "kun": "さむらい",
+    "en": "gentleman, scholar, samurai"
+  },
+  {
+    "n": 57,
+    "jp": "討",
+    "on": "トウ",
+    "kun": "う(つ)",
+    "en": "chastise, attack, defeat, destroy, conquer"
+  },
+  {
+    "n": 58,
+    "jp": "攻",
+    "on": "コウ",
+    "kun": "せ(める)",
+    "en": "aggression, attack, criticize, polish"
+  },
+  {
+    "n": 59,
+    "jp": "崎",
+    "on": "キ",
+    "kun": "さき、さい、みさき",
+    "en": "promontory, cape, spit"
+  },
+  {
+    "n": 60,
+    "jp": "督",
+    "on": "トク",
+    "kun": "—",
+    "en": "coach, command, urge, lead, supervise"
+  },
+  {
+    "n": 61,
+    "jp": "授",
+    "on": "ジュ",
+    "kun": "さず(ける)",
+    "en": "impart, instruct, grant, confer"
+  },
+  {
+    "n": 62,
+    "jp": "催",
+    "on": "サイ",
+    "kun": "もよう(す)、もよお(す)",
+    "en": "sponsor, hold (a meeting), give (a dinner)"
+  },
+  {
+    "n": 63,
+    "jp": "及",
+    "on": "キュウ",
+    "kun": "およ(ぶ)、および",
+    "en": "reach out, exert, exercise, cause"
+  },
+  {
+    "n": 64,
+    "jp": "憲",
+    "on": "ケン",
+    "kun": "—",
+    "en": "constitution, law"
+  },
+  {
+    "n": 65,
+    "jp": "離",
+    "on": "リ",
+    "kun": "はな(れる)",
+    "en": "detach, separation, disjoin, digress"
+  },
+  {
+    "n": 66,
+    "jp": "激",
+    "on": "ゲキ",
+    "kun": "はげ(しい)",
+    "en": "violent, get excited, enraged, chafe, incite"
+  },
+  {
+    "n": 67,
+    "jp": "摘",
+    "on": "テキ",
+    "kun": "つ(む)",
+    "en": "pinch, pick, pluck, trim, clip, summarize"
+  },
+  {
+    "n": 68,
+    "jp": "系",
+    "on": "ケイ",
+    "kun": "—",
+    "en": "lineage, system"
+  },
+  {
+    "n": 69,
+    "jp": "批",
+    "on": "ヒ",
+    "kun": "—",
+    "en": "criticism, strike"
+  },
+  {
+    "n": 70,
+    "jp": "郎",
+    "on": "ロウ、リョウ",
+    "kun": "おとこ",
+    "en": "son, counter for sons"
+  },
+  {
+    "n": 71,
+    "jp": "健",
+    "on": "ケン",
+    "kun": "すこ(やか)",
+    "en": "healthy, health, strength, persistence"
+  },
+  {
+    "n": 72,
+    "jp": "従",
+    "on": "ジュウ、ショウ、ジュ",
+    "kun": "したが(う)、より",
+    "en": "accompany, obey, submit to, comply, follow, secondary, subordinate"
+  },
+  {
+    "n": 73,
+    "jp": "修",
+    "on": "シュウ、シュ",
+    "kun": "おさ(める)",
+    "en": "discipline, conduct oneself well, study, master"
+  },
+  {
+    "n": 74,
+    "jp": "隊",
+    "on": "タイ",
+    "kun": "—",
+    "en": "regiment, party, company, squad"
+  },
+  {
+    "n": 75,
+    "jp": "織",
+    "on": "ショク、シキ",
+    "kun": "お(る)、おり",
+    "en": "weave, fabric"
+  },
+  {
+    "n": 76,
+    "jp": "拡",
+    "on": "カク、コウ",
+    "kun": "ひろ(がる)",
+    "en": "broaden, extend, expand, enlarge"
+  },
+  {
+    "n": 77,
+    "jp": "故",
+    "on": "コ",
+    "kun": "ゆえ、ふる(い)、もと",
+    "en": "happenstance, especially, intentionally, reason, cause, the late, therefore"
+  },
+  {
+    "n": 78,
+    "jp": "振",
+    "on": "シン",
+    "kun": "ふ(る)",
+    "en": "shake, wave, wag, swing"
+  },
+  {
+    "n": 79,
+    "jp": "弁",
+    "on": "ベン、ヘン",
+    "kun": "かんむり、わきま(える)、はなびら",
+    "en": "valve, petal, braid, speech, dialect, discrimination, conical cap"
+  },
+  {
+    "n": 80,
+    "jp": "就",
+    "on": "シュウ、ジュ",
+    "kun": "つ(く)",
+    "en": "concerning, settle, take position, depart, study, per"
+  },
+  {
+    "n": 81,
+    "jp": "異",
+    "on": "イ",
+    "kun": "こと、こと(なる)、け",
+    "en": "uncommon, different, queerness, strangeness, wonderful, curious, unusual"
+  },
+  {
+    "n": 82,
+    "jp": "献",
+    "on": "ケン、コン",
+    "kun": "たてまつ(る)",
+    "en": "offering, counter for drinks, present, offer"
+  },
+  {
+    "n": 83,
+    "jp": "厳",
+    "on": "ゲン、ゴン",
+    "kun": "おごそ(か)、きび(しい)、いか(めしい)",
+    "en": "stern, strictness, severity, rigidity"
+  },
+  {
+    "n": 84,
+    "jp": "維",
+    "on": "イ",
+    "kun": "—",
+    "en": "fiber, tie, rope"
+  },
+  {
+    "n": 85,
+    "jp": "浜",
+    "on": "ヒン",
+    "kun": "はま",
+    "en": "seacoast, beach, seashore"
+  },
+  {
+    "n": 86,
+    "jp": "遺",
+    "on": "イ、ユイ",
+    "kun": "のこ(す)",
+    "en": "bequeath, leave behind, reserve"
+  },
+  {
+    "n": 87,
+    "jp": "塁",
+    "on": "ルイ、ライ、スイ",
+    "kun": "とりで",
+    "en": "bases, fort, rampart, walls, base(ball)"
+  },
+  {
+    "n": 88,
+    "jp": "邦",
+    "on": "ホウ",
+    "kun": "くに",
+    "en": "home country, country, Japan"
+  },
+  {
+    "n": 89,
+    "jp": "素",
+    "on": "ソ、ス",
+    "kun": "もと",
+    "en": "elementary, principle, naked, uncovered"
+  },
+  {
+    "n": 90,
+    "jp": "遣",
+    "on": "ケン",
+    "kun": "つか(う)、や(る)",
+    "en": "dispatch, send, give, donate, do, undertake"
+  },
+  {
+    "n": 91,
+    "jp": "抗",
+    "on": "コウ",
+    "kun": "あらが(う)",
+    "en": "confront, resist, defy, oppose"
+  },
+  {
+    "n": 92,
+    "jp": "模",
+    "on": "モ、ボ",
+    "kun": "—",
+    "en": "imitation, copy, mock"
+  },
+  {
+    "n": 93,
+    "jp": "雄",
+    "on": "ユウ",
+    "kun": "お-、おす、おん",
+    "en": "masculine, male, hero, leader, superiority, excellence"
+  },
+  {
+    "n": 94,
+    "jp": "益",
+    "on": "エキ、ヤク",
+    "kun": "ま(す)",
+    "en": "benefit, gain, profit, advantage"
+  },
+  {
+    "n": 95,
+    "jp": "緊",
+    "on": "キン",
+    "kun": "し(める)",
+    "en": "tense, solid, hard, reliable, tight"
+  },
+  {
+    "n": 96,
+    "jp": "標",
+    "on": "ヒョウ",
+    "kun": "しるべ、しるし",
+    "en": "signpost, seal, mark, stamp, imprint, symbol, emblem, trademark"
+  },
+  {
+    "n": 97,
+    "jp": "宣",
+    "on": "セン",
+    "kun": "のたま(う)",
+    "en": "proclaim, say, announce"
+  },
+  {
+    "n": 98,
+    "jp": "昭",
+    "on": "ショウ",
+    "kun": "—",
+    "en": "shining, bright"
+  },
+  {
+    "n": 99,
+    "jp": "廃",
+    "on": "ハイ",
+    "kun": "すた(れる)",
+    "en": "abolish, obsolete, cessation, discarding, abandon"
+  },
+  {
+    "n": 100,
+    "jp": "伊",
+    "on": "イ",
+    "kun": "かれ",
+    "en": "Italy, that one"
+  },
+  {
+    "n": 101,
+    "jp": "江",
+    "on": "コウ",
+    "kun": "え",
+    "en": "creek, inlet, bay"
+  },
+  {
+    "n": 102,
+    "jp": "僚",
+    "on": "リョウ",
+    "kun": "—",
+    "en": "colleague, official, companion"
+  },
+  {
+    "n": 103,
+    "jp": "吉",
+    "on": "キチ、キツ",
+    "kun": "よし",
+    "en": "good luck, joy, congratulations"
+  },
+  {
+    "n": 104,
+    "jp": "盛",
+    "on": "セイ、ジョウ",
+    "kun": "も(る)、さか(る)",
+    "en": "boom, prosper, copulate"
+  },
+  {
+    "n": 105,
+    "jp": "皇",
+    "on": "コウ、オウ",
+    "kun": "—",
+    "en": "emperor"
+  },
+  {
+    "n": 106,
+    "jp": "臨",
+    "on": "リン",
+    "kun": "のぞ(む)",
+    "en": "look to, face, meet, confront, attend, call on"
+  },
+  {
+    "n": 107,
+    "jp": "踏",
+    "on": "トウ",
+    "kun": "ふ(む)",
+    "en": "step, trample, carry through, appraise, evade payment"
+  },
+  {
+    "n": 108,
+    "jp": "壊",
+    "on": "カイ、エ",
+    "kun": "こわ(す)、やぶ(る)",
+    "en": "demolition, break, destroy"
+  },
+  {
+    "n": 109,
+    "jp": "債",
+    "on": "サイ",
+    "kun": "—",
+    "en": "bond, loan, debt"
+  },
+  {
+    "n": 110,
+    "jp": "興",
+    "on": "コウ、キョウ",
+    "kun": "おこ(る)",
+    "en": "entertain, revive, retrieve, interest, pleasure"
+  },
+  {
+    "n": 111,
+    "jp": "源",
+    "on": "ゲン",
+    "kun": "みなもと",
+    "en": "source, origin"
+  },
+  {
+    "n": 112,
+    "jp": "儀",
+    "on": "ギ",
+    "kun": "—",
+    "en": "ceremony, rule, affair, case, a matter"
+  },
+  {
+    "n": 113,
+    "jp": "創",
+    "on": "ソウ、ショウ",
+    "kun": "つく(る)、はじ(める)、きず",
+    "en": "genesis, wound, injury, hurt, start, originate"
+  },
+  {
+    "n": 114,
+    "jp": "障",
+    "on": "ショウ",
+    "kun": "さわ(る)",
+    "en": "hinder, hurt, harm"
+  },
+  {
+    "n": 115,
+    "jp": "継",
+    "on": "ケイ",
+    "kun": "つ(ぐ)、まま-",
+    "en": "inherit, succeed, continue, patch, graft (tree)"
+  },
+  {
+    "n": 116,
+    "jp": "筋",
+    "on": "キン",
+    "kun": "すじ",
+    "en": "muscle, sinew, tendon, fiber, plot, plan, descent"
+  },
+  {
+    "n": 117,
+    "jp": "狙",
+    "on": "ソ、ショ",
+    "kun": "ねら(う)",
+    "en": "aim at, sight, shadow, stalk"
+  },
+  {
+    "n": 118,
+    "jp": "闘",
+    "on": "トウ",
+    "kun": "たたか(う)、あらそ(う)",
+    "en": "fight, war"
+  },
+  {
+    "n": 119,
+    "jp": "葬",
+    "on": "ソウ",
+    "kun": "ほうむ(る)",
+    "en": "interment, bury, shelve"
+  },
+  {
+    "n": 120,
+    "jp": "避",
+    "on": "ヒ",
+    "kun": "さ(ける)、よ(ける)",
+    "en": "evade, avoid, avert, ward off, shirk, shun"
+  },
+  {
+    "n": 121,
+    "jp": "司",
+    "on": "シ",
+    "kun": "つかさど(る)",
+    "en": "director, official, govt office, rule, administer"
+  },
+  {
+    "n": 122,
+    "jp": "康",
+    "on": "コウ",
+    "kun": "—",
+    "en": "ease, peace"
+  },
+  {
+    "n": 123,
+    "jp": "善",
+    "on": "ゼン",
+    "kun": "よ(い)、い(い)",
+    "en": "virtuous, good, goodness"
+  },
+  {
+    "n": 124,
+    "jp": "逮",
+    "on": "タイ",
+    "kun": "—",
+    "en": "apprehend, chase"
+  },
+  {
+    "n": 125,
+    "jp": "迫",
+    "on": "ハク",
+    "kun": "せま(る)",
+    "en": "urge, force, imminent, spur on"
+  },
+  {
+    "n": 126,
+    "jp": "惑",
+    "on": "ワク",
+    "kun": "まど(う)",
+    "en": "beguile, delusion, perplexity"
+  },
+  {
+    "n": 127,
+    "jp": "崩",
+    "on": "ホウ",
+    "kun": "くず(れる)",
+    "en": "crumble, die, demolish, level"
+  },
+  {
+    "n": 128,
+    "jp": "紀",
+    "on": "キ",
+    "kun": "—",
+    "en": "chronicle, account, narrative, history, annals, geologic period"
+  },
+  {
+    "n": 129,
+    "jp": "聴",
+    "on": "チョウ、テイ",
+    "kun": "き(く)、ゆる(す)",
+    "en": "listen, headstrong, naughty, careful inquiry"
+  },
+  {
+    "n": 130,
+    "jp": "脱",
+    "on": "ダツ",
+    "kun": "ぬ(ぐ)",
+    "en": "undress, removing, escape from, get rid of, be left out, take off"
+  },
+  {
+    "n": 131,
+    "jp": "級",
+    "on": "キュウ",
+    "kun": "—",
+    "en": "class, rank, grade"
+  },
+  {
+    "n": 132,
+    "jp": "博",
+    "on": "ハク、バク",
+    "kun": "—",
+    "en": "Dr., command, esteem, Ph.D."
+  },
+  {
+    "n": 133,
+    "jp": "締",
+    "on": "テイ",
+    "kun": "し(まる)、-し(め)、-じ(め)",
+    "en": "tighten, tie, shut, lock, fasten"
+  },
+  {
+    "n": 134,
+    "jp": "救",
+    "on": "キュウ",
+    "kun": "すく(う)",
+    "en": "salvation, save, help, rescue, reclaim"
+  },
+  {
+    "n": 135,
+    "jp": "執",
+    "on": "シツ、シュウ",
+    "kun": "と(る)",
+    "en": "tenacious, take hold, grasp, take to heart"
+  },
+  {
+    "n": 136,
+    "jp": "房",
+    "on": "ボウ",
+    "kun": "ふさ",
+    "en": "tassel, tuft, fringe, bunch, lock (hair), segment (orange), room"
+  },
+  {
+    "n": 137,
+    "jp": "撤",
+    "on": "テツ",
+    "kun": "—",
+    "en": "remove, withdraw, disarm, dismantle, reject, exclude"
+  },
+  {
+    "n": 138,
+    "jp": "削",
+    "on": "サク",
+    "kun": "けず(る)、はつ(る)、そ(ぐ)",
+    "en": "plane, sharpen, whittle, pare, shave"
+  },
+  {
+    "n": 139,
+    "jp": "密",
+    "on": "ミツ",
+    "kun": "ひそ(か)",
+    "en": "secrecy, density, minuteness, carefulness"
+  },
+  {
+    "n": 140,
+    "jp": "措",
+    "on": "ソ",
+    "kun": "お(く)",
+    "en": "set aside, give up, suspend, discontinue, lay aside, except"
+  },
+  {
+    "n": 141,
+    "jp": "志",
+    "on": "シ",
+    "kun": "こころざ(す)、こころざし",
+    "en": "intention, plan, resolve, aspire, motive, hopes, shilling"
+  },
+  {
+    "n": 142,
+    "jp": "載",
+    "on": "サイ",
+    "kun": "の(せる)",
+    "en": "ride, board, get on, place, spread, record, publish"
+  },
+  {
+    "n": 143,
+    "jp": "陣",
+    "on": "ジン",
+    "kun": "—",
+    "en": "camp, battle array, ranks, position, sudden, brief time"
+  },
+  {
+    "n": 144,
+    "jp": "我",
+    "on": "ガ",
+    "kun": "われ、わ、わ(が)-",
+    "en": "ego, I, selfish, our, oneself"
+  },
+  {
+    "n": 145,
+    "jp": "為",
+    "on": "イ",
+    "kun": "ため、な(る)、す(る)",
+    "en": "do, change, make, benefit, welfare, be of use, reach to, try, practice"
+  },
+  {
+    "n": 146,
+    "jp": "抑",
+    "on": "ヨク",
+    "kun": "おさ(える)",
+    "en": "repress, push, shove, press, seal, do in spite of"
+  },
+  {
+    "n": 147,
+    "jp": "幕",
+    "on": "マク、バク",
+    "kun": "とばり",
+    "en": "curtain, bunting, act of play"
+  },
+  {
+    "n": 148,
+    "jp": "染",
+    "on": "セン",
+    "kun": "そ(める)、し(みる)",
+    "en": "dye, color, paint, stain, print"
+  },
+  {
+    "n": 149,
+    "jp": "奈",
+    "on": "ナ、ナイ、ダイ",
+    "kun": "いかん、からなし",
+    "en": "Nara, what?"
+  },
+  {
+    "n": 150,
+    "jp": "傷",
+    "on": "ショウ",
+    "kun": "きず、いた(む)",
+    "en": "wound, hurt, injure, impair, pain, injury, cut, gash, scar, weak point"
+  },
+  {
+    "n": 151,
+    "jp": "択",
+    "on": "タク",
+    "kun": "えら(ぶ)",
+    "en": "choose, select, elect, prefer"
+  },
+  {
+    "n": 152,
+    "jp": "秀",
+    "on": "シュウ",
+    "kun": "ひい(でる)",
+    "en": "excel, excellence, beauty, surpass"
+  },
+  {
+    "n": 153,
+    "jp": "徴",
+    "on": "チョウ、チ",
+    "kun": "しるし",
+    "en": "indications, sign, omen, symptom, collect, seek, refer to, question"
+  },
+  {
+    "n": 154,
+    "jp": "弾",
+    "on": "ダン、タン",
+    "kun": "ひ(く)、はず(む)、たま、はじ(く)",
+    "en": "bullet, twang, flip, snap"
+  },
+  {
+    "n": 155,
+    "jp": "償",
+    "on": "ショウ",
+    "kun": "つぐな(う)",
+    "en": "reparation, make up for, recompense, redeem"
+  },
+  {
+    "n": 156,
+    "jp": "功",
+    "on": "コウ、ク",
+    "kun": "いさお",
+    "en": "achievement, merits, success, honor, credit"
+  },
+  {
+    "n": 157,
+    "jp": "拠",
+    "on": "キョ、コ",
+    "kun": "よ(る)",
+    "en": "foothold, based on, follow, therefore"
+  },
+  {
+    "n": 158,
+    "jp": "秘",
+    "on": "ヒ",
+    "kun": "ひ(める)、ひそ(か)、かく(す)",
+    "en": "secret, conceal"
+  },
+  {
+    "n": 159,
+    "jp": "拒",
+    "on": "キョ、ゴ",
+    "kun": "こば(む)",
+    "en": "repel, refuse, reject, decline"
+  },
+  {
+    "n": 160,
+    "jp": "刑",
+    "on": "ケイ",
+    "kun": "—",
+    "en": "punish, penalty, sentence, punishment"
+  },
+  {
+    "n": 161,
+    "jp": "塚",
+    "on": "チョウ",
+    "kun": "つか、-づか",
+    "en": "hillock, mound"
+  },
+  {
+    "n": 162,
+    "jp": "致",
+    "on": "チ",
+    "kun": "いた(す)",
+    "en": "doth, do, send, forward, cause, exert, incur, engage"
+  },
+  {
+    "n": 163,
+    "jp": "繰",
+    "on": "ソウ",
+    "kun": "く(る)",
+    "en": "winding, reel, spin, turn (pages), look up, refer to"
+  },
+  {
+    "n": 164,
+    "jp": "尾",
+    "on": "ビ",
+    "kun": "お",
+    "en": "tail, end, counter for fish, lower slope of mountain"
+  },
+  {
+    "n": 165,
+    "jp": "描",
+    "on": "ビョウ",
+    "kun": "えが(く)、か(く)",
+    "en": "sketch, compose, write, draw, paint"
+  },
+  {
+    "n": 166,
+    "jp": "鈴",
+    "on": "レイ、リン",
+    "kun": "すず",
+    "en": "small bell, buzzer"
+  },
+  {
+    "n": 167,
+    "jp": "盤",
+    "on": "バン",
+    "kun": "—",
+    "en": "tray, shallow bowl, platter, tub, board, phonograph record"
+  },
+  {
+    "n": 168,
+    "jp": "項",
+    "on": "コウ",
+    "kun": "うなじ",
+    "en": "paragraph, nape of neck, clause, item, term (expression)"
+  },
+  {
+    "n": 169,
+    "jp": "喪",
+    "on": "ソウ",
+    "kun": "も",
+    "en": "miss, mourning"
+  },
+  {
+    "n": 170,
+    "jp": "伴",
+    "on": "ハン、バン",
+    "kun": "ともな(う)",
+    "en": "consort, accompany, bring with, companion"
+  },
+  {
+    "n": 171,
+    "jp": "養",
+    "on": "ヨウ、リョウ",
+    "kun": "やしな(う)",
+    "en": "foster, bring up, rear, develop, nurture"
+  },
+  {
+    "n": 172,
+    "jp": "懸",
+    "on": "ケン、ケ",
+    "kun": "か(ける)",
+    "en": "state of suspension, hang, depend, consult, distant, far apart"
+  },
+  {
+    "n": 173,
+    "jp": "街",
+    "on": "ガイ、カイ",
+    "kun": "まち",
+    "en": "boulevard, street, town"
+  },
+  {
+    "n": 174,
+    "jp": "契",
+    "on": "ケイ",
+    "kun": "ちぎ(る)",
+    "en": "pledge, promise, vow"
+  },
+  {
+    "n": 175,
+    "jp": "掲",
+    "on": "ケイ",
+    "kun": "かか(げる)",
+    "en": "put up a notice, hoist, display, hang out, publish, describe"
+  },
+  {
+    "n": 176,
+    "jp": "躍",
+    "on": "ヤク",
+    "kun": "おど(る)",
+    "en": "leap, dance, skip"
+  },
+  {
+    "n": 177,
+    "jp": "棄",
+    "on": "キ",
+    "kun": "す(てる)",
+    "en": "abandon, throw away, discard, resign, reject, sacrifice"
+  },
+  {
+    "n": 178,
+    "jp": "邸",
+    "on": "テイ",
+    "kun": "やしき",
+    "en": "residence, mansion"
+  },
+  {
+    "n": 179,
+    "jp": "縮",
+    "on": "シュク",
+    "kun": "ちぢ(む)",
+    "en": "shrink, contract, shrivel, wrinkle, reduce"
+  },
+  {
+    "n": 180,
+    "jp": "還",
+    "on": "カン",
+    "kun": "かえ(る)",
+    "en": "send back, return"
+  },
+  {
+    "n": 181,
+    "jp": "属",
+    "on": "ゾク、ショク",
+    "kun": "さかん、つく、やから",
+    "en": "belong, genus, subordinate official, affiliated"
+  },
+  {
+    "n": 182,
+    "jp": "慮",
+    "on": "リョ",
+    "kun": "おもんぱく(る)",
+    "en": "prudence, thought, concern, consider, deliberate, fear"
+  },
+  {
+    "n": 183,
+    "jp": "枠",
+    "on": "—",
+    "kun": "わく",
+    "en": "frame, framework, spindle, spool, bounding-box"
+  },
+  {
+    "n": 184,
+    "jp": "恵",
+    "on": "ケイ、エ",
+    "kun": "めぐ(む)",
+    "en": "favor, blessing, grace, kindness"
+  },
+  {
+    "n": 185,
+    "jp": "露",
+    "on": "ロ、ロウ",
+    "kun": "つゆ",
+    "en": "dew, tears, expose, Russia"
+  },
+  {
+    "n": 186,
+    "jp": "沖",
+    "on": "チュウ",
+    "kun": "おき、おきつ",
+    "en": "open sea, offing, rise high into sky"
+  },
+  {
+    "n": 187,
+    "jp": "緩",
+    "on": "カン",
+    "kun": "ゆる(い)",
+    "en": "slacken, loosen, relax, lessen, be moderate, ease"
+  },
+  {
+    "n": 188,
+    "jp": "節",
+    "on": "セツ、セチ",
+    "kun": "ふし、-ぶし、のっと",
+    "en": "node, season, period, occasion, verse, clause, stanza, honor, joint"
+  },
+  {
+    "n": 189,
+    "jp": "需",
+    "on": "ジュ",
+    "kun": "—",
+    "en": "demand, request, need"
+  },
+  {
+    "n": 190,
+    "jp": "射",
+    "on": "シャ",
+    "kun": "い(る)、さ(す)、う(つ)",
+    "en": "shoot, shine into, onto, archery"
+  },
+  {
+    "n": 191,
+    "jp": "購",
+    "on": "コウ",
+    "kun": "—",
+    "en": "subscription, buy"
+  },
+  {
+    "n": 192,
+    "jp": "揮",
+    "on": "キ",
+    "kun": "ふる(う)",
+    "en": "brandish, wave, wag, swing, shake"
+  },
+  {
+    "n": 193,
+    "jp": "充",
+    "on": "ジュウ",
+    "kun": "あ(てる)、み(たす)",
+    "en": "allot, fill"
+  },
+  {
+    "n": 194,
+    "jp": "貢",
+    "on": "コウ、ク",
+    "kun": "みつ(ぐ)",
+    "en": "tribute, support, finance"
+  },
+  {
+    "n": 195,
+    "jp": "鹿",
+    "on": "ロク",
+    "kun": "しか、か",
+    "en": "deer"
+  },
+  {
+    "n": 196,
+    "jp": "却",
+    "on": "キャク",
+    "kun": "かえ(って)、しりぞ(く)",
+    "en": "instead, on the contrary, rather, step back, withdraw, retreat"
+  },
+  {
+    "n": 197,
+    "jp": "端",
+    "on": "タン",
+    "kun": "はし、は、はた、はな",
+    "en": "edge, origin, end, point, border, verge, cape"
+  },
+  {
+    "n": 198,
+    "jp": "賃",
+    "on": "チン",
+    "kun": "—",
+    "en": "fare, fee, hire, rent, wages, charge"
+  },
+  {
+    "n": 199,
+    "jp": "獲",
+    "on": "カク",
+    "kun": "え(る)",
+    "en": "seize, get, find, earn, acquire, can, may, able to"
+  },
+  {
+    "n": 200,
+    "jp": "郡",
+    "on": "グン",
+    "kun": "こおり",
+    "en": "county, district"
+  },
+  {
+    "n": 201,
+    "jp": "併",
+    "on": "ヘイ",
+    "kun": "あわ(せる)",
+    "en": "join, combine, annexation"
+  },
+  {
+    "n": 202,
+    "jp": "徹",
+    "on": "テツ",
+    "kun": "—",
+    "en": "penetrate, pierce, clear, devote, do thoroughly"
+  },
+  {
+    "n": 203,
+    "jp": "貴",
+    "on": "キ",
+    "kun": "たっと(い)、とうと(い)",
+    "en": "precious, value, prize, esteem, honor"
+  },
+  {
+    "n": 204,
+    "jp": "埼",
+    "on": "キ",
+    "kun": "さき、さい、みさき",
+    "en": "cape, spit (promontory)"
+  },
+  {
+    "n": 205,
+    "jp": "衝",
+    "on": "ショウ",
+    "kun": "つ(く)",
+    "en": "collide, brunt, highway, opposition (astronomy)"
+  },
+  {
+    "n": 206,
+    "jp": "焦",
+    "on": "ショウ",
+    "kun": "こ(げる)、あせ(る)、じ(れる)",
+    "en": "char, scorch, hurry, impatient"
+  },
+  {
+    "n": 207,
+    "jp": "奪",
+    "on": "ダツ",
+    "kun": "うば(う)",
+    "en": "rob, take by force, snatch away, dispossess, plunder, usurp"
+  },
+  {
+    "n": 208,
+    "jp": "災",
+    "on": "サイ",
+    "kun": "わざわ(い)",
+    "en": "calamity, disaster, misfortune"
+  },
+  {
+    "n": 209,
+    "jp": "浦",
+    "on": "ホ",
+    "kun": "うら",
+    "en": "bay, creek, inlet, gulf, beach, seacoast"
+  },
+  {
+    "n": 210,
+    "jp": "析",
+    "on": "セキ",
+    "kun": "—",
+    "en": "divide, split, separate, analyze"
+  },
+  {
+    "n": 211,
+    "jp": "譲",
+    "on": "ジョウ",
+    "kun": "ゆず(る)",
+    "en": "defer, turnover, transfer, yield"
+  },
+  {
+    "n": 212,
+    "jp": "称",
+    "on": "ショウ",
+    "kun": "たた(える)、とな(える)、ほめ(る)",
+    "en": "appellation, praise, admire, name, title, fame"
+  },
+  {
+    "n": 213,
+    "jp": "納",
+    "on": "ノウ、ナッ、ナ、ナン、トウ",
+    "kun": "おさ(める)、-おさ(める)",
+    "en": "settlement, obtain, reap, pay, supply, store"
+  },
+  {
+    "n": 214,
+    "jp": "樹",
+    "on": "ジュ",
+    "kun": "き",
+    "en": "timber, trees, wood, establish"
+  },
+  {
+    "n": 215,
+    "jp": "挑",
+    "on": "チョウ",
+    "kun": "いど(む)",
+    "en": "challenge, contend for, make love to"
+  },
+  {
+    "n": 216,
+    "jp": "誘",
+    "on": "ユウ",
+    "kun": "さそ(う)、いざな(う)",
+    "en": "entice, lead astray, lure, invite"
+  },
+  {
+    "n": 217,
+    "jp": "紛",
+    "on": "フン",
+    "kun": "まぎ(れる)、-まぎ(れ)",
+    "en": "distract, be mistaken for, go astray, divert"
+  },
+  {
+    "n": 218,
+    "jp": "至",
+    "on": "シ",
+    "kun": "いた(る)",
+    "en": "climax, arrive, proceed, reach, attain, result in"
+  },
+  {
+    "n": 219,
+    "jp": "宗",
+    "on": "シュウ、ソウ",
+    "kun": "むね",
+    "en": "religion, sect, denomination, main point, origin, essence"
+  },
+  {
+    "n": 220,
+    "jp": "促",
+    "on": "ソク",
+    "kun": "うなが(す)",
+    "en": "urge, press, demand, stimulate"
+  },
+  {
+    "n": 221,
+    "jp": "慎",
+    "on": "シン",
+    "kun": "つつし(む)、つつ(ましい)",
+    "en": "humility, be careful, discreet, prudent"
+  },
+  {
+    "n": 222,
+    "jp": "控",
+    "on": "コウ",
+    "kun": "ひか(える)",
+    "en": "hold back, refrain, wait, note, be moderate"
+  },
+  {
+    "n": 223,
+    "jp": "智",
+    "on": "チ",
+    "kun": "—",
+    "en": "wisdom, intellect, intelligence"
+  },
+  {
+    "n": 224,
+    "jp": "握",
+    "on": "アク",
+    "kun": "にぎ(る)",
+    "en": "grip, hold, mould sushi, bribe"
+  },
+  {
+    "n": 225,
+    "jp": "宙",
+    "on": "チュウ",
+    "kun": "—",
+    "en": "mid-air, air, space, sky, memorization, interval of time"
+  },
+  {
+    "n": 226,
+    "jp": "俊",
+    "on": "シュン",
+    "kun": "—",
+    "en": "sagacious, genius, excellence"
+  },
+  {
+    "n": 227,
+    "jp": "銭",
+    "on": "セン、ゼン",
+    "kun": "ぜに、すき",
+    "en": "coin, .01 yen, money"
+  },
+  {
+    "n": 228,
+    "jp": "渋",
+    "on": "ジュウ、シュウ",
+    "kun": "しぶ、しぶ(い)",
+    "en": "astringent, hesitate, reluctant, have stylish taste, rough, tight"
+  },
+  {
+    "n": 229,
+    "jp": "銃",
+    "on": "ジュウ",
+    "kun": "つつ",
+    "en": "gun, small arms"
+  },
+  {
+    "n": 230,
+    "jp": "操",
+    "on": "ソウ、サン",
+    "kun": "みさお、あやつ(る)",
+    "en": "maneuver, manipulate, steer, chastity, fidelity, virginity"
+  },
+  {
+    "n": 231,
+    "jp": "携",
+    "on": "ケイ",
+    "kun": "たずさ(える)",
+    "en": "portable, carry (in hand), take along, joint"
+  },
+  {
+    "n": 232,
+    "jp": "診",
+    "on": "シン",
+    "kun": "み(る)",
+    "en": "checkup, seeing, diagnose, examine"
+  },
+  {
+    "n": 233,
+    "jp": "託",
+    "on": "タク",
+    "kun": "かこつ(ける)、かこ(つ)",
+    "en": "consign, requesting, entrust to, pretend"
+  },
+  {
+    "n": 234,
+    "jp": "撮",
+    "on": "サツ",
+    "kun": "と(る)、つま(む)、-ど(り)",
+    "en": "snapshot, take pictures"
+  },
+  {
+    "n": 235,
+    "jp": "誕",
+    "on": "タン",
+    "kun": "—",
+    "en": "nativity, be born, declension, lie, be arbitrary"
+  },
+  {
+    "n": 236,
+    "jp": "侵",
+    "on": "シン",
+    "kun": "おか(す)",
+    "en": "encroach, invade, raid, trespass, violate"
+  },
+  {
+    "n": 237,
+    "jp": "括",
+    "on": "カツ",
+    "kun": "くく(る)",
+    "en": "quandary, all, fasten, tie up, bundle, enclose"
+  },
+  {
+    "n": 238,
+    "jp": "謝",
+    "on": "シャ",
+    "kun": "あやま(る)",
+    "en": "apologize, thank, refuse"
+  },
+  {
+    "n": 239,
+    "jp": "孝",
+    "on": "コウ、キョウ",
+    "kun": "—",
+    "en": "filial piety, child's duty"
+  },
+  {
+    "n": 240,
+    "jp": "駆",
+    "on": "ク",
+    "kun": "か(ける)",
+    "en": "drive, run, gallop, advance, inspire"
+  },
+  {
+    "n": 241,
+    "jp": "透",
+    "on": "トウ",
+    "kun": "す(く)、とう(る)",
+    "en": "transparent, perspective"
+  },
+  {
+    "n": 242,
+    "jp": "津",
+    "on": "シン",
+    "kun": "つ",
+    "en": "haven, port, harbor, ferry"
+  },
+  {
+    "n": 243,
+    "jp": "壁",
+    "on": "ヘキ",
+    "kun": "かべ",
+    "en": "wall, lining (stomach), fence"
+  },
+  {
+    "n": 244,
+    "jp": "稲",
+    "on": "トウ、テ",
+    "kun": "いね、いな",
+    "en": "rice plant"
+  },
+  {
+    "n": 245,
+    "jp": "仮",
+    "on": "カ、ケ",
+    "kun": "かり",
+    "en": "sham, temporary, interim, assumed (name), informal"
+  },
+  {
+    "n": 246,
+    "jp": "裂",
+    "on": "レツ",
+    "kun": "さ(く)、-ぎ(れ)",
+    "en": "split, rend, tear"
+  },
+  {
+    "n": 247,
+    "jp": "敏",
+    "on": "ビン",
+    "kun": "さとい",
+    "en": "agile, quick, clever"
+  },
+  {
+    "n": 248,
+    "jp": "是",
+    "on": "ゼ、シ",
+    "kun": "これ、この、ここ",
+    "en": "just so, this, right, justice"
+  },
+  {
+    "n": 249,
+    "jp": "排",
+    "on": "ハイ",
+    "kun": "—",
+    "en": "repudiate, exclude, expel, reject, line up, arrange"
+  },
+  {
+    "n": 250,
+    "jp": "裕",
+    "on": "ユウ",
+    "kun": "—",
+    "en": "abundant, rich, fertile"
+  },
+  {
+    "n": 251,
+    "jp": "堅",
+    "on": "ケン",
+    "kun": "かた(い)、-がた(い)",
+    "en": "strict, hard, solid, resolute, firm"
+  },
+  {
+    "n": 252,
+    "jp": "訳",
+    "on": "ヤク",
+    "kun": "わけ",
+    "en": "translation, reason, circumstance, case"
+  },
+  {
+    "n": 253,
+    "jp": "芝",
+    "on": "シ",
+    "kun": "しば",
+    "en": "turf, lawn"
+  },
+  {
+    "n": 254,
+    "jp": "綱",
+    "on": "コウ",
+    "kun": "つな",
+    "en": "hawser, class (biology), rope"
+  },
+  {
+    "n": 255,
+    "jp": "典",
+    "on": "テン、デン",
+    "kun": "ふみ、のり",
+    "en": "ceremony, rule, regulation, code, precedent, classic, canon"
+  },
+  {
+    "n": 256,
+    "jp": "賀",
+    "on": "ガ",
+    "kun": "—",
+    "en": "congratulations, joy"
+  },
+  {
+    "n": 257,
+    "jp": "扱",
+    "on": "ソウ、キュウ",
+    "kun": "あつか(い)、こ(く)",
+    "en": "handle, deal with, treat"
+  },
+  {
+    "n": 258,
+    "jp": "顧",
+    "on": "コ",
+    "kun": "かえり(みる)",
+    "en": "look back, review, reflect, reconsider"
+  },
+  {
+    "n": 259,
+    "jp": "弘",
+    "on": "コウ、グ",
+    "kun": "ひろ(い)",
+    "en": "vast, broad, wide"
+  },
+  {
+    "n": 260,
+    "jp": "看",
+    "on": "カン",
+    "kun": "み(る)",
+    "en": "watch over, look after, see"
+  },
+  {
+    "n": 261,
+    "jp": "訟",
+    "on": "ショウ",
+    "kun": "—",
+    "en": "sue, accuse"
+  },
+  {
+    "n": 262,
+    "jp": "戒",
+    "on": "カイ",
+    "kun": "いまし(める)",
+    "en": "commandment, admonish, warn, prohibit, forbid"
+  },
+  {
+    "n": 263,
+    "jp": "祉",
+    "on": "シ",
+    "kun": "—",
+    "en": "welfare, happiness"
+  },
+  {
+    "n": 264,
+    "jp": "誉",
+    "on": "ヨ",
+    "kun": "ほま(れ)、ほ(める)",
+    "en": "honor, glory, praise"
+  },
+  {
+    "n": 265,
+    "jp": "歓",
+    "on": "カン",
+    "kun": "よろこ(ぶ)",
+    "en": "delight, joy"
+  },
+  {
+    "n": 266,
+    "jp": "奏",
+    "on": "ソウ",
+    "kun": "かな(でる)",
+    "en": "play music, speak to a ruler, complete"
+  },
+  {
+    "n": 267,
+    "jp": "勧",
+    "on": "カン、ケン",
+    "kun": "すす(める)",
+    "en": "persuade, recommend, advise, encourage, offer"
+  },
+  {
+    "n": 268,
+    "jp": "騒",
+    "on": "ソウ",
+    "kun": "さわ(ぐ)、うれい",
+    "en": "boisterous, make noise, clamor, disturb, excite"
+  },
+  {
+    "n": 269,
+    "jp": "閥",
+    "on": "バツ",
+    "kun": "—",
+    "en": "clique, faction, clan"
+  },
+  {
+    "n": 270,
+    "jp": "甲",
+    "on": "コウ、カン",
+    "kun": "きのえ",
+    "en": "armor, high (voice), A grade, the first"
+  },
+  {
+    "n": 271,
+    "jp": "縄",
+    "on": "ジョウ",
+    "kun": "なわ、ただ(す)",
+    "en": "straw rope, cord"
+  },
+  {
+    "n": 272,
+    "jp": "郷",
+    "on": "キョウ、ゴウ",
+    "kun": "さと",
+    "en": "hometown, village, native place, district"
+  },
+  {
+    "n": 273,
+    "jp": "揺",
+    "on": "ヨウ",
+    "kun": "ゆ(れる)、うご(く)",
+    "en": "swing, shake, sway, rock, tremble, vibrate"
+  },
+  {
+    "n": 274,
+    "jp": "免",
+    "on": "メン",
+    "kun": "まぬか(れる)、まぬが(れる)",
+    "en": "excuse, dismissal, permission"
+  },
+  {
+    "n": 275,
+    "jp": "既",
+    "on": "キ",
+    "kun": "すで(に)",
+    "en": "previously, already, long ago"
+  },
+  {
+    "n": 276,
+    "jp": "薦",
+    "on": "セン",
+    "kun": "すす(める)",
+    "en": "recommend, mat, advise, encourage"
+  },
+  {
+    "n": 277,
+    "jp": "隣",
+    "on": "リン",
+    "kun": "とな(る)、となり",
+    "en": "neighboring"
+  },
+  {
+    "n": 278,
+    "jp": "華",
+    "on": "カ、ケ",
+    "kun": "はな",
+    "en": "flower, petal, China, splendor, glory, prosperity"
+  },
+  {
+    "n": 279,
+    "jp": "範",
+    "on": "ハン",
+    "kun": "—",
+    "en": "pattern, example, model"
+  },
+  {
+    "n": 280,
+    "jp": "隠",
+    "on": "イン、オン",
+    "kun": "かく(す)、よ(る)",
+    "en": "conceal, hide, cover"
+  },
+  {
+    "n": 281,
+    "jp": "徳",
+    "on": "トク",
+    "kun": "—",
+    "en": "benevolence, virtue, goodness, commanding respect"
+  },
+  {
+    "n": 282,
+    "jp": "哲",
+    "on": "テツ",
+    "kun": "さとい、あきらか",
+    "en": "philosophy, smart"
+  },
+  {
+    "n": 283,
+    "jp": "杉",
+    "on": "サン",
+    "kun": "すぎ",
+    "en": "cedar, cryptomeria"
+  },
+  {
+    "n": 284,
+    "jp": "里",
+    "on": "リ",
+    "kun": "さと",
+    "en": "ri (unit of distance), village, league"
+  },
+  {
+    "n": 285,
+    "jp": "釈",
+    "on": "シャク、セキ",
+    "kun": "とく、す(てる)、ゆる(す)",
+    "en": "explanation, Buddhist sect"
+  },
+  {
+    "n": 286,
+    "jp": "己",
+    "on": "コ、キ",
+    "kun": "おのれ、つちのと、な",
+    "en": "self, snake, 6th horary sign"
+  },
+  {
+    "n": 287,
+    "jp": "妥",
+    "on": "ダ",
+    "kun": "—",
+    "en": "gentle, yielding"
+  },
+  {
+    "n": 288,
+    "jp": "威",
+    "on": "イ",
+    "kun": "おど(す)",
+    "en": "intimidate, dignity, majesty, menace, threaten"
+  },
+  {
+    "n": 289,
+    "jp": "豪",
+    "on": "ゴウ",
+    "kun": "えら(い)",
+    "en": "overpowering, great, powerful, excelling, Australia"
+  },
+  {
+    "n": 290,
+    "jp": "熊",
+    "on": "ユウ",
+    "kun": "くま",
+    "en": "bear"
+  },
+  {
+    "n": 291,
+    "jp": "滞",
+    "on": "タイ、テイ",
+    "kun": "とどこお(る)",
+    "en": "stagnate, be delayed, overdue, arrears"
+  },
+  {
+    "n": 292,
+    "jp": "微",
+    "on": "ビ",
+    "kun": "かす(か)",
+    "en": "delicate, slight, faint, vague, phantom"
+  },
+  {
+    "n": 293,
+    "jp": "隆",
+    "on": "リュウ",
+    "kun": "—",
+    "en": "prosperous, noble, lofty"
+  },
+  {
+    "n": 294,
+    "jp": "症",
+    "on": "ショウ",
+    "kun": "—",
+    "en": "symptoms, illness"
+  },
+  {
+    "n": 295,
+    "jp": "暫",
+    "on": "ザン",
+    "kun": "しばら(く)",
+    "en": "temporarily, a while, moment, long time"
+  },
+  {
+    "n": 296,
+    "jp": "忠",
+    "on": "チュウ",
+    "kun": "—",
+    "en": "loyalty, fidelity, faithfulness"
+  },
+  {
+    "n": 297,
+    "jp": "倉",
+    "on": "ソウ",
+    "kun": "くら",
+    "en": "godown, warehouse, storehouse, cellar, granary"
+  },
+  {
+    "n": 298,
+    "jp": "彦",
+    "on": "ゲン",
+    "kun": "ひこ",
+    "en": "accomplished young man"
+  },
+  {
+    "n": 299,
+    "jp": "肝",
+    "on": "カン",
+    "kun": "きも",
+    "en": "liver, pluck, nerve, boldness"
+  },
+  {
+    "n": 300,
+    "jp": "喚",
+    "on": "カン",
+    "kun": "わめ(く)",
+    "en": "yell, cry, call out"
+  },
+  {
+    "n": 301,
+    "jp": "沿",
+    "on": "エン",
+    "kun": "そ(う)、-ぞ(い)",
+    "en": "run alongside, follow along, run along, lie along"
+  },
+  {
+    "n": 302,
+    "jp": "妙",
+    "on": "ミョウ、ビョウ",
+    "kun": "たえ",
+    "en": "exquisite, strange, queer, mystery, miracle, excellent, delicate, charming"
+  },
+  {
+    "n": 303,
+    "jp": "唱",
+    "on": "ショウ",
+    "kun": "とな(える)",
+    "en": "chant, recite, call upon, yell"
+  },
+  {
+    "n": 304,
+    "jp": "阿",
+    "on": "ア、オ",
+    "kun": "おもね(る)、くま",
+    "en": "Africa, flatter, fawn upon, corner, nook, recess"
+  },
+  {
+    "n": 305,
+    "jp": "索",
+    "on": "サク",
+    "kun": "—",
+    "en": "cord, rope, search, look for"
+  },
+  {
+    "n": 306,
+    "jp": "誠",
+    "on": "セイ",
+    "kun": "まこと",
+    "en": "sincerity, admonish, warn, prohibit, truth, fidelity"
+  },
+  {
+    "n": 307,
+    "jp": "襲",
+    "on": "シュウ",
+    "kun": "おそ(う)、かさ(ね)",
+    "en": "attack, advance on, succeed to, pile, heap"
+  },
+  {
+    "n": 308,
+    "jp": "懇",
+    "on": "コン",
+    "kun": "ねんご(ろ)",
+    "en": "sociable, kind, courteous, hospitality, cordial"
+  },
+  {
+    "n": 309,
+    "jp": "俳",
+    "on": "ハイ",
+    "kun": "—",
+    "en": "haiku, actor"
+  },
+  {
+    "n": 310,
+    "jp": "柄",
+    "on": "ヘイ",
+    "kun": "がら、え、つか",
+    "en": "design, pattern, build, nature, handle, grip"
+  },
+  {
+    "n": 311,
+    "jp": "驚",
+    "on": "キョウ",
+    "kun": "おどろ(く)",
+    "en": "wonder, be surprised, astonishment, be amazed"
+  },
+  {
+    "n": 312,
+    "jp": "麻",
+    "on": "マ、マア",
+    "kun": "あさ",
+    "en": "hemp, flax, numb"
+  },
+  {
+    "n": 313,
+    "jp": "李",
+    "on": "リ",
+    "kun": "すもも",
+    "en": "plum"
+  },
+  {
+    "n": 314,
+    "jp": "浩",
+    "on": "コウ",
+    "kun": "おおき(い)、ひろ(い)",
+    "en": "wide, large"
+  },
+  {
+    "n": 315,
+    "jp": "剤",
+    "on": "ザイ、スイ、セイ",
+    "kun": "かる、けず(る)",
+    "en": "dose, medicine, drug"
+  },
+  {
+    "n": 316,
+    "jp": "瀬",
+    "on": "ライ",
+    "kun": "せ",
+    "en": "rapids, current, torrent, shallows, shoal"
+  },
+  {
+    "n": 317,
+    "jp": "趣",
+    "on": "シュ",
+    "kun": "おもむき、おもむ(く)",
+    "en": "purport, gist, elegance, interest, proceed to, tend, become"
+  },
+  {
+    "n": 318,
+    "jp": "陥",
+    "on": "カン",
+    "kun": "おちい(る)、おとしい(れる)",
+    "en": "collapse, fall into, cave in, fall (castle), slide into"
+  },
+  {
+    "n": 319,
+    "jp": "斎",
+    "on": "サイ",
+    "kun": "とき、つつし(む)、ものいみ",
+    "en": "purification, Buddhist food, room, worship, avoid, alike"
+  },
+  {
+    "n": 320,
+    "jp": "貫",
+    "on": "カン",
+    "kun": "つらぬ(く)、ぬ(く)、ぬき",
+    "en": "pierce, penetrate, brace, 3.75 kg"
+  },
+  {
+    "n": 321,
+    "jp": "仙",
+    "on": "セン、セント",
+    "kun": "—",
+    "en": "hermit, wizard, cent"
+  },
+  {
+    "n": 322,
+    "jp": "慰",
+    "on": "イ",
+    "kun": "なぐさ(める)",
+    "en": "consolation, amusement, seduce, cheer, make sport of, comfort, console"
+  },
+  {
+    "n": 323,
+    "jp": "序",
+    "on": "ジョ",
+    "kun": "つい(で)、ついで",
+    "en": "preface, beginning, order, precedence, occasion, chance, incidentally"
+  },
+  {
+    "n": 324,
+    "jp": "旬",
+    "on": "ジュン、シュン",
+    "kun": "—",
+    "en": "ten-day period, season (for food)"
+  },
+  {
+    "n": 325,
+    "jp": "兼",
+    "on": "ケン",
+    "kun": "か(ねる)、-か(ねる)",
+    "en": "concurrently, and, beforehand, in addition"
+  },
+  {
+    "n": 326,
+    "jp": "聖",
+    "on": "セイ、ショウ",
+    "kun": "ひじり",
+    "en": "holy, saint, sage, master, priest"
+  },
+  {
+    "n": 327,
+    "jp": "旨",
+    "on": "シ",
+    "kun": "むね、うま(い)",
+    "en": "delicious, relish, show a liking for, purport, will, clever, expert"
+  },
+  {
+    "n": 328,
+    "jp": "即",
+    "on": "ソク",
+    "kun": "つ(く)、すなわ(ち)",
+    "en": "instant, namely, as is, conform, agree, adapt"
+  },
+  {
+    "n": 329,
+    "jp": "柳",
+    "on": "リュウ",
+    "kun": "やなぎ",
+    "en": "willow"
+  },
+  {
+    "n": 330,
+    "jp": "舎",
+    "on": "シャ、セキ",
+    "kun": "やど(る)",
+    "en": "cottage, inn, hut, house, mansion"
+  },
+  {
+    "n": 331,
+    "jp": "偽",
+    "on": "ギ、カ",
+    "kun": "いつわ(る)、にせ",
+    "en": "false, lie, bogus, pretend, falsify"
+  },
+  {
+    "n": 332,
+    "jp": "較",
+    "on": "カク、コウ",
+    "kun": "くら(べる)",
+    "en": "contrast, compare"
+  },
+  {
+    "n": 333,
+    "jp": "覇",
+    "on": "ハ、ハク",
+    "kun": "はたがしら",
+    "en": "hegemony, supremacy, leadership, champion"
+  },
+  {
+    "n": 334,
+    "jp": "畑",
+    "on": "—",
+    "kun": "はた、はたけ、-ばたけ",
+    "en": "farm, field, garden, one's specialty, (suf) -farm, -field"
+  },
+  {
+    "n": 335,
+    "jp": "詳",
+    "on": "ショウ",
+    "kun": "くわ(しい)、つまび(らか)",
+    "en": "detailed, full, minute, accurate, well-informed"
+  },
+  {
+    "n": 336,
+    "jp": "抵",
+    "on": "テイ",
+    "kun": "—",
+    "en": "resist, reach, touch"
+  },
+  {
+    "n": 337,
+    "jp": "脅",
+    "on": "キョウ",
+    "kun": "おびや(かす)、おど(す)",
+    "en": "threaten, coerce"
+  },
+  {
+    "n": 338,
+    "jp": "茂",
+    "on": "モ",
+    "kun": "しげ(る)",
+    "en": "overgrown, grow thick, be luxuriant"
+  },
+  {
+    "n": 339,
+    "jp": "犠",
+    "on": "ギ、キ",
+    "kun": "いけにえ",
+    "en": "sacrifice"
+  },
+  {
+    "n": 340,
+    "jp": "旗",
+    "on": "キ",
+    "kun": "はた",
+    "en": "national flag, banner, standard"
+  },
+  {
+    "n": 341,
+    "jp": "距",
+    "on": "キョ",
+    "kun": "へだ(たる)、けづめ",
+    "en": "long, be apart, rut, distance, spur"
+  },
+  {
+    "n": 342,
+    "jp": "雅",
+    "on": "ガ",
+    "kun": "みや(び)",
+    "en": "gracious, elegant, graceful, refined"
+  },
+  {
+    "n": 343,
+    "jp": "飾",
+    "on": "ショク",
+    "kun": "かざ(る)",
+    "en": "adorn, decorate"
+  },
+  {
+    "n": 344,
+    "jp": "網",
+    "on": "モウ",
+    "kun": "あみ",
+    "en": "network, net, mesh"
+  },
+  {
+    "n": 345,
+    "jp": "竜",
+    "on": "リュウ、リョウ、ロウ",
+    "kun": "たつ、いせ",
+    "en": "dragon, imperial"
+  },
+  {
+    "n": 346,
+    "jp": "詩",
+    "on": "シ",
+    "kun": "うた",
+    "en": "poem, poetry"
+  },
+  {
+    "n": 347,
+    "jp": "繁",
+    "on": "ハン",
+    "kun": "しげ(く)",
+    "en": "multiply, be fruitful, repeat, overlapping"
+  },
+  {
+    "n": 348,
+    "jp": "翼",
+    "on": "ヨク",
+    "kun": "つばさ",
+    "en": "wing, plane, flank"
+  },
+  {
+    "n": 349,
+    "jp": "茨",
+    "on": "シ、ジ",
+    "kun": "いばら、かや、くさぶき",
+    "en": "briar, thorn"
+  },
+  {
+    "n": 350,
+    "jp": "潟",
+    "on": "セキ",
+    "kun": "かた、-がた",
+    "en": "lagoon"
+  },
+  {
+    "n": 351,
+    "jp": "敵",
+    "on": "テキ",
+    "kun": "かたき、あだ、かな(う)",
+    "en": "enemy, foe, opponent"
+  },
+  {
+    "n": 352,
+    "jp": "魅",
+    "on": "ミ",
+    "kun": "—",
+    "en": "fascination, charm, bewitch"
+  },
+  {
+    "n": 353,
+    "jp": "嫌",
+    "on": "ケン、ゲン",
+    "kun": "きら(い)、いや",
+    "en": "dislike, detest, hate"
+  },
+  {
+    "n": 354,
+    "jp": "斉",
+    "on": "セイ、サイ",
+    "kun": "そろ(う)、ひと(しい)",
+    "en": "adjusted, alike, equal, similar condition or appearance"
+  },
+  {
+    "n": 355,
+    "jp": "敷",
+    "on": "フ",
+    "kun": "し(く)、-し(き)",
+    "en": "spread, pave, sit, promulgate"
+  },
+  {
+    "n": 356,
+    "jp": "擁",
+    "on": "ヨウ",
+    "kun": "—",
+    "en": "hug, surround, protect"
+  },
+  {
+    "n": 357,
+    "jp": "圏",
+    "on": "ケン",
+    "kun": "かこ(い)",
+    "en": "sphere, circle, radius, range"
+  },
+  {
+    "n": 358,
+    "jp": "酸",
+    "on": "サン",
+    "kun": "す(い)",
+    "en": "acid, sour"
+  },
+  {
+    "n": 359,
+    "jp": "罰",
+    "on": "バツ、バチ、ハツ",
+    "kun": "ばっ(する)",
+    "en": "penalty, punishment"
+  },
+  {
+    "n": 360,
+    "jp": "滅",
+    "on": "メツ",
+    "kun": "ほろ(びる)、ほろ(ぼす)",
+    "en": "destroy, ruin, overthrow, perish"
+  },
+  {
+    "n": 361,
+    "jp": "礎",
+    "on": "ソ",
+    "kun": "いしずえ",
+    "en": "cornerstone, foundation stone"
+  },
+  {
+    "n": 362,
+    "jp": "腐",
+    "on": "フ",
+    "kun": "くさ(る)、-くさ(る)",
+    "en": "rot, decay, sour"
+  },
+  {
+    "n": 363,
+    "jp": "脚",
+    "on": "キャク、キャ、カク",
+    "kun": "あし",
+    "en": "skids, leg, undercarriage, lower part, base"
+  },
+  {
+    "n": 364,
+    "jp": "菱",
+    "on": "リョウ",
+    "kun": "ひし",
+    "en": "diamond (shape), rhombus, water chestnut"
+  },
+  {
+    "n": 365,
+    "jp": "潮",
+    "on": "チョウ",
+    "kun": "しお、うしお",
+    "en": "tide, salt water, opportunity"
+  },
+  {
+    "n": 366,
+    "jp": "梅",
+    "on": "バイ",
+    "kun": "うめ",
+    "en": "plum"
+  },
+  {
+    "n": 367,
+    "jp": "尽",
+    "on": "ジン、サン",
+    "kun": "つ(きる)、つ(くす)",
+    "en": "exhaust, use up, run out of, deplete, befriend, serve"
+  },
+  {
+    "n": 368,
+    "jp": "僕",
+    "on": "ボク",
+    "kun": "しもべ",
+    "en": "me, I (masculine), servant"
+  },
+  {
+    "n": 369,
+    "jp": "桜",
+    "on": "オウ、ヨウ",
+    "kun": "さくら",
+    "en": "cherry, cherry tree"
+  },
+  {
+    "n": 370,
+    "jp": "滑",
+    "on": "カツ、コツ",
+    "kun": "すべ(る)、なめ(らか)",
+    "en": "slippery, slide, slip, smooth"
+  },
+  {
+    "n": 371,
+    "jp": "孤",
+    "on": "コ",
+    "kun": "—",
+    "en": "orphan, alone, solitary"
+  },
+  {
+    "n": 372,
+    "jp": "煕",
+    "on": "キ",
+    "kun": "たのし(む)、ひか(る)、ひろ(い)、よろこ(ぶ)",
+    "en": "shine, be bright"
+  },
+  {
+    "n": 373,
+    "jp": "炎",
+    "on": "エン",
+    "kun": "ほのお",
+    "en": "flame, blaze"
+  },
+  {
+    "n": 374,
+    "jp": "賠",
+    "on": "バイ",
+    "kun": "—",
+    "en": "compensation, indemnify"
+  },
+  {
+    "n": 375,
+    "jp": "句",
+    "on": "ク",
+    "kun": "—",
+    "en": "phrase, clause, sentence, passage, paragraph, haiku"
+  },
+  {
+    "n": 376,
+    "jp": "寿",
+    "on": "ジュ、ス、シュウ",
+    "kun": "ことぶき、ことぶ(く)",
+    "en": "longevity, congratulations, one's natural life"
+  },
+  {
+    "n": 377,
+    "jp": "鋼",
+    "on": "コウ",
+    "kun": "はがね",
+    "en": "steel"
+  },
+  {
+    "n": 378,
+    "jp": "頑",
+    "on": "ガン",
+    "kun": "かたく(な)",
+    "en": "stubborn, foolish, obstinate"
+  },
+  {
+    "n": 379,
+    "jp": "鎖",
+    "on": "サ",
+    "kun": "くさり、とざ(す)",
+    "en": "chain, irons, connection"
+  },
+  {
+    "n": 380,
+    "jp": "彩",
+    "on": "サイ",
+    "kun": "いろど(る)",
+    "en": "coloring, paint, makeup"
+  },
+  {
+    "n": 381,
+    "jp": "摩",
+    "on": "マ",
+    "kun": "ま(する)、さす(る)、す(る)",
+    "en": "chafe, rub, scrape, grind, scrub"
+  },
+  {
+    "n": 382,
+    "jp": "励",
+    "on": "レイ",
+    "kun": "はげ(む)、はげ(ます)",
+    "en": "encourage, be diligent, inspire"
+  },
+  {
+    "n": 383,
+    "jp": "縦",
+    "on": "ジュウ",
+    "kun": "たて",
+    "en": "vertical, length, height, self-indulgent, wayward"
+  },
+  {
+    "n": 384,
+    "jp": "輝",
+    "on": "キ",
+    "kun": "かがや(く)",
+    "en": "radiance, shine, sparkle, gleam, twinkle"
+  },
+  {
+    "n": 385,
+    "jp": "蓄",
+    "on": "チク",
+    "kun": "たくわ(える)",
+    "en": "amass, store, lay in provisions, bearded, accumulated savings"
+  },
+  {
+    "n": 386,
+    "jp": "軸",
+    "on": "ジク",
+    "kun": "—",
+    "en": "axis, pivot, stem, stalk, counter for scrolls"
+  },
+  {
+    "n": 387,
+    "jp": "巡",
+    "on": "ジュン",
+    "kun": "めぐ(る)、めぐ(り)",
+    "en": "patrol, go around, circumference"
+  },
+  {
+    "n": 388,
+    "jp": "稼",
+    "on": "カ",
+    "kun": "かせ(ぐ)",
+    "en": "earnings, work, earn money"
+  },
+  {
+    "n": 389,
+    "jp": "瞬",
+    "on": "シュン",
+    "kun": "またた(く)、まじろ(ぐ)",
+    "en": "wink, blink, twinkle"
+  },
+  {
+    "n": 390,
+    "jp": "砲",
+    "on": "ホウ",
+    "kun": "—",
+    "en": "cannon, gun, catapult"
+  },
+  {
+    "n": 391,
+    "jp": "噴",
+    "on": "フン",
+    "kun": "ふ(く)",
+    "en": "erupt, spout, emit, burst out"
+  },
+  {
+    "n": 392,
+    "jp": "誇",
+    "on": "コ",
+    "kun": "ほこ(る)",
+    "en": "boast, be proud, pride, triumphant"
+  },
+  {
+    "n": 393,
+    "jp": "祥",
+    "on": "ショウ",
+    "kun": "さいわ(い)、きざ(し)、よ(い)",
+    "en": "auspicious, happiness, blessedness, good omen"
+  },
+  {
+    "n": 394,
+    "jp": "牲",
+    "on": "セイ",
+    "kun": "—",
+    "en": "animal sacrifice, offering"
+  },
+  {
+    "n": 395,
+    "jp": "秩",
+    "on": "チツ",
+    "kun": "—",
+    "en": "regularity, order, system"
+  },
+  {
+    "n": 396,
+    "jp": "帝",
+    "on": "テイ",
+    "kun": "みかど",
+    "en": "sovereign, the emperor, god, creator"
+  },
+  {
+    "n": 397,
+    "jp": "宏",
+    "on": "コウ",
+    "kun": "ひろ(い)",
+    "en": "wide, large"
+  },
+  {
+    "n": 398,
+    "jp": "唆",
+    "on": "サ",
+    "kun": "そそ(る)、そそのか(す)",
+    "en": "tempt, seduce, instigate, promote"
+  },
+  {
+    "n": 399,
+    "jp": "阻",
+    "on": "ソ",
+    "kun": "はば(む)",
+    "en": "thwart, separate, prevent, obstruct, hinder, block"
+  },
+  {
+    "n": 400,
+    "jp": "泰",
+    "on": "タイ",
+    "kun": "—",
+    "en": "peaceful, calm, easy, Thailand, large"
+  },
+  {
+    "n": 401,
+    "jp": "賄",
+    "on": "ワイ",
+    "kun": "まかな(う)",
+    "en": "bribe, board, supply, finance"
+  },
+  {
+    "n": 402,
+    "jp": "撲",
+    "on": "ボク",
+    "kun": "—",
+    "en": "slap, strike, hit, beat, tell, speak"
+  },
+  {
+    "n": 403,
+    "jp": "堀",
+    "on": "クツ",
+    "kun": "ほり",
+    "en": "ditch, moat, canal"
+  },
+  {
+    "n": 404,
+    "jp": "菊",
+    "on": "キク",
+    "kun": "—",
+    "en": "chrysanthemum"
+  },
+  {
+    "n": 405,
+    "jp": "絞",
+    "on": "コウ",
+    "kun": "しぼ(る)、し(める)、し(まる)",
+    "en": "strangle, constrict, wring"
+  },
+  {
+    "n": 406,
+    "jp": "縁",
+    "on": "エン、-ネン",
+    "kun": "ふち、ゆかり、よすが、へり、えにし",
+    "en": "affinity, relation, connection, edge, border, verge, brink"
+  },
+  {
+    "n": 407,
+    "jp": "唯",
+    "on": "ユイ、イ",
+    "kun": "ただ",
+    "en": "solely, only, merely, simply"
+  },
+  {
+    "n": 408,
+    "jp": "膨",
+    "on": "ボウ",
+    "kun": "ふく(らむ)、ふく(れる)",
+    "en": "swell, get fat, thick"
+  },
+  {
+    "n": 409,
+    "jp": "耐",
+    "on": "タイ",
+    "kun": "た(える)",
+    "en": "-proof, enduring"
+  },
+  {
+    "n": 410,
+    "jp": "塾",
+    "on": "ジュク",
+    "kun": "—",
+    "en": "cram school, private school"
+  },
+  {
+    "n": 411,
+    "jp": "漏",
+    "on": "ロウ",
+    "kun": "も(る)、も(れる)、も(らす)",
+    "en": "leak, escape, time"
+  },
+  {
+    "n": 412,
+    "jp": "慶",
+    "on": "ケイ",
+    "kun": "よろこ(び)",
+    "en": "jubilation, congratulate, rejoice, be happy"
+  },
+  {
+    "n": 413,
+    "jp": "猛",
+    "on": "モウ",
+    "kun": "—",
+    "en": "fierce, rave, rush, become furious, wildness, strength"
+  },
+  {
+    "n": 414,
+    "jp": "芳",
+    "on": "ホウ",
+    "kun": "かんば(しい)",
+    "en": "perfume, balmy, favorable, fragrant"
+  },
+  {
+    "n": 415,
+    "jp": "懲",
+    "on": "チョウ",
+    "kun": "こ(りる)、こ(らす)、こ(らしめる)",
+    "en": "penal, chastise, punish, discipline"
+  },
+  {
+    "n": 416,
+    "jp": "剣",
+    "on": "ケン",
+    "kun": "つるぎ",
+    "en": "sabre, sword, blade, clock hand"
+  },
+  {
+    "n": 417,
+    "jp": "幌",
+    "on": "コウ",
+    "kun": "ほろ、とばり",
+    "en": "canopy, awning, hood, curtain"
+  },
+  {
+    "n": 418,
+    "jp": "彰",
+    "on": "ショウ",
+    "kun": "—",
+    "en": "patent, clear"
+  },
+  {
+    "n": 419,
+    "jp": "棋",
+    "on": "キ",
+    "kun": "ご",
+    "en": "chess piece, Japanese chess, shogi"
+  },
+  {
+    "n": 420,
+    "jp": "丁",
+    "on": "チョウ、テイ、チン、トウ、チ",
+    "kun": "ひのと",
+    "en": "street, ward, town, counter for guns, tools"
+  },
+  {
+    "n": 421,
+    "jp": "恒",
+    "on": "コウ",
+    "kun": "つね、つねに",
+    "en": "constancy, always"
+  },
+  {
+    "n": 422,
+    "jp": "揚",
+    "on": "ヨウ",
+    "kun": "あ(げる)、-あ(げ)",
+    "en": "raise, elevate, hoist, praise, extol, fry in deep fat"
+  },
+  {
+    "n": 423,
+    "jp": "冒",
+    "on": "ボウ",
+    "kun": "おか(す)",
+    "en": "risk, face, defy, dare, damage, assume (a name)"
+  },
+  {
+    "n": 424,
+    "jp": "之",
+    "on": "シ",
+    "kun": "の、これ、ゆく、この",
+    "en": "of, this"
+  },
+  {
+    "n": 425,
+    "jp": "曽",
+    "on": "ソウ、ソ",
+    "kun": "かつ、かつて、すなわち",
+    "en": "formerly, once, before, ever, never, ex-"
+  },
+  {
+    "n": 426,
+    "jp": "倫",
+    "on": "リン",
+    "kun": "—",
+    "en": "ethics, companion"
+  },
+  {
+    "n": 427,
+    "jp": "陳",
+    "on": "チン",
+    "kun": "ひ(ねる)",
+    "en": "exhibit, state, relate, explain"
+  },
+  {
+    "n": 428,
+    "jp": "憶",
+    "on": "オク",
+    "kun": "—",
+    "en": "recollection, think, remember"
+  },
+  {
+    "n": 429,
+    "jp": "潜",
+    "on": "セン",
+    "kun": "ひそ(む)、もぐ(る)、かく(れる)、くぐ(る)",
+    "en": "submerge, conceal, hide, lower (voice), hush"
+  },
+  {
+    "n": 430,
+    "jp": "梨",
+    "on": "リ",
+    "kun": "なし",
+    "en": "pear tree"
+  },
+  {
+    "n": 431,
+    "jp": "仁",
+    "on": "ジン、ニ、ニン",
+    "kun": "—",
+    "en": "humanity, virtue, benevolence, charity, man, kernel"
+  },
+  {
+    "n": 432,
+    "jp": "克",
+    "on": "コク",
+    "kun": "か(つ)",
+    "en": "overcome, kindly, skillfully"
+  },
+  {
+    "n": 433,
+    "jp": "岳",
+    "on": "ガク",
+    "kun": "たけ",
+    "en": "point, peak, mountain"
+  },
+  {
+    "n": 434,
+    "jp": "概",
+    "on": "ガイ",
+    "kun": "おおむ(ね)",
+    "en": "outline, condition, approximation, generally"
+  },
+  {
+    "n": 435,
+    "jp": "拘",
+    "on": "コウ",
+    "kun": "かか(わる)",
+    "en": "arrest, seize, concerned, adhere to, despite"
+  },
+  {
+    "n": 436,
+    "jp": "墓",
+    "on": "ボ",
+    "kun": "はか",
+    "en": "grave, tomb"
+  },
+  {
+    "n": 437,
+    "jp": "黙",
+    "on": "モク、ボク",
+    "kun": "だま(る)、もだ(す)",
+    "en": "silence, become silent, stop speaking, leave as is"
+  },
+  {
+    "n": 438,
+    "jp": "須",
+    "on": "ス、シュ",
+    "kun": "すべから(く)、すべし、ひげ",
+    "en": "ought, by all means, necessarily"
+  },
+  {
+    "n": 439,
+    "jp": "偏",
+    "on": "ヘン",
+    "kun": "かたよ(る)",
+    "en": "partial, side, left-side radical, inclining, biased"
+  },
+  {
+    "n": 440,
+    "jp": "雰",
+    "on": "フン",
+    "kun": "—",
+    "en": "atmosphere, fog"
+  },
+  {
+    "n": 441,
+    "jp": "遇",
+    "on": "グウ",
+    "kun": "あ(う)",
+    "en": "meet, encounter, interview, treat, entertain, receive, deal with"
+  },
+  {
+    "n": 442,
+    "jp": "諮",
+    "on": "シ",
+    "kun": "はか(る)",
+    "en": "consult with"
+  },
+  {
+    "n": 443,
+    "jp": "狭",
+    "on": "キョウ、コウ",
+    "kun": "せま(い)、せば(める)、さ",
+    "en": "cramped, narrow, contract, tight"
+  },
+  {
+    "n": 444,
+    "jp": "卓",
+    "on": "タク",
+    "kun": "—",
+    "en": "eminent, table, desk, high"
+  },
+  {
+    "n": 445,
+    "jp": "亀",
+    "on": "キ、キュウ、キン",
+    "kun": "かめ",
+    "en": "tortoise, turtle"
+  },
+  {
+    "n": 446,
+    "jp": "糧",
+    "on": "リョウ、ロウ",
+    "kun": "かて",
+    "en": "provisions, food, bread"
+  },
+  {
+    "n": 447,
+    "jp": "梶",
+    "on": "ビ",
+    "kun": "かじ、こずえ",
+    "en": "sculling oar"
+  },
+  {
+    "n": 448,
+    "jp": "簿",
+    "on": "ボ",
+    "kun": "—",
+    "en": "register, record book"
+  },
+  {
+    "n": 449,
+    "jp": "炉",
+    "on": "ロ",
+    "kun": "いろり",
+    "en": "hearth, furnace, kiln, reactor"
+  },
+  {
+    "n": 450,
+    "jp": "牧",
+    "on": "ボク",
+    "kun": "まき",
+    "en": "breed, care for, shepherd, feed, pasture"
+  },
+  {
+    "n": 451,
+    "jp": "殊",
+    "on": "シュ",
+    "kun": "こと",
+    "en": "particularly, especially, exceptionally"
+  },
+  {
+    "n": 452,
+    "jp": "殖",
+    "on": "ショク",
+    "kun": "ふ(える)、ふ(やす)",
+    "en": "augment, increase, multiply, raise"
+  },
+  {
+    "n": 453,
+    "jp": "艦",
+    "on": "カン",
+    "kun": "—",
+    "en": "warship"
+  },
+  {
+    "n": 454,
+    "jp": "輩",
+    "on": "ハイ",
+    "kun": "-ばら、やから、ともがら",
+    "en": "comrade, fellow, people, companions"
+  },
+  {
+    "n": 455,
+    "jp": "穴",
+    "on": "ケツ",
+    "kun": "あな",
+    "en": "hole, aperture, slit, cave, den"
+  },
+  {
+    "n": 456,
+    "jp": "奇",
+    "on": "キ",
+    "kun": "く(しき)、あや(しい)、めずら(しい)",
+    "en": "strange, strangeness, curiosity"
+  },
+  {
+    "n": 457,
+    "jp": "慢",
+    "on": "マン",
+    "kun": "—",
+    "en": "ridicule, laziness"
+  },
+  {
+    "n": 458,
+    "jp": "鶴",
+    "on": "カク",
+    "kun": "つる",
+    "en": "crane, stork"
+  },
+  {
+    "n": 459,
+    "jp": "謀",
+    "on": "ボウ、ム",
+    "kun": "はか(る)、たばか(る)、はかりごと",
+    "en": "conspire, cheat, impose on, plan, devise, scheme, have in mind, deceive"
+  },
+  {
+    "n": 460,
+    "jp": "暖",
+    "on": "ダン、ノン",
+    "kun": "あたた(かい)",
+    "en": "warmth"
+  },
+  {
+    "n": 461,
+    "jp": "昌",
+    "on": "ショウ",
+    "kun": "さかん",
+    "en": "prosperous, bright, clear"
+  },
+  {
+    "n": 462,
+    "jp": "拍",
+    "on": "ハク、ヒョウ",
+    "kun": "—",
+    "en": "clap, beat (music)"
+  },
+  {
+    "n": 463,
+    "jp": "朗",
+    "on": "ロウ",
+    "kun": "ほが(らか)、あき(らか)",
+    "en": "melodious, clear, bright, serene, cheerful"
+  },
+  {
+    "n": 464,
+    "jp": "丈",
+    "on": "ジョウ",
+    "kun": "たけ、だけ",
+    "en": "length, ten shaku, measure, Mr., Ms., height, stature, all (one has), only"
+  },
+  {
+    "n": 465,
+    "jp": "寛",
+    "on": "カン",
+    "kun": "くつろ(ぐ)、ひろ(い)、ゆる(やか)",
+    "en": "tolerant, leniency, generosity, relax, feel at home, be at ease, broadminded"
+  },
+  {
+    "n": 466,
+    "jp": "覆",
+    "on": "フク",
+    "kun": "おお(う)、くつがえ(す)",
+    "en": "capsize, cover, shade, mantle, be ruined"
+  },
+  {
+    "n": 467,
+    "jp": "胞",
+    "on": "ホウ",
+    "kun": "—",
+    "en": "placenta, sac, sheath"
+  },
+  {
+    "n": 468,
+    "jp": "泣",
+    "on": "キュウ",
+    "kun": "な(く)",
+    "en": "cry, weep, moan"
+  },
+  {
+    "n": 469,
+    "jp": "隔",
+    "on": "カク",
+    "kun": "へだ(てる)",
+    "en": "isolate, alternate, distance, separate, gulf"
+  },
+  {
+    "n": 470,
+    "jp": "浄",
+    "on": "ジョウ、セイ",
+    "kun": "きよ(める)、きよ(い)",
+    "en": "clean, purify, cleanse, exorcise, Manchu Dynasty"
+  },
+  {
+    "n": 471,
+    "jp": "没",
+    "on": "ボツ、モツ",
+    "kun": "おぼ(れる)、しず(む)、ない",
+    "en": "drown, sink, hide, fall into, disappear, die"
+  },
+  {
+    "n": 472,
+    "jp": "暇",
+    "on": "カ",
+    "kun": "ひま、いとま",
+    "en": "spare time, rest, leisure, time, leave of absence"
+  },
+  {
+    "n": 473,
+    "jp": "肺",
+    "on": "ハイ",
+    "kun": "—",
+    "en": "lungs"
+  },
+  {
+    "n": 474,
+    "jp": "貞",
+    "on": "テイ、ジョウ",
+    "kun": "ただし(い)、さだ",
+    "en": "upright, chastity, constancy, righteousness"
+  },
+  {
+    "n": 475,
+    "jp": "靖",
+    "on": "セイ、ジョウ",
+    "kun": "やす(んじる)",
+    "en": "peaceful"
+  },
+  {
+    "n": 476,
+    "jp": "鑑",
+    "on": "カン",
+    "kun": "かんが(みる)、かがみ",
+    "en": "specimen, take warning from, learn from"
+  },
+  {
+    "n": 477,
+    "jp": "飼",
+    "on": "シ",
+    "kun": "か(う)",
+    "en": "domesticate, raise, keep, feed"
+  },
+  {
+    "n": 478,
+    "jp": "陰",
+    "on": "イン",
+    "kun": "かげ、かげ(る)",
+    "en": "shade, yin, negative, sex organs, secret, shadow"
+  },
+  {
+    "n": 479,
+    "jp": "銘",
+    "on": "メイ",
+    "kun": "—",
+    "en": "inscription, signature (of artisan)"
+  },
+  {
+    "n": 480,
+    "jp": "随",
+    "on": "ズイ",
+    "kun": "まにま(に)、したが(う)",
+    "en": "follow, though, notwithstanding, while, during, both, all, obey, submit to"
+  },
+  {
+    "n": 481,
+    "jp": "烈",
+    "on": "レツ",
+    "kun": "はげ(しい)",
+    "en": "ardent, violent, vehement, furious, severe, extreme"
+  },
+  {
+    "n": 482,
+    "jp": "尋",
+    "on": "ジン",
+    "kun": "たず(ねる)、ひろ",
+    "en": "inquire, fathom, look for"
+  },
+  {
+    "n": 483,
+    "jp": "渕",
+    "on": "エン、カク、コウ",
+    "kun": "ふち、かた(い)、はなわ",
+    "en": "edge"
+  },
+  {
+    "n": 484,
+    "jp": "稿",
+    "on": "コウ",
+    "kun": "わら、したがき",
+    "en": "draft, copy, manuscript, straw"
+  },
+  {
+    "n": 485,
+    "jp": "丹",
+    "on": "タン",
+    "kun": "に",
+    "en": "rust-colored, red, red lead, pills, sincerity"
+  },
+  {
+    "n": 486,
+    "jp": "啓",
+    "on": "ケイ",
+    "kun": "ひら(く)、さと(す)",
+    "en": "disclose, open, say"
+  },
+  {
+    "n": 487,
+    "jp": "也",
+    "on": "ヤ、エ",
+    "kun": "なり、か、また",
+    "en": "to be (classical)"
+  },
+  {
+    "n": 488,
+    "jp": "丘",
+    "on": "キュウ",
+    "kun": "おか",
+    "en": "hill, knoll"
+  },
+  {
+    "n": 489,
+    "jp": "棟",
+    "on": "トウ",
+    "kun": "むね、むな-",
+    "en": "ridgepole, ridge"
+  },
+  {
+    "n": 490,
+    "jp": "壌",
+    "on": "ジョウ",
+    "kun": "つち",
+    "en": "lot, earth, soil"
+  },
+  {
+    "n": 491,
+    "jp": "漫",
+    "on": "マン",
+    "kun": "みだり(に)、そぞ(ろ)",
+    "en": "cartoon, involuntarily, unrestrained, in spite of oneself, corrupt"
+  },
+  {
+    "n": 492,
+    "jp": "玄",
+    "on": "ゲン",
+    "kun": "くろ、くろ(い)",
+    "en": "mysterious, occultness, black, deep, profound"
+  },
+  {
+    "n": 493,
+    "jp": "粘",
+    "on": "ネン",
+    "kun": "ねば(る)",
+    "en": "sticky, glutinous, greasy, persevere"
+  },
+  {
+    "n": 494,
+    "jp": "悟",
+    "on": "ゴ",
+    "kun": "さと(る)",
+    "en": "enlightenment, perceive, discern, realize, understand"
+  },
+  {
+    "n": 495,
+    "jp": "舗",
+    "on": "ホ",
+    "kun": "—",
+    "en": "shop, store, pave"
+  },
+  {
+    "n": 496,
+    "jp": "妊",
+    "on": "ニン、ジン",
+    "kun": "はら(む)、みごも(る)",
+    "en": "pregnancy"
+  },
+  {
+    "n": 497,
+    "jp": "熟",
+    "on": "ジュク",
+    "kun": "う(れる)",
+    "en": "mellow, ripen, mature, acquire skill"
+  },
+  {
+    "n": 498,
+    "jp": "旭",
+    "on": "キョク",
+    "kun": "あさひ",
+    "en": "rising sun, morning sun"
+  },
+  {
+    "n": 499,
+    "jp": "恩",
+    "on": "オン",
+    "kun": "—",
+    "en": "grace, kindness, goodness, favor, mercy, blessing, benefit"
+  },
+  {
+    "n": 500,
+    "jp": "騰",
+    "on": "トウ",
+    "kun": "あが(る)、のぼ(る)",
+    "en": "leaping up, jumping up, rising, advancing, going"
+  },
+  {
+    "n": 501,
+    "jp": "往",
+    "on": "オウ",
+    "kun": "い(く)、いにしえ、さき(に)、ゆ(く)",
+    "en": ""
+  },
+  {
+    "n": 502,
+    "jp": "豆",
+    "on": "トウ、ズ",
+    "kun": "まめ、まめ-",
+    "en": ""
+  },
+  {
+    "n": 503,
+    "jp": "遂",
+    "on": "スイ",
+    "kun": "と(げる)、つい(に)",
+    "en": ""
+  },
+  {
+    "n": 504,
+    "jp": "狂",
+    "on": "キョウ",
+    "kun": "くる(う)",
+    "en": ""
+  },
+  {
+    "n": 505,
+    "jp": "栃",
+    "on": "",
+    "kun": "とち",
+    "en": ""
+  },
+  {
+    "n": 506,
+    "jp": "岐",
+    "on": "キ、ギ",
+    "kun": "",
+    "en": ""
+  },
+  {
+    "n": 507,
+    "jp": "陛",
+    "on": "ヘイ",
+    "kun": "",
+    "en": ""
+  },
+  {
+    "n": 508,
+    "jp": "緯",
+    "on": "イ",
+    "kun": "よこいと、ぬき",
+    "en": ""
+  },
+  {
+    "n": 509,
+    "jp": "培",
+    "on": "バイ",
+    "kun": "つちか(う)",
+    "en": ""
+  },
+  {
+    "n": 510,
+    "jp": "衰",
+    "on": "スイ",
+    "kun": "おとろ(える)",
+    "en": ""
+  },
+  {
+    "n": 511,
+    "jp": "艇",
+    "on": "テイ",
+    "kun": "",
+    "en": ""
+  },
+  {
+    "n": 512,
+    "jp": "屈",
+    "on": "クツ",
+    "kun": "かが(む)",
+    "en": ""
+  },
+  {
+    "n": 513,
+    "jp": "径",
+    "on": "ケイ",
+    "kun": "みち、こみち、さしわたし、ただちに",
+    "en": ""
+  },
+  {
+    "n": 514,
+    "jp": "淡",
+    "on": "タン",
+    "kun": "あわ(い)",
+    "en": ""
+  },
+  {
+    "n": 515,
+    "jp": "抽",
+    "on": "チュウ",
+    "kun": "ひき",
+    "en": ""
+  },
+  {
+    "n": 516,
+    "jp": "披",
+    "on": "ヒ",
+    "kun": "",
+    "en": ""
+  },
+  {
+    "n": 517,
+    "jp": "廷",
+    "on": "テイ",
+    "kun": "",
+    "en": ""
+  },
+  {
+    "n": 518,
+    "jp": "錦",
+    "on": "キン",
+    "kun": "にしき",
+    "en": ""
+  },
+  {
+    "n": 519,
+    "jp": "准",
+    "on": "ジュン",
+    "kun": "",
+    "en": ""
+  },
+  {
+    "n": 520,
+    "jp": "暑",
+    "on": "ショ",
+    "kun": "あつ(い)",
+    "en": ""
+  },
+  {
+    "n": 521,
+    "jp": "磯",
+    "on": "キ",
+    "kun": "いそ",
+    "en": ""
+  },
+  {
+    "n": 522,
+    "jp": "奨",
+    "on": "ショウ、ソウ",
+    "kun": "すす(める)",
+    "en": ""
+  },
+  {
+    "n": 523,
+    "jp": "浸",
+    "on": "シン",
+    "kun": "ひた(す)、つ(かる)",
+    "en": ""
+  },
+  {
+    "n": 524,
+    "jp": "剰",
+    "on": "ジョウ",
+    "kun": "あまつさえ、あま(り)",
+    "en": ""
+  },
+  {
+    "n": 525,
+    "jp": "胆",
+    "on": "タン",
+    "kun": "きも",
+    "en": ""
+  },
+  {
+    "n": 526,
+    "jp": "繊",
+    "on": "セン",
+    "kun": "",
+    "en": ""
+  },
+  {
+    "n": 527,
+    "jp": "駒",
+    "on": "ク",
+    "kun": "こま",
+    "en": ""
+  },
+  {
+    "n": 528,
+    "jp": "虚",
+    "on": "キョ、コ",
+    "kun": "むな(しい)、うつ(ろ)",
+    "en": ""
+  },
+  {
+    "n": 529,
+    "jp": "孜",
+    "on": "シ",
+    "kun": "つと(める)",
+    "en": ""
+  },
+  {
+    "n": 530,
+    "jp": "霊",
+    "on": "レイ、リョウ",
+    "kun": "たま",
+    "en": ""
+  },
+  {
+    "n": 531,
+    "jp": "帳",
+    "on": "チョウ",
+    "kun": "とばり",
+    "en": ""
+  },
+  {
+    "n": 532,
+    "jp": "悔",
+    "on": "カイ",
+    "kun": "く(いる)、く(やむ)",
+    "en": ""
+  },
+  {
+    "n": 533,
+    "jp": "諭",
+    "on": "ユ",
+    "kun": "さと(す)",
+    "en": ""
+  },
+  {
+    "n": 534,
+    "jp": "惨",
+    "on": "サン、ザン",
+    "kun": "みじ(め)、いた(む)、むご(い)",
+    "en": ""
+  },
+  {
+    "n": 535,
+    "jp": "虐",
+    "on": "ギャク",
+    "kun": "しいた(げる)",
+    "en": ""
+  },
+  {
+    "n": 536,
+    "jp": "翻",
+    "on": "ホン、ハン",
+    "kun": "ひるがえ(る)",
+    "en": ""
+  },
+  {
+    "n": 537,
+    "jp": "墜",
+    "on": "ツイ",
+    "kun": "お(ちる)、お(つ)",
+    "en": ""
+  },
+  {
+    "n": 538,
+    "jp": "沼",
+    "on": "ショウ",
+    "kun": "ぬま",
+    "en": ""
+  },
+  {
+    "n": 539,
+    "jp": "据",
+    "on": "キョ",
+    "kun": "す(える)、す(わる)",
+    "en": ""
+  },
+  {
+    "n": 540,
+    "jp": "肥",
+    "on": "ヒ",
+    "kun": "こ(える)、こえ、こ(やす)、ふと(る)",
+    "en": ""
+  },
+  {
+    "n": 541,
+    "jp": "徐",
+    "on": "ジョ",
+    "kun": "おもむ(ろに)",
+    "en": ""
+  },
+  {
+    "n": 542,
+    "jp": "糖",
+    "on": "トウ",
+    "kun": "",
+    "en": ""
+  },
+  {
+    "n": 543,
+    "jp": "搭",
+    "on": "トウ",
+    "kun": "",
+    "en": ""
+  },
+  {
+    "n": 544,
+    "jp": "盾",
+    "on": "ジュン",
+    "kun": "たて",
+    "en": ""
+  },
+  {
+    "n": 545,
+    "jp": "脈",
+    "on": "ミャク",
+    "kun": "すじ",
+    "en": ""
+  },
+  {
+    "n": 546,
+    "jp": "滝",
+    "on": "ロウ、ソウ",
+    "kun": "たき",
+    "en": ""
+  },
+  {
+    "n": 547,
+    "jp": "軌",
+    "on": "キ",
+    "kun": "",
+    "en": ""
+  },
+  {
+    "n": 548,
+    "jp": "俵",
+    "on": "ヒョウ",
+    "kun": "たわら",
+    "en": ""
+  },
+  {
+    "n": 549,
+    "jp": "妨",
+    "on": "ボウ",
+    "kun": "さまた(げる)",
+    "en": ""
+  },
+  {
+    "n": 550,
+    "jp": "盧",
+    "on": "ロ",
+    "kun": "",
+    "en": ""
+  },
+  {
+    "n": 551,
+    "jp": "擦",
+    "on": "サツ",
+    "kun": "す(る)、-ず(れ)、こす(る)",
+    "en": ""
+  },
+  {
+    "n": 552,
+    "jp": "鯨",
+    "on": "ゲイ",
+    "kun": "くじら",
+    "en": ""
+  },
+  {
+    "n": 553,
+    "jp": "荘",
+    "on": "ソウ、ショウ、チャン",
+    "kun": "ほうき、おごそ(か)",
+    "en": ""
+  },
+  {
+    "n": 554,
+    "jp": "諾",
+    "on": "ダク",
+    "kun": "",
+    "en": ""
+  },
+  {
+    "n": 555,
+    "jp": "雷",
+    "on": "ライ",
+    "kun": "かみなり、いかずち、いかづち",
+    "en": ""
+  },
+  {
+    "n": 556,
+    "jp": "漂",
+    "on": "ヒョウ",
+    "kun": "ただよ(う)",
+    "en": ""
+  },
+  {
+    "n": 557,
+    "jp": "懐",
+    "on": "カイ、エ",
+    "kun": "ふところ、なつ(かしい)、なず(ける)、いだ(く)、おも(う)",
+    "en": ""
+  },
+  {
+    "n": 558,
+    "jp": "勘",
+    "on": "カン",
+    "kun": "",
+    "en": ""
+  },
+  {
+    "n": 559,
+    "jp": "栽",
+    "on": "サイ",
+    "kun": "",
+    "en": ""
+  },
+  {
+    "n": 560,
+    "jp": "拐",
+    "on": "カイ",
+    "kun": "",
+    "en": ""
+  },
+  {
+    "n": 561,
+    "jp": "笠",
+    "on": "リュウ",
+    "kun": "かさ",
+    "en": ""
+  },
+  {
+    "n": 562,
+    "jp": "駄",
+    "on": "ダ、タ",
+    "kun": "",
+    "en": ""
+  },
+  {
+    "n": 563,
+    "jp": "添",
+    "on": "テン",
+    "kun": "そ(える)、そ(う)",
+    "en": ""
+  },
+  {
+    "n": 564,
+    "jp": "冠",
+    "on": "カン",
+    "kun": "かんむり",
+    "en": ""
+  },
+  {
+    "n": 565,
+    "jp": "斜",
+    "on": "シャ",
+    "kun": "なな(め)、はす",
+    "en": ""
+  },
+  {
+    "n": 566,
+    "jp": "鏡",
+    "on": "キョウ、ケイ",
+    "kun": "かがみ",
+    "en": ""
+  },
+  {
+    "n": 567,
+    "jp": "聡",
+    "on": "ソウ",
+    "kun": "さと(い)、みみざと(い)",
+    "en": ""
+  },
+  {
+    "n": 568,
+    "jp": "浪",
+    "on": "ロウ",
+    "kun": "",
+    "en": ""
+  },
+  {
+    "n": 569,
+    "jp": "亜",
+    "on": "ア",
+    "kun": "つ(ぐ)",
+    "en": ""
+  },
+  {
+    "n": 570,
+    "jp": "覧",
+    "on": "ラン",
+    "kun": "み(る)",
+    "en": ""
+  },
+  {
+    "n": 571,
+    "jp": "詐",
+    "on": "サ",
+    "kun": "いつわ(る)",
+    "en": ""
+  },
+  {
+    "n": 572,
+    "jp": "壇",
+    "on": "ダン、タン",
+    "kun": "",
+    "en": ""
+  },
+  {
+    "n": 573,
+    "jp": "勲",
+    "on": "クン",
+    "kun": "いさお",
+    "en": ""
+  },
+  {
+    "n": 574,
+    "jp": "魔",
+    "on": "マ",
+    "kun": "",
+    "en": ""
+  },
+  {
+    "n": 575,
+    "jp": "酬",
+    "on": "シュウ、シュ、トウ",
+    "kun": "むく(いる)",
+    "en": ""
+  },
+  {
+    "n": 576,
+    "jp": "紫",
+    "on": "シ",
+    "kun": "むらさき",
+    "en": ""
+  },
+  {
+    "n": 577,
+    "jp": "曙",
+    "on": "ショ",
+    "kun": "あけぼの",
+    "en": ""
+  },
+  {
+    "n": 578,
+    "jp": "紋",
+    "on": "モン",
+    "kun": "",
+    "en": ""
+  },
+  {
+    "n": 579,
+    "jp": "卸",
+    "on": "シャ",
+    "kun": "おろ(す)、おろし",
+    "en": ""
+  },
+  {
+    "n": 580,
+    "jp": "奮",
+    "on": "フン",
+    "kun": "ふる(う)",
+    "en": ""
+  },
+  {
+    "n": 581,
+    "jp": "趙",
+    "on": "チョウ、ジョウ、キョウ",
+    "kun": "",
+    "en": ""
+  },
+  {
+    "n": 582,
+    "jp": "欄",
+    "on": "ラン",
+    "kun": "てすり",
+    "en": ""
+  },
+  {
+    "n": 583,
+    "jp": "逸",
+    "on": "イツ",
+    "kun": "そ(れる)、はぐ(れる)",
+    "en": ""
+  },
+  {
+    "n": 584,
+    "jp": "涯",
+    "on": "ガイ",
+    "kun": "はて",
+    "en": ""
+  },
+  {
+    "n": 585,
+    "jp": "拓",
+    "on": "タク",
+    "kun": "ひら(く)",
+    "en": ""
+  },
+  {
+    "n": 586,
+    "jp": "眼",
+    "on": "ガン、ゲン",
+    "kun": "まなこ、め",
+    "en": ""
+  },
+  {
+    "n": 587,
+    "jp": "獄",
+    "on": "ゴク",
+    "kun": "",
+    "en": ""
+  },
+  {
+    "n": 588,
+    "jp": "筑",
+    "on": "チク",
+    "kun": "",
+    "en": ""
+  },
+  {
+    "n": 589,
+    "jp": "尚",
+    "on": "ショウ",
+    "kun": "なお",
+    "en": ""
+  },
+  {
+    "n": 590,
+    "jp": "阜",
+    "on": "フ、フウ",
+    "kun": "",
+    "en": ""
+  },
+  {
+    "n": 591,
+    "jp": "彫",
+    "on": "チョウ",
+    "kun": "ほ(る)、-ぼ(り)",
+    "en": ""
+  },
+  {
+    "n": 592,
+    "jp": "穏",
+    "on": "オン",
+    "kun": "おだ(やか)",
+    "en": ""
+  },
+  {
+    "n": 593,
+    "jp": "顕",
+    "on": "ケン",
+    "kun": "あきらか、あらわ(れる)",
+    "en": ""
+  },
+  {
+    "n": 594,
+    "jp": "巧",
+    "on": "コウ",
+    "kun": "たく(み)、うま(い)",
+    "en": ""
+  },
+  {
+    "n": 595,
+    "jp": "矛",
+    "on": "ム、ボウ",
+    "kun": "ほこ",
+    "en": ""
+  },
+  {
+    "n": 596,
+    "jp": "垣",
+    "on": "エン",
+    "kun": "かき",
+    "en": ""
+  },
+  {
+    "n": 597,
+    "jp": "欺",
+    "on": "ギ",
+    "kun": "あざむ(く)",
+    "en": ""
+  },
+  {
+    "n": 598,
+    "jp": "釣",
+    "on": "チョウ",
+    "kun": "つ(る)",
+    "en": ""
+  },
+  {
+    "n": 599,
+    "jp": "萩",
+    "on": "シュウ",
+    "kun": "はぎ",
+    "en": ""
+  },
+  {
+    "n": 600,
+    "jp": "粧",
+    "on": "ショウ",
+    "kun": "",
+    "en": ""
+  },
+  {
+    "n": 601,
+    "jp": "葛",
+    "on": "カツ、カチ",
+    "kun": "つづら、くず",
+    "en": "arrowroot, kudzu"
+  },
+  {
+    "n": 602,
+    "jp": "粛",
+    "on": "シュク、スク",
+    "kun": "つつし(む)",
+    "en": "solemn, quietly, softly"
+  },
+  {
+    "n": 603,
+    "jp": "栗",
+    "on": "リツ、リ",
+    "kun": "くり、おののく",
+    "en": "chestnut"
+  },
+  {
+    "n": 604,
+    "jp": "愚",
+    "on": "グ",
+    "kun": "おろ(か)",
+    "en": "foolish, folly, absurdity, stupid"
+  },
+  {
+    "n": 605,
+    "jp": "嘉",
+    "on": "カ",
+    "kun": "よみ(する)、よい",
+    "en": "applaud, praise, esteem, happy, auspicious"
+  },
+  {
+    "n": 606,
+    "jp": "遭",
+    "on": "ソウ",
+    "kun": "あ(う)、あ(わせる)",
+    "en": "encounter, meet, party, association, interview, join"
+  },
+  {
+    "n": 607,
+    "jp": "架",
+    "on": "カ",
+    "kun": "か(ける)",
+    "en": "erect, frame, mount, support, shelf, construct"
+  },
+  {
+    "n": 608,
+    "jp": "篠",
+    "on": "ゾウ、ショウ",
+    "kun": "しの、ささ、すず",
+    "en": "bamboo grass"
+  },
+  {
+    "n": 609,
+    "jp": "鬼",
+    "on": "キ",
+    "kun": "おに",
+    "en": "ghost, devil"
+  },
+  {
+    "n": 610,
+    "jp": "庶",
+    "on": "ショ",
+    "kun": "",
+    "en": "commoner, all, bastard"
+  },
+  {
+    "n": 611,
+    "jp": "稚",
+    "on": "チ、ジ",
+    "kun": "いとけない、おさない、おくて、おでる",
+    "en": "immature, young"
+  },
+  {
+    "n": 612,
+    "jp": "菅",
+    "on": "カン、ケン",
+    "kun": "すげ",
+    "en": "sedge"
+  },
+  {
+    "n": 613,
+    "jp": "滋",
+    "on": "ジ、シ",
+    "kun": "",
+    "en": "nourishing, more & more, be luxuriant, planting, turbidity"
+  },
+  {
+    "n": 614,
+    "jp": "幻",
+    "on": "ゲン",
+    "kun": "まぼろし",
+    "en": "phantasm, vision, dream, illusion, apparition"
+  },
+  {
+    "n": 615,
+    "jp": "煮",
+    "on": "シャ",
+    "kun": "に(る)、-に",
+    "en": "boil, cook"
+  },
+  {
+    "n": 616,
+    "jp": "姫",
+    "on": "キ",
+    "kun": "ひめ、ひめ-",
+    "en": "princess"
+  },
+  {
+    "n": 617,
+    "jp": "誓",
+    "on": "セイ",
+    "kun": "ちか(う)",
+    "en": "vow, swear, pledge"
+  },
+  {
+    "n": 618,
+    "jp": "把",
+    "on": "ハ、ワ",
+    "kun": "",
+    "en": "grasp, faggot, bunch, counter for bundles"
+  },
+  {
+    "n": 619,
+    "jp": "践",
+    "on": "セン",
+    "kun": "ふ(む)",
+    "en": "tread, step on, trample, practice, carry through"
+  },
+  {
+    "n": 620,
+    "jp": "呈",
+    "on": "テイ",
+    "kun": "",
+    "en": "display, offer, present, send, exhibit"
+  },
+  {
+    "n": 621,
+    "jp": "疎",
+    "on": "ソ、ショ",
+    "kun": "うと(い)、まば(ら)",
+    "en": "alienate, rough, neglect, shun, sparse, penetrate"
+  },
+  {
+    "n": 622,
+    "jp": "仰",
+    "on": "ギョウ、コウ",
+    "kun": "あお(ぐ)、お(っしゃる)",
+    "en": "face-up, look up, depend, seek, respect, revere, drink, take"
+  },
+  {
+    "n": 623,
+    "jp": "剛",
+    "on": "ゴウ",
+    "kun": "",
+    "en": "sturdy, strength"
+  },
+  {
+    "n": 624,
+    "jp": "疾",
+    "on": "シツ",
+    "kun": "はや(い)",
+    "en": "rapidly"
+  },
+  {
+    "n": 625,
+    "jp": "征",
+    "on": "セイ",
+    "kun": "",
+    "en": "subjugate, attack the rebellious, collect taxes"
+  },
+  {
+    "n": 626,
+    "jp": "砕",
+    "on": "サイ",
+    "kun": "くだ(く)",
+    "en": "smash, break, crush, familiar, popular"
+  },
+  {
+    "n": 627,
+    "jp": "謡",
+    "on": "ヨウ",
+    "kun": "うた(い)",
+    "en": "song, sing, ballad, noh chanting"
+  },
+  {
+    "n": 628,
+    "jp": "嫁",
+    "on": "カ",
+    "kun": "よめ、とつ(ぐ)、い(く)、ゆ(く)",
+    "en": "marry into, bride"
+  },
+  {
+    "n": 629,
+    "jp": "謙",
+    "on": "ケン",
+    "kun": "へりくだ(る)",
+    "en": "self-effacing, humble oneself, condescend, be modest"
+  },
+  {
+    "n": 630,
+    "jp": "后",
+    "on": "コウ、ゴ",
+    "kun": "きさき",
+    "en": "empress, queen, after, behind, back, later"
+  },
+  {
+    "n": 631,
+    "jp": "嘆",
+    "on": "タン",
+    "kun": "なげ(く)、なげ(かわしい)",
+    "en": "sigh, lament, moan, grieve, sigh of admiration"
+  },
+  {
+    "n": 632,
+    "jp": "俣",
+    "on": "",
+    "kun": "また",
+    "en": "crotch, thigh, groin, fork, junction, (kokuji)"
+  },
+  {
+    "n": 633,
+    "jp": "菌",
+    "on": "キン",
+    "kun": "",
+    "en": "germ, fungus, bacteria"
+  },
+  {
+    "n": 634,
+    "jp": "鎌",
+    "on": "レン、ケン",
+    "kun": "かま",
+    "en": "sickle, scythe, trick"
+  },
+  {
+    "n": 635,
+    "jp": "巣",
+    "on": "ソウ",
+    "kun": "す、す(くう)",
+    "en": "nest, rookery, hive, cobweb, den"
+  },
+  {
+    "n": 636,
+    "jp": "頻",
+    "on": "ヒン",
+    "kun": "しき(りに)",
+    "en": "repeatedly, recur"
+  },
+  {
+    "n": 637,
+    "jp": "琴",
+    "on": "キン、ゴン",
+    "kun": "こと",
+    "en": "harp, koto"
+  },
+  {
+    "n": 638,
+    "jp": "班",
+    "on": "ハン",
+    "kun": "",
+    "en": "squad, corps, unit, group"
+  },
+  {
+    "n": 639,
+    "jp": "淵",
+    "on": "エン、カク、コウ",
+    "kun": "ふち、かた(い)、はなわ",
+    "en": "abyss, edge, deep pool, the depths"
+  },
+  {
+    "n": 640,
+    "jp": "棚",
+    "on": "ホウ",
+    "kun": "たな、-だな",
+    "en": "shelf, ledge, rack, mount, mantle, trellis"
+  },
+  {
+    "n": 641,
+    "jp": "潔",
+    "on": "ケツ",
+    "kun": "いさぎよ(い)",
+    "en": "undefiled, pure, clean, righteous, gallant"
+  },
+  {
+    "n": 642,
+    "jp": "酷",
+    "on": "コク",
+    "kun": "ひど(い)",
+    "en": "cruel, severe, atrocious, unjust"
+  },
+  {
+    "n": 643,
+    "jp": "宰",
+    "on": "サイ",
+    "kun": "",
+    "en": "superintend, manager, rule"
+  },
+  {
+    "n": 644,
+    "jp": "廊",
+    "on": "ロウ",
+    "kun": "",
+    "en": "corridor, hall, tower"
+  },
+  {
+    "n": 645,
+    "jp": "寂",
+    "on": "ジャク、セキ",
+    "kun": "さび、さび(しい)、さみ(しい)",
+    "en": "loneliness, quietly, mellow, mature, death of a priest"
+  },
+  {
+    "n": 646,
+    "jp": "辰",
+    "on": "シン、ジン",
+    "kun": "たつ",
+    "en": "sign of the dragon, 7-9AM, fifth sign of Chinese zodiac"
+  },
+  {
+    "n": 647,
+    "jp": "霞",
+    "on": "カ、ゲ",
+    "kun": "かすみ、かす(む)",
+    "en": "be hazy, grow dim, blurred"
+  },
+  {
+    "n": 648,
+    "jp": "伏",
+    "on": "フク",
+    "kun": "ふ(せる)、ふ(す)",
+    "en": "prostrated, bend down, bow, cover, lay (pipes)"
+  },
+  {
+    "n": 649,
+    "jp": "柏",
+    "on": "ハク、ヒャク、ビャク",
+    "kun": "かしわ",
+    "en": "oak, cypress"
+  },
+  {
+    "n": 650,
+    "jp": "碁",
+    "on": "ゴ",
+    "kun": "",
+    "en": "Go"
+  },
+  {
+    "n": 651,
+    "jp": "俗",
+    "on": "ゾク",
+    "kun": "",
+    "en": "vulgar, customs, manners, worldliness, mundane things"
+  },
+  {
+    "n": 652,
+    "jp": "漠",
+    "on": "バク",
+    "kun": "",
+    "en": "vague, obscure, desert, wide"
+  },
+  {
+    "n": 653,
+    "jp": "邪",
+    "on": "ジャ",
+    "kun": "よこし(ま)",
+    "en": "wicked, injustice, wrong"
+  },
+  {
+    "n": 654,
+    "jp": "晶",
+    "on": "ショウ",
+    "kun": "",
+    "en": "sparkle, clear, crystal"
+  },
+  {
+    "n": 655,
+    "jp": "辻",
+    "on": "",
+    "kun": "つじ",
+    "en": "crossing, crossroad, street corners, (kokuji)"
+  },
+  {
+    "n": 656,
+    "jp": "墨",
+    "on": "ボク",
+    "kun": "すみ",
+    "en": "black ink, India ink, ink stick, Mexico"
+  },
+  {
+    "n": 657,
+    "jp": "鎮",
+    "on": "チン",
+    "kun": "しず(める)、おさえ",
+    "en": "tranquilize, ancient peace-preservation centers"
+  },
+  {
+    "n": 658,
+    "jp": "洞",
+    "on": "ドウ",
+    "kun": "ほら",
+    "en": "den, cave, excavation"
+  },
+  {
+    "n": 659,
+    "jp": "履",
+    "on": "リ",
+    "kun": "は(く)",
+    "en": "perform, complete, footgear, shoes, boots, put on (the feet)"
+  },
+  {
+    "n": 660,
+    "jp": "劣",
+    "on": "レツ",
+    "kun": "おと(る)",
+    "en": "inferiority, be inferior to, be worse"
+  },
+  {
+    "n": 661,
+    "jp": "那",
+    "on": "ナ、ダ",
+    "kun": "なに、なんぞ、いかん",
+    "en": "what?"
+  },
+  {
+    "n": 662,
+    "jp": "殴",
+    "on": "オウ",
+    "kun": "なぐ(る)",
+    "en": "assault, hit, beat, thrash"
+  },
+  {
+    "n": 663,
+    "jp": "娠",
+    "on": "シン",
+    "kun": "",
+    "en": "with child, pregnancy"
+  },
+  {
+    "n": 664,
+    "jp": "奉",
+    "on": "ホウ、ブ",
+    "kun": "たてまつ(る)、まつ(る)、ほう(ずる)",
+    "en": "observance, offer, present, dedicate"
+  },
+  {
+    "n": 665,
+    "jp": "憂",
+    "on": "ユウ",
+    "kun": "うれ(える)、うれ(い)、う(い)、う(き)",
+    "en": "melancholy, grieve, lament, be anxious, sad, unhappy"
+  },
+  {
+    "n": 666,
+    "jp": "朴",
+    "on": "ボク",
+    "kun": "ほう、ほお、えのき",
+    "en": "crude, simple, plain, docile"
+  },
+  {
+    "n": 667,
+    "jp": "亭",
+    "on": "テイ、チン",
+    "kun": "",
+    "en": "pavilion, restaurant, mansion, arbor, cottage, vaudeville, music hall, stage name"
+  },
+  {
+    "n": 668,
+    "jp": "淳",
+    "on": "ジュン、シュン",
+    "kun": "あつ(い)",
+    "en": "pure"
+  },
+  {
+    "n": 669,
+    "jp": "荻",
+    "on": "テキ",
+    "kun": "おぎ",
+    "en": "reed, rush"
+  },
+  {
+    "n": 670,
+    "jp": "嶋",
+    "on": "トウ",
+    "kun": "しま",
+    "en": "island"
+  },
+  {
+    "n": 671,
+    "jp": "怪",
+    "on": "カイ、ケ",
+    "kun": "あや(しい)、あや(しむ)",
+    "en": "suspicious, mystery, apparition"
+  },
+  {
+    "n": 672,
+    "jp": "鳩",
+    "on": "キュウ、ク",
+    "kun": "はと、あつ(める)",
+    "en": "pigeon, dove"
+  },
+  {
+    "n": 673,
+    "jp": "柴",
+    "on": "サイ、シ",
+    "kun": "しば",
+    "en": "brush, firewood"
+  },
+  {
+    "n": 674,
+    "jp": "酔",
+    "on": "スイ",
+    "kun": "よ(う)、よ(い)、よ",
+    "en": "drunk, feel sick, poisoned, elated, spellbound"
+  },
+  {
+    "n": 675,
+    "jp": "惜",
+    "on": "セキ",
+    "kun": "お(しい)、お(しむ)",
+    "en": "pity, be sparing of, frugal, stingy, regret"
+  },
+  {
+    "n": 676,
+    "jp": "穫",
+    "on": "カク",
+    "kun": "",
+    "en": "harvest, reap"
+  },
+  {
+    "n": 677,
+    "jp": "佳",
+    "on": "カ",
+    "kun": "",
+    "en": "excellent, beautiful, good, pleasing, skilled"
+  },
+  {
+    "n": 678,
+    "jp": "潤",
+    "on": "ジュン",
+    "kun": "うるお(う)、うる(む)",
+    "en": "wet, be watered, profit by, receive benefits, favor, charm, steep"
+  },
+  {
+    "n": 679,
+    "jp": "悼",
+    "on": "トウ",
+    "kun": "いた(む)",
+    "en": "lament, grieve over"
+  },
+  {
+    "n": 680,
+    "jp": "乏",
+    "on": "ボウ",
+    "kun": "とぼ(しい)、とも(しい)",
+    "en": "destitution, scarce, limited"
+  },
+  {
+    "n": 681,
+    "jp": "該",
+    "on": "ガイ",
+    "kun": "",
+    "en": "above-stated, the said, that specific"
+  },
+  {
+    "n": 682,
+    "jp": "赴",
+    "on": "フ",
+    "kun": "おもむ(く)",
+    "en": "proceed, get, become, tend"
+  },
+  {
+    "n": 683,
+    "jp": "桑",
+    "on": "ソウ",
+    "kun": "くわ",
+    "en": "mulberry"
+  },
+  {
+    "n": 684,
+    "jp": "桂",
+    "on": "ケイ",
+    "kun": "かつら",
+    "en": "Japanese Judas-tree, cinnamon tree"
+  },
+  {
+    "n": 685,
+    "jp": "髄",
+    "on": "ズイ",
+    "kun": "",
+    "en": "marrow, pith, essence"
+  },
+  {
+    "n": 686,
+    "jp": "虎",
+    "on": "コ",
+    "kun": "とら",
+    "en": "tiger, drunkard"
+  },
+  {
+    "n": 687,
+    "jp": "盆",
+    "on": "ボン",
+    "kun": "",
+    "en": "basin, lantern festival, tray"
+  },
+  {
+    "n": 688,
+    "jp": "晋",
+    "on": "シン",
+    "kun": "すす(む)",
+    "en": "advance"
+  },
+  {
+    "n": 689,
+    "jp": "穂",
+    "on": "スイ",
+    "kun": "ほ",
+    "en": "ear, ear (grain), head, crest (wave)"
+  },
+  {
+    "n": 690,
+    "jp": "壮",
+    "on": "ソウ",
+    "kun": "さかん",
+    "en": "robust, manhood, prosperity"
+  },
+  {
+    "n": 691,
+    "jp": "堤",
+    "on": "テイ",
+    "kun": "つつみ",
+    "en": "dike, bank, embankment"
+  },
+  {
+    "n": 692,
+    "jp": "飢",
+    "on": "キ",
+    "kun": "う(える)",
+    "en": "hungry, starve"
+  },
+  {
+    "n": 693,
+    "jp": "傍",
+    "on": "ボウ",
+    "kun": "かたわ(ら)、わき、おか-、はた、そば",
+    "en": "bystander, side, besides, while, nearby, third person"
+  },
+  {
+    "n": 694,
+    "jp": "疫",
+    "on": "エキ、ヤク",
+    "kun": "",
+    "en": "epidemic"
+  },
+  {
+    "n": 695,
+    "jp": "累",
+    "on": "ルイ",
+    "kun": "",
+    "en": "accumulate, involvement, trouble, tie up, continually"
+  },
+  {
+    "n": 696,
+    "jp": "痴",
+    "on": "チ",
+    "kun": "し(れる)、おろか",
+    "en": "stupid, foolish"
+  },
+  {
+    "n": 697,
+    "jp": "搬",
+    "on": "ハン",
+    "kun": "",
+    "en": "conveyor, carry, transport"
+  },
+  {
+    "n": 698,
+    "jp": "晃",
+    "on": "コウ",
+    "kun": "あきらか",
+    "en": "clear"
+  },
+  {
+    "n": 699,
+    "jp": "癒",
+    "on": "ユ",
+    "kun": "い(える)、いや(す)",
+    "en": "healing, cure, quench (thirst), wreak"
+  },
+  {
+    "n": 700,
+    "jp": "桐",
+    "on": "トウ、ドウ",
+    "kun": "きり",
+    "en": "paulownia"
+  },
+  {
+    "n": 701,
+    "jp": "寸",
+    "on": "スン",
+    "kun": "",
+    "en": "measurement, tenth of a shaku, a little, small"
+  },
+  {
+    "n": 702,
+    "jp": "郭",
+    "on": "カク",
+    "kun": "くるわ",
+    "en": "enclosure, quarters, fortification, red-light district"
+  },
+  {
+    "n": 703,
+    "jp": "尿",
+    "on": "ニョウ",
+    "kun": "ゆばり、いばり、しと",
+    "en": "urine"
+  },
+  {
+    "n": 704,
+    "jp": "凶",
+    "on": "キョウ",
+    "kun": "",
+    "en": "villain, evil, bad luck, disaster"
+  },
+  {
+    "n": 705,
+    "jp": "吐",
+    "on": "ト",
+    "kun": "は(く)、つ(く)",
+    "en": "spit, vomit, belch, confess, tell (lies)"
+  },
+  {
+    "n": 706,
+    "jp": "宴",
+    "on": "エン",
+    "kun": "うたげ",
+    "en": "banquet, feast, party"
+  },
+  {
+    "n": 707,
+    "jp": "鷹",
+    "on": "ヨウ、オウ",
+    "kun": "たか",
+    "en": "hawk"
+  },
+  {
+    "n": 708,
+    "jp": "賓",
+    "on": "ヒン",
+    "kun": "まろうど、したがう",
+    "en": "V.I.P., guest"
+  },
+  {
+    "n": 709,
+    "jp": "虜",
+    "on": "リョ、ロ",
+    "kun": "とりこ、とりく",
+    "en": "captive, barbarian, low epithet for the enemy"
+  },
+  {
+    "n": 710,
+    "jp": "陶",
+    "on": "トウ",
+    "kun": "すえ",
+    "en": "pottery, porcelain"
+  },
+  {
+    "n": 711,
+    "jp": "鐘",
+    "on": "ショウ",
+    "kun": "かね",
+    "en": "bell, gong, chimes"
+  },
+  {
+    "n": 712,
+    "jp": "憾",
+    "on": "カン",
+    "kun": "うら(む)",
+    "en": "remorse, regret, be sorry"
+  },
+  {
+    "n": 713,
+    "jp": "畿",
+    "on": "キ",
+    "kun": "みやこ",
+    "en": "capital, suburbs of capital"
+  },
+  {
+    "n": 714,
+    "jp": "猪",
+    "on": "チョ",
+    "kun": "い、いのしし",
+    "en": "boar"
+  },
+  {
+    "n": 715,
+    "jp": "紘",
+    "on": "コウ",
+    "kun": "おおづな、つな、つなぐ",
+    "en": "large"
+  },
+  {
+    "n": 716,
+    "jp": "磁",
+    "on": "ジ",
+    "kun": "",
+    "en": "magnet, porcelain"
+  },
+  {
+    "n": 717,
+    "jp": "弥",
+    "on": "ミ、ビ",
+    "kun": "や、いや、いよ(いよ)、わた(る)",
+    "en": "all the more, increasingly"
+  },
+  {
+    "n": 718,
+    "jp": "昆",
+    "on": "コン",
+    "kun": "",
+    "en": "descendants, elder brother, insect"
+  },
+  {
+    "n": 719,
+    "jp": "粗",
+    "on": "ソ",
+    "kun": "あら(い)、あら-",
+    "en": "coarse, rough, rugged"
+  },
+  {
+    "n": 720,
+    "jp": "訂",
+    "on": "テイ",
+    "kun": "ただ(す)",
+    "en": "revise, correct, decide"
+  },
+  {
+    "n": 721,
+    "jp": "芽",
+    "on": "ガ",
+    "kun": "め",
+    "en": "bud, sprout, spear, germ"
+  },
+  {
+    "n": 722,
+    "jp": "尻",
+    "on": "コウ",
+    "kun": "しり",
+    "en": "buttocks, hips, butt, rear"
+  },
+  {
+    "n": 723,
+    "jp": "庄",
+    "on": "ショウ、ソ、ソウ、ホウ",
+    "kun": "",
+    "en": "level, in the country, manor, village, hamlet"
+  },
+  {
+    "n": 724,
+    "jp": "傘",
+    "on": "サン",
+    "kun": "かさ",
+    "en": "umbrella"
+  },
+  {
+    "n": 725,
+    "jp": "敦",
+    "on": "トン、タイ、ダン、チョウ",
+    "kun": "あつ(い)",
+    "en": "industry, kindliness"
+  },
+  {
+    "n": 726,
+    "jp": "騎",
+    "on": "キ",
+    "kun": "",
+    "en": "equestrian, riding on horses, counter for equestrians"
+  },
+  {
+    "n": 727,
+    "jp": "寧",
+    "on": "ネイ",
+    "kun": "むし(ろ)",
+    "en": "rather, preferably, peaceful, quiet, tranquility"
+  },
+  {
+    "n": 728,
+    "jp": "循",
+    "on": "ジュン",
+    "kun": "",
+    "en": "sequential, follow"
+  },
+  {
+    "n": 729,
+    "jp": "忍",
+    "on": "ニン",
+    "kun": "しの(ぶ)、しの(ばせる)",
+    "en": "endure, bear, put up with, conceal, secrete, spy, sneak"
+  },
+  {
+    "n": 730,
+    "jp": "磐",
+    "on": "バン、ハン",
+    "kun": "いわ",
+    "en": "rock, crag, cliff, wall (in a mine)"
+  },
+  {
+    "n": 731,
+    "jp": "怠",
+    "on": "タイ",
+    "kun": "おこた(る)、なま(ける)",
+    "en": "neglect, laziness"
+  },
+  {
+    "n": 732,
+    "jp": "如",
+    "on": "ジョ、ニョ",
+    "kun": "ごと(し)",
+    "en": "likeness, like, such as, as if, better, best, equal"
+  },
+  {
+    "n": 733,
+    "jp": "寮",
+    "on": "リョウ",
+    "kun": "",
+    "en": "dormitory, hostel, villa, tea pavillion"
+  },
+  {
+    "n": 734,
+    "jp": "祐",
+    "on": "ユウ、ウ",
+    "kun": "たす(ける)",
+    "en": "help"
+  },
+  {
+    "n": 735,
+    "jp": "鵬",
+    "on": "ホウ",
+    "kun": "おおとり",
+    "en": "phoenix"
+  },
+  {
+    "n": 736,
+    "jp": "鉛",
+    "on": "エン",
+    "kun": "なまり",
+    "en": "lead"
+  },
+  {
+    "n": 737,
+    "jp": "珠",
+    "on": "シュ",
+    "kun": "たま",
+    "en": "pearl, gem, jewel"
+  },
+  {
+    "n": 738,
+    "jp": "凝",
+    "on": "ギョウ",
+    "kun": "こ(る)、こご(らす)",
+    "en": "congeal, freeze, stiff, be absorbed in"
+  },
+  {
+    "n": 739,
+    "jp": "苗",
+    "on": "ビョウ、ミョウ",
+    "kun": "なえ、なわ-",
+    "en": "seedling, sapling, shoot"
+  },
+  {
+    "n": 740,
+    "jp": "獣",
+    "on": "ジュウ",
+    "kun": "けもの、けだもの",
+    "en": "animal, beast"
+  },
+  {
+    "n": 741,
+    "jp": "哀",
+    "on": "アイ",
+    "kun": "あわ(れ)、かな(しい)",
+    "en": "pathetic, grief, sorrow, pathos, pity, sympathize"
+  },
+  {
+    "n": 742,
+    "jp": "跳",
+    "on": "チョウ",
+    "kun": "は(ねる)、と(ぶ)、-と(び)",
+    "en": "hop, leap up, spring, jerk, prance, buck, splash, sputter, snap"
+  },
+  {
+    "n": 743,
+    "jp": "匠",
+    "on": "ショウ",
+    "kun": "たくみ",
+    "en": "artisan, workman, carpenter"
+  },
+  {
+    "n": 744,
+    "jp": "垂",
+    "on": "スイ",
+    "kun": "た(れる)、-た(れ)、なんなんと(す)",
+    "en": "droop, suspend, hang, slouch"
+  },
+  {
+    "n": 745,
+    "jp": "蛇",
+    "on": "ジャ、ダ、イ、ヤ",
+    "kun": "へび",
+    "en": "snake, serpent, hard drinker"
+  },
+  {
+    "n": 746,
+    "jp": "澄",
+    "on": "チョウ",
+    "kun": "す(む)、す(ます)、-す(ます)",
+    "en": "lucidity, be clear, clear, clarify, settle, strain, look grave"
+  },
+  {
+    "n": 747,
+    "jp": "縫",
+    "on": "ホウ",
+    "kun": "ぬ(う)",
+    "en": "sew, stitch, embroider"
+  },
+  {
+    "n": 748,
+    "jp": "僧",
+    "on": "ソウ",
+    "kun": "",
+    "en": "Buddhist priest, monk"
+  },
+  {
+    "n": 749,
+    "jp": "眺",
+    "on": "チョウ",
+    "kun": "なが(める)",
+    "en": "stare, watch, look at, see, scrutinize"
+  },
+  {
+    "n": 750,
+    "jp": "唐",
+    "on": "トウ",
+    "kun": "から",
+    "en": "T'ang, China, foreign"
+  },
+  {
+    "n": 751,
+    "jp": "亘",
+    "on": "コウ、カン、セン",
+    "kun": "わた(る)、もと(める)",
+    "en": "span, range, extend over"
+  },
+  {
+    "n": 752,
+    "jp": "呉",
+    "on": "ゴ",
+    "kun": "く(れる)",
+    "en": "give, do something for, kingdom of Wu"
+  },
+  {
+    "n": 753,
+    "jp": "凡",
+    "on": "ボン、ハン",
+    "kun": "およ(そ)、おうよ(そ)、すべ(て)",
+    "en": "commonplace, ordinary, mediocre"
+  },
+  {
+    "n": 754,
+    "jp": "憩",
+    "on": "ケイ",
+    "kun": "いこ(い)、いこ(う)",
+    "en": "recess, rest, relax, repose"
+  },
+  {
+    "n": 755,
+    "jp": "鄭",
+    "on": "テイ、ジョウ",
+    "kun": "",
+    "en": "an ancient Chinese province"
+  },
+  {
+    "n": 756,
+    "jp": "芦",
+    "on": "ロ",
+    "kun": "あし、よし",
+    "en": "reed, bullrush"
+  },
+  {
+    "n": 757,
+    "jp": "龍",
+    "on": "リュウ、リョウ、ロウ",
+    "kun": "たつ",
+    "en": "dragon, imperial"
+  },
+  {
+    "n": 758,
+    "jp": "媛",
+    "on": "エン",
+    "kun": "ひめ",
+    "en": "beautiful woman, princess"
+  },
+  {
+    "n": 759,
+    "jp": "溝",
+    "on": "コウ",
+    "kun": "みぞ",
+    "en": "gutter, ditch, sewer, drain, 10**32"
+  },
+  {
+    "n": 760,
+    "jp": "恭",
+    "on": "キョウ",
+    "kun": "うやうや(しい)",
+    "en": "respect, reverent"
+  },
+  {
+    "n": 761,
+    "jp": "刈",
+    "on": "ガイ、カイ",
+    "kun": "か(る)",
+    "en": "reap, cut, clip, trim, prune"
+  },
+  {
+    "n": 762,
+    "jp": "睡",
+    "on": "スイ",
+    "kun": "ねむ(る)、ねむ(い)",
+    "en": "drowsy, sleep, die"
+  },
+  {
+    "n": 763,
+    "jp": "錯",
+    "on": "サク、シャク",
+    "kun": "",
+    "en": "confused, mix, be in disorder"
+  },
+  {
+    "n": 764,
+    "jp": "伯",
+    "on": "ハク",
+    "kun": "",
+    "en": "chief, count, earl, uncle, Brazil"
+  },
+  {
+    "n": 765,
+    "jp": "笹",
+    "on": "",
+    "kun": "ささ",
+    "en": "bamboo grass, (kokuji)"
+  },
+  {
+    "n": 766,
+    "jp": "穀",
+    "on": "コク",
+    "kun": "",
+    "en": "cereals, grain"
+  },
+  {
+    "n": 767,
+    "jp": "柿",
+    "on": "シ",
+    "kun": "かき",
+    "en": "persimmon"
+  },
+  {
+    "n": 768,
+    "jp": "陵",
+    "on": "リョウ",
+    "kun": "みささぎ",
+    "en": "mausoleum, imperial tomb, mound, hill"
+  },
+  {
+    "n": 769,
+    "jp": "霧",
+    "on": "ム、ボウ、ブ",
+    "kun": "きり",
+    "en": "fog, mist"
+  },
+  {
+    "n": 770,
+    "jp": "魂",
+    "on": "コン",
+    "kun": "たましい、たま",
+    "en": "soul, spirit"
+  },
+  {
+    "n": 771,
+    "jp": "弊",
+    "on": "ヘイ",
+    "kun": "",
+    "en": "abuse, evil, vice, breakage"
+  },
+  {
+    "n": 772,
+    "jp": "釧",
+    "on": "セン",
+    "kun": "くしろ、うでわ",
+    "en": "bracelet"
+  },
+  {
+    "n": 773,
+    "jp": "妃",
+    "on": "ヒ",
+    "kun": "きさき",
+    "en": "queen, princess"
+  },
+  {
+    "n": 774,
+    "jp": "舶",
+    "on": "ハク",
+    "kun": "",
+    "en": "liner, ship"
+  },
+  {
+    "n": 775,
+    "jp": "餓",
+    "on": "ガ",
+    "kun": "う(える)",
+    "en": "starve, hungry, thirst"
+  },
+  {
+    "n": 776,
+    "jp": "腎",
+    "on": "ジン",
+    "kun": "",
+    "en": "kidney"
+  },
+  {
+    "n": 777,
+    "jp": "窮",
+    "on": "キュウ、キョウ",
+    "kun": "きわ(める)",
+    "en": "hard up, destitute, suffer, perplexed, cornered"
+  },
+  {
+    "n": 778,
+    "jp": "掌",
+    "on": "ショウ",
+    "kun": "てのひら、たなごころ",
+    "en": "manipulate, rule, administer, conduct, palm of hand"
+  },
+  {
+    "n": 779,
+    "jp": "麗",
+    "on": "レイ",
+    "kun": "うるわ(しい)、うら(らか)",
+    "en": "lovely, beautiful, graceful, resplendent"
+  },
+  {
+    "n": 780,
+    "jp": "綾",
+    "on": "リン",
+    "kun": "あや",
+    "en": "design, figured cloth, twill"
+  },
+  {
+    "n": 781,
+    "jp": "臭",
+    "on": "シュウ",
+    "kun": "くさ(い)、-くさ(い)、にお(う)",
+    "en": "stinking, ill-smelling, suspicious looking, odor, savor, fragrance, be fragrant"
+  },
+  {
+    "n": 782,
+    "jp": "佂",
+    "on": "フ",
+    "kun": "かま",
+    "en": "kettle, cauldron, iron pot"
+  },
+  {
+    "n": 783,
+    "jp": "悦",
+    "on": "エツ",
+    "kun": "よろこ(ぶ)",
+    "en": "ecstasy, joy, rapture"
+  },
+  {
+    "n": 784,
+    "jp": "刃",
+    "on": "ジン、ニン",
+    "kun": "は、やいば、き(る)",
+    "en": "blade, sword, edge"
+  },
+  {
+    "n": 785,
+    "jp": "縛",
+    "on": "バク",
+    "kun": "しば(る)",
+    "en": "truss, arrest, bind, tie, restrain"
+  },
+  {
+    "n": 786,
+    "jp": "暦",
+    "on": "レキ、リャク",
+    "kun": "こよみ",
+    "en": "calendar, almanac"
+  },
+  {
+    "n": 787,
+    "jp": "宜",
+    "on": "ギ",
+    "kun": "よろ(しい)",
+    "en": "best regards, good"
+  },
+  {
+    "n": 788,
+    "jp": "盲",
+    "on": "モウ",
+    "kun": "めくら",
+    "en": "blind, blind man, ignoramus"
+  },
+  {
+    "n": 789,
+    "jp": "粋",
+    "on": "スイ",
+    "kun": "いき",
+    "en": "chic, style, purity, essence, pith, cream, elite, choice"
+  },
+  {
+    "n": 790,
+    "jp": "辱",
+    "on": "ジョク",
+    "kun": "はずかし(める)",
+    "en": "embarrass, humiliate, shame"
+  },
+  {
+    "n": 791,
+    "jp": "毅",
+    "on": "キ、ギ",
+    "kun": "つよ(い)",
+    "en": "strong"
+  },
+  {
+    "n": 792,
+    "jp": "轄",
+    "on": "カツ",
+    "kun": "くさび",
+    "en": "control, wedge"
+  },
+  {
+    "n": 793,
+    "jp": "猿",
+    "on": "エン",
+    "kun": "さる",
+    "en": "monkey"
+  },
+  {
+    "n": 794,
+    "jp": "弦",
+    "on": "ゲン",
+    "kun": "つる",
+    "en": "bowstring, chord, hypotenuse"
+  },
+  {
+    "n": 795,
+    "jp": "嶌",
+    "on": "トウ",
+    "kun": "しま",
+    "en": "island"
+  },
+  {
+    "n": 796,
+    "jp": "稔",
+    "on": "ネン、ジン、ニン",
+    "kun": "みの(る)、みのり",
+    "en": "harvest, ripen"
+  },
+  {
+    "n": 797,
+    "jp": "窒",
+    "on": "チツ",
+    "kun": "",
+    "en": "plug up, obstruct"
+  },
+  {
+    "n": 798,
+    "jp": "炊",
+    "on": "スイ",
+    "kun": "た(く)、-だ(き)",
+    "en": "cook, boil"
+  },
+  {
+    "n": 799,
+    "jp": "洪",
+    "on": "コウ",
+    "kun": "",
+    "en": "deluge, flood, vast"
+  },
+  {
+    "n": 800,
+    "jp": "摂",
+    "on": "セツ、ショウ",
+    "kun": "おさ(める)、かね(る)、と(る)",
+    "en": "vicarious, surrogate, act in addition to, take in, absorb"
+  },
+  {
+    "n": 801,
+    "jp": "飽",
+    "on": "ホウ",
+    "kun": "あ(きる)、あ(かす)、あ(く)",
+    "en": "sated, tired of, bored, satiate"
+  },
+  {
+    "n": 802,
+    "jp": "函",
+    "on": "カン",
+    "kun": "はこ、い(れる)",
+    "en": "box (archaic)"
+  },
+  {
+    "n": 803,
+    "jp": "冗",
+    "on": "ジョウ",
+    "kun": "",
+    "en": "superfluous, uselessness"
+  },
+  {
+    "n": 804,
+    "jp": "桃",
+    "on": "トウ",
+    "kun": "もも",
+    "en": "peach"
+  },
+  {
+    "n": 805,
+    "jp": "狩",
+    "on": "シュ",
+    "kun": "か(る)、か(り)、-が(り)",
+    "en": "hunt, raid, gather"
+  },
+  {
+    "n": 806,
+    "jp": "朱",
+    "on": "シュ",
+    "kun": "あけ",
+    "en": "vermilion, cinnabar, scarlet, red, bloody"
+  },
+  {
+    "n": 807,
+    "jp": "渦",
+    "on": "カ",
+    "kun": "うず",
+    "en": "whirlpool, eddy, vortex"
+  },
+  {
+    "n": 808,
+    "jp": "紳",
+    "on": "シン",
+    "kun": "",
+    "en": "sire, good belt, gentleman"
+  },
+  {
+    "n": 809,
+    "jp": "枢",
+    "on": "スウ、シュ",
+    "kun": "とぼそ、からくり",
+    "en": "hinge, pivot, door, center of things"
+  },
+  {
+    "n": 810,
+    "jp": "碑",
+    "on": "ヒ",
+    "kun": "いしぶみ",
+    "en": "tombstone, monument"
+  },
+  {
+    "n": 811,
+    "jp": "鍛",
+    "on": "タン",
+    "kun": "きた(える)",
+    "en": "forge, discipline, train"
+  },
+  {
+    "n": 812,
+    "jp": "刀",
+    "on": "トウ",
+    "kun": "かたな、そり",
+    "en": "sword, saber, knife"
+  },
+  {
+    "n": 813,
+    "jp": "鼓",
+    "on": "コ",
+    "kun": "つづみ",
+    "en": "drum, beat, rouse, muster"
+  },
+  {
+    "n": 814,
+    "jp": "裸",
+    "on": "ラ",
+    "kun": "はだか",
+    "en": "naked, nude, uncovered, partially clothed"
+  },
+  {
+    "n": 815,
+    "jp": "鴨",
+    "on": "オウ",
+    "kun": "かも、あひる",
+    "en": "wild duck, easy mark"
+  },
+  {
+    "n": 816,
+    "jp": "猶",
+    "on": "ユウ、ユ",
+    "kun": "なお",
+    "en": "furthermore, still, yet"
+  },
+  {
+    "n": 817,
+    "jp": "塊",
+    "on": "カイ、ケ",
+    "kun": "かたまり、つちくれ",
+    "en": "clod, lump, chunk, clot, mass"
+  },
+  {
+    "n": 818,
+    "jp": "旋",
+    "on": "セン",
+    "kun": "め(ぐる)、いばり",
+    "en": "rotation, go around"
+  },
+  {
+    "n": 819,
+    "jp": "弓",
+    "on": "キュウ",
+    "kun": "ゆみ",
+    "en": "bow, bow (archery, violin)"
+  },
+  {
+    "n": 820,
+    "jp": "幣",
+    "on": "ヘイ",
+    "kun": "ぬさ",
+    "en": "cash, bad habit, humble prefix, gift"
+  },
+  {
+    "n": 821,
+    "jp": "膜",
+    "on": "マク",
+    "kun": "",
+    "en": "membrane"
+  },
+  {
+    "n": 822,
+    "jp": "扇",
+    "on": "セン",
+    "kun": "おうぎ",
+    "en": "fan, folding fan"
+  },
+  {
+    "n": 823,
+    "jp": "脇",
+    "on": "キョウ",
+    "kun": "わき、わけ",
+    "en": "armpit, the other way, another place, flank, supporting role"
+  },
+  {
+    "n": 824,
+    "jp": "腸",
+    "on": "チョウ",
+    "kun": "はらわた、わた",
+    "en": "intestines, guts, bowels, viscera"
+  },
+  {
+    "n": 825,
+    "jp": "槽",
+    "on": "ソウ",
+    "kun": "ふね",
+    "en": "vat, tub, tank"
+  },
+  {
+    "n": 826,
+    "jp": "鍋",
+    "on": "カ",
+    "kun": "なべ",
+    "en": "pot, pan, kettle"
+  },
+  {
+    "n": 827,
+    "jp": "慈",
+    "on": "ジ",
+    "kun": "いつく(しむ)",
+    "en": "mercy"
+  },
+  {
+    "n": 828,
+    "jp": "樋",
+    "on": "トウ",
+    "kun": "ひ、とい",
+    "en": "water pipe, gutter, downspout, conduit"
+  },
+  {
+    "n": 829,
+    "jp": "楊",
+    "on": "ヨウ",
+    "kun": "やなぎ",
+    "en": "willow"
+  },
+  {
+    "n": 830,
+    "jp": "伐",
+    "on": "バツ、ハツ、カ、ボチ",
+    "kun": "き(る)、そむ(く)、う(つ)",
+    "en": "fell, strike, attack, punish"
+  },
+  {
+    "n": 831,
+    "jp": "駿",
+    "on": "シュン、スン",
+    "kun": "すぐ(れる)",
+    "en": "a good horse, speed, a fast person"
+  },
+  {
+    "n": 832,
+    "jp": "漬",
+    "on": "シ",
+    "kun": "つ(ける)、-づけ",
+    "en": "pickling, soak, moisten, steep"
+  },
+  {
+    "n": 833,
+    "jp": "糾",
+    "on": "キュウ",
+    "kun": "ただ(す)",
+    "en": "twist, ask, investigate, verify"
+  },
+  {
+    "n": 834,
+    "jp": "亮",
+    "on": "リョウ",
+    "kun": "あきらか",
+    "en": "clear, help"
+  },
+  {
+    "n": 835,
+    "jp": "墳",
+    "on": "フン",
+    "kun": "",
+    "en": "tomb, mound"
+  },
+  {
+    "n": 836,
+    "jp": "坪",
+    "on": "ヘイ",
+    "kun": "つぼ",
+    "en": "two-mat area, approx. thirty-six sq ft"
+  },
+  {
+    "n": 837,
+    "jp": "紺",
+    "on": "コン",
+    "kun": "",
+    "en": "dark blue, navy"
+  },
+  {
+    "n": 838,
+    "jp": "慌",
+    "on": "コウ",
+    "kun": "あわ(てる)、あわ(ただしい)",
+    "en": "disconcerted, be confused, lose one's head"
+  },
+  {
+    "n": 839,
+    "jp": "娯",
+    "on": "ゴ",
+    "kun": "",
+    "en": "recreation, pleasure"
+  },
+  {
+    "n": 840,
+    "jp": "吾",
+    "on": "ゴ",
+    "kun": "われ、わが-、あ",
+    "en": "I, my, our, one's own"
+  },
+  {
+    "n": 841,
+    "jp": "椿",
+    "on": "チン、チュン",
+    "kun": "つばき",
+    "en": "camellia"
+  },
+  {
+    "n": 842,
+    "jp": "舌",
+    "on": "ゼツ",
+    "kun": "した",
+    "en": "tongue, reed, clapper"
+  },
+  {
+    "n": 843,
+    "jp": "羅",
+    "on": "ラ",
+    "kun": "うすもの",
+    "en": "gauze, thin silk, Rome, arrange, spread out"
+  },
+  {
+    "n": 844,
+    "jp": "峡",
+    "on": "キョウ、コウ",
+    "kun": "はざま",
+    "en": "gorge, ravine"
+  },
+  {
+    "n": 845,
+    "jp": "俸",
+    "on": "ホウ",
+    "kun": "",
+    "en": "stipend, salary"
+  },
+  {
+    "n": 846,
+    "jp": "厘",
+    "on": "リン",
+    "kun": "",
+    "en": "rin, 1/10 sen, 1/10 bu"
+  },
+  {
+    "n": 847,
+    "jp": "峰",
+    "on": "ホウ",
+    "kun": "みね、ね",
+    "en": "summit, peak"
+  },
+  {
+    "n": 848,
+    "jp": "圭",
+    "on": "ケイ、ケ",
+    "kun": "",
+    "en": "square jewel, corner, angle, edge"
+  },
+  {
+    "n": 849,
+    "jp": "醸",
+    "on": "ジョウ",
+    "kun": "かも(す)",
+    "en": "brew, cause"
+  },
+  {
+    "n": 850,
+    "jp": "蓮",
+    "on": "レン",
+    "kun": "はす、はちす",
+    "en": "lotus"
+  },
+  {
+    "n": 851,
+    "jp": "弔",
+    "on": "チョウ",
+    "kun": "とむら(う)、とぶら(う)",
+    "en": "condolences, mourning, funeral"
+  },
+  {
+    "n": 852,
+    "jp": "乙",
+    "on": "オツ、イツ",
+    "kun": "おと-、きのと",
+    "en": "the latter, duplicate, strange, witty, fishhook radical (no. 5)"
+  },
+  {
+    "n": 853,
+    "jp": "倶",
+    "on": "グ、ク",
+    "kun": "とも(に)",
+    "en": "both, together, alike"
+  },
+  {
+    "n": 854,
+    "jp": "汁",
+    "on": "ジュウ",
+    "kun": "しる、-しる、つゆ",
+    "en": "soup, juice, broth, sap, gravy, pus"
+  },
+  {
+    "n": 855,
+    "jp": "尼",
+    "on": "ニ",
+    "kun": "あま",
+    "en": "nun"
+  },
+  {
+    "n": 856,
+    "jp": "遍",
+    "on": "ヘン",
+    "kun": "あまね(く)",
+    "en": "everywhere, times, widely, generally"
+  },
+  {
+    "n": 857,
+    "jp": "堺",
+    "on": "カイ",
+    "kun": "さかい",
+    "en": "world"
+  },
+  {
+    "n": 858,
+    "jp": "衡",
+    "on": "コウ",
+    "kun": "",
+    "en": "equilibrium, measuring rod, scale"
+  },
+  {
+    "n": 859,
+    "jp": "呆",
+    "on": "ホウ",
+    "kun": "ぼ(ける)、あき(れる)、おろか",
+    "en": "be amazed, disgusted, shocked"
+  },
+  {
+    "n": 860,
+    "jp": "薫",
+    "on": "クン",
+    "kun": "かお(る)",
+    "en": "send forth fragrance, fragrant, be scented, smoke (tobacco)"
+  },
+  {
+    "n": 861,
+    "jp": "瓦",
+    "on": "ガ",
+    "kun": "かわら、ぐらむ",
+    "en": "tile, gram"
+  },
+  {
+    "n": 862,
+    "jp": "猟",
+    "on": "リョウ",
+    "kun": "かり、か(る)",
+    "en": "game-hunting, shooting, game, bag"
+  },
+  {
+    "n": 863,
+    "jp": "羊",
+    "on": "ヨウ",
+    "kun": "ひつじ",
+    "en": "sheep"
+  },
+  {
+    "n": 864,
+    "jp": "窪",
+    "on": "ワ、ア",
+    "kun": "くぼ(む)",
+    "en": "depression, cave in, sink, become hollow"
+  },
+  {
+    "n": 865,
+    "jp": "款",
+    "on": "カン",
+    "kun": "",
+    "en": "goodwill, article, section, friendship, collusion"
+  },
+  {
+    "n": 866,
+    "jp": "閲",
+    "on": "エツ",
+    "kun": "けみ(する)",
+    "en": "review, inspection, revision"
+  },
+  {
+    "n": 867,
+    "jp": "雀",
+    "on": "ジャク、ジャン、サク、シャク",
+    "kun": "すずめ",
+    "en": "sparrow"
+  },
+  {
+    "n": 868,
+    "jp": "偵",
+    "on": "テイ",
+    "kun": "",
+    "en": "spy"
+  },
+  {
+    "n": 869,
+    "jp": "喝",
+    "on": "カツ",
+    "kun": "",
+    "en": "hoarse, scold"
+  },
+  {
+    "n": 870,
+    "jp": "敢",
+    "on": "カン",
+    "kun": "あ(えて)",
+    "en": "daring, brave, bold, sad, tragic, pitiful"
+  },
+  {
+    "n": 871,
+    "jp": "畠",
+    "on": "",
+    "kun": "はたけ、はた",
+    "en": "field, farm, garden, (kokuji)"
+  },
+  {
+    "n": 872,
+    "jp": "胎",
+    "on": "タイ",
+    "kun": "",
+    "en": "womb, uterus"
+  },
+  {
+    "n": 873,
+    "jp": "酵",
+    "on": "コウ",
+    "kun": "",
+    "en": "fermentation"
+  },
+  {
+    "n": 874,
+    "jp": "憤",
+    "on": "フン",
+    "kun": "いきどお(る)",
+    "en": "aroused, resent, be indignant, anger"
+  },
+  {
+    "n": 875,
+    "jp": "豚",
+    "on": "トン",
+    "kun": "ぶた",
+    "en": "pork, pig"
+  },
+  {
+    "n": 876,
+    "jp": "遮",
+    "on": "シャ",
+    "kun": "さえぎ(る)",
+    "en": "intercept, interrupt, obstruct"
+  },
+  {
+    "n": 877,
+    "jp": "扉",
+    "on": "ヒ",
+    "kun": "とびら",
+    "en": "front door, title page, front page"
+  },
+  {
+    "n": 878,
+    "jp": "硫",
+    "on": "リュウ",
+    "kun": "",
+    "en": "sulphur"
+  },
+  {
+    "n": 879,
+    "jp": "赦",
+    "on": "シャ",
+    "kun": "ゆる(す)",
+    "en": "pardon, forgiveness"
+  },
+  {
+    "n": 880,
+    "jp": "挫",
+    "on": "ザ、サ",
+    "kun": "くじ(く)",
+    "en": "crush, break, sprain, discourage"
+  },
+  {
+    "n": 881,
+    "jp": "窃",
+    "on": "セツ",
+    "kun": "ぬす(む)、ひそ(か)",
+    "en": "stealth, steal, secret, private, hushed"
+  },
+  {
+    "n": 882,
+    "jp": "泡",
+    "on": "ホウ",
+    "kun": "あわ",
+    "en": "bubbles, foam, suds, froth"
+  },
+  {
+    "n": 883,
+    "jp": "瑞",
+    "on": "ズイ、スイ",
+    "kun": "みず-、しるし",
+    "en": "congratulations"
+  },
+  {
+    "n": 884,
+    "jp": "又",
+    "on": "ユウ",
+    "kun": "また、また-、また(の-)",
+    "en": "or again, furthermore, on the other hand"
+  },
+  {
+    "n": 885,
+    "jp": "慨",
+    "on": "ガイ",
+    "kun": "なげ(く)",
+    "en": "rue, be sad, sigh, lament"
+  },
+  {
+    "n": 886,
+    "jp": "紡",
+    "on": "ボウ",
+    "kun": "つむ(ぐ)",
+    "en": "spinning"
+  },
+  {
+    "n": 887,
+    "jp": "恨",
+    "on": "コン",
+    "kun": "うら(む)、うら(めしい)",
+    "en": "regret, bear a grudge, resentment, malice, hatred"
+  },
+  {
+    "n": 888,
+    "jp": "肪",
+    "on": "ボウ",
+    "kun": "",
+    "en": "obese, fat"
+  },
+  {
+    "n": 889,
+    "jp": "扶",
+    "on": "フ",
+    "kun": "たす(ける)",
+    "en": "aid, help, assist"
+  },
+  {
+    "n": 890,
+    "jp": "戯",
+    "on": "ギ、ゲ",
+    "kun": "たわむ(れる)、ざ(れる)、じゃ(れる)",
+    "en": "frolic, play, sport"
+  },
+  {
+    "n": 891,
+    "jp": "伍",
+    "on": "ゴ",
+    "kun": "いつつ",
+    "en": "five, five-man squad, file, line"
+  },
+  {
+    "n": 892,
+    "jp": "忌",
+    "on": "キ",
+    "kun": "い(む)、い(み)、い(まわしい)",
+    "en": "mourning, abhor, detestable, death anniversary"
+  },
+  {
+    "n": 893,
+    "jp": "濁",
+    "on": "ダク、ジョク",
+    "kun": "にご(る)",
+    "en": "voiced, uncleanness, wrong, nigori, impurity"
+  },
+  {
+    "n": 894,
+    "jp": "奔",
+    "on": "ホン",
+    "kun": "はし(る)",
+    "en": "run, bustle"
+  },
+  {
+    "n": 895,
+    "jp": "斗",
+    "on": "ト、トウ",
+    "kun": "",
+    "en": "Big Dipper, ten sho (vol), sake dipper, dots and cross radical (no. 68)"
+  },
+  {
+    "n": 896,
+    "jp": "蘭",
+    "on": "ラン、ラ",
+    "kun": "",
+    "en": "orchid, Holland"
+  },
+  {
+    "n": 897,
+    "jp": "蒲",
+    "on": "ホ、ボ、フ、ブ",
+    "kun": "がま、かば、かま",
+    "en": "bullrush, flag, cattail"
+  },
+  {
+    "n": 898,
+    "jp": "迅",
+    "on": "ジン",
+    "kun": "",
+    "en": "swift, fast"
+  },
+  {
+    "n": 899,
+    "jp": "肖",
+    "on": "ショウ",
+    "kun": "あやか(る)",
+    "en": "resemblance"
+  },
+  {
+    "n": 900,
+    "jp": "鉢",
+    "on": "ハチ、ハツ",
+    "kun": "",
+    "en": "bowl, rice tub, pot, crown"
+  },
+  {
+    "n": 901,
+    "jp": "朽",
+    "on": "キュウ",
+    "kun": "く(ちる)",
+    "en": "decay, rot, remain in seclusion"
+  },
+  {
+    "n": 902,
+    "jp": "殻",
+    "on": "カク、コク、バイ",
+    "kun": "から、がら",
+    "en": "husk, nut shell"
+  },
+  {
+    "n": 903,
+    "jp": "享",
+    "on": "キョウ、コウ",
+    "kun": "う(ける)",
+    "en": "enjoy, receive, undergo, answer (phone), take, get, catch"
+  },
+  {
+    "n": 904,
+    "jp": "秦",
+    "on": "シン",
+    "kun": "はた",
+    "en": "Manchu dynasty, name given to naturalized foreigners"
+  },
+  {
+    "n": 905,
+    "jp": "茅",
+    "on": "ボウ、ミョウ",
+    "kun": "かや、ちがや",
+    "en": "miscanthus reed"
+  },
+  {
+    "n": 906,
+    "jp": "藩",
+    "on": "ハン",
+    "kun": "",
+    "en": "clan, enclosure"
+  },
+  {
+    "n": 907,
+    "jp": "沙",
+    "on": "サ、シャ",
+    "kun": "すな、よなげる",
+    "en": "sand"
+  },
+  {
+    "n": 908,
+    "jp": "輔",
+    "on": "ホ、フ",
+    "kun": "たす(ける)",
+    "en": "help"
+  },
+  {
+    "n": 909,
+    "jp": "媒",
+    "on": "バイ",
+    "kun": "なこうど",
+    "en": "mediator, go-between"
+  },
+  {
+    "n": 910,
+    "jp": "鶏",
+    "on": "ケイ",
+    "kun": "にわとり、とり",
+    "en": "chicken"
+  },
+  {
+    "n": 911,
+    "jp": "禅",
+    "on": "ゼン、セン",
+    "kun": "しずか、ゆず(る)",
+    "en": "Zen, silent meditation"
+  },
+  {
+    "n": 912,
+    "jp": "嘱",
+    "on": "ショク",
+    "kun": "しょく(する)、たの(む)",
+    "en": "entrust, request, send a message"
+  },
+  {
+    "n": 913,
+    "jp": "胴",
+    "on": "ドウ",
+    "kun": "",
+    "en": "trunk, torso, hull (ship), hub of wheel"
+  },
+  {
+    "n": 914,
+    "jp": "粕",
+    "on": "ハク",
+    "kun": "かす",
+    "en": "scrap, waste"
+  },
+  {
+    "n": 915,
+    "jp": "冨",
+    "on": "フ、フウ",
+    "kun": "と(む)、とみ",
+    "en": "enrich, wealthy, abundant"
+  },
+  {
+    "n": 916,
+    "jp": "迭",
+    "on": "テツ",
+    "kun": "",
+    "en": "transfer, alternation"
+  },
+  {
+    "n": 917,
+    "jp": "挿",
+    "on": "ソウ",
+    "kun": "さ(す)、はさ(む)",
+    "en": "insert, put in, graft, wear (sword)"
+  },
+  {
+    "n": 918,
+    "jp": "湘",
+    "on": "ショウ",
+    "kun": "",
+    "en": "name of Chinese river, the Sagami river"
+  },
+  {
+    "n": 919,
+    "jp": "嵐",
+    "on": "ラン",
+    "kun": "あらし",
+    "en": "storm, tempest"
+  },
+  {
+    "n": 920,
+    "jp": "椎",
+    "on": "ツイ、スイ",
+    "kun": "つち、う(つ)",
+    "en": "chinquapin, mallet, spine"
+  },
+  {
+    "n": 921,
+    "jp": "灘",
+    "on": "タン、ダン",
+    "kun": "なだ、せ",
+    "en": "open sea"
+  },
+  {
+    "n": 922,
+    "jp": "堰",
+    "on": "エン",
+    "kun": "せき、せ(く)",
+    "en": "dam, prevent, stop up"
+  },
+  {
+    "n": 923,
+    "jp": "獅",
+    "on": "シ",
+    "kun": "しし",
+    "en": "lion"
+  },
+  {
+    "n": 924,
+    "jp": "姜",
+    "on": "キョウ、ガ",
+    "kun": "こう",
+    "en": "Chinese surname, ginger"
+  },
+  {
+    "n": 925,
+    "jp": "絹",
+    "on": "ケン",
+    "kun": "きぬ",
+    "en": "silk"
+  },
+  {
+    "n": 926,
+    "jp": "陪",
+    "on": "バイ",
+    "kun": "",
+    "en": "obeisance, follow, accompany, attend on"
+  },
+  {
+    "n": 927,
+    "jp": "剖",
+    "on": "ボウ",
+    "kun": "",
+    "en": "divide"
+  },
+  {
+    "n": 928,
+    "jp": "譜",
+    "on": "フ",
+    "kun": "",
+    "en": "musical score, music, note, staff, table, genealogy"
+  },
+  {
+    "n": 929,
+    "jp": "郁",
+    "on": "イク",
+    "kun": "",
+    "en": "cultural progress, perfume"
+  },
+  {
+    "n": 930,
+    "jp": "悠",
+    "on": "ユウ",
+    "kun": "",
+    "en": "permanence, distant, long time, leisure"
+  },
+  {
+    "n": 931,
+    "jp": "淑",
+    "on": "シュク",
+    "kun": "しと(やか)",
+    "en": "graceful, gentle, pure"
+  },
+  {
+    "n": 932,
+    "jp": "帆",
+    "on": "ハン",
+    "kun": "ほ",
+    "en": "sail"
+  },
+  {
+    "n": 933,
+    "jp": "暁",
+    "on": "ギョウ、キョウ",
+    "kun": "あかつき、さと(る)",
+    "en": "daybreak, dawn, in the event"
+  },
+  {
+    "n": 934,
+    "jp": "鷲",
+    "on": "シュウ、ジュ",
+    "kun": "わし",
+    "en": "eagle"
+  },
+  {
+    "n": 935,
+    "jp": "傑",
+    "on": "ケツ",
+    "kun": "すぐ(れる)",
+    "en": "greatness, excellence"
+  },
+  {
+    "n": 936,
+    "jp": "楠",
+    "on": "ナン、ダン、ゼン、ネン",
+    "kun": "くす、くすのき",
+    "en": "camphor tree"
+  },
+  {
+    "n": 937,
+    "jp": "笛",
+    "on": "テキ",
+    "kun": "ふえ",
+    "en": "flute, clarinet, pipe, whistle, bagpipe, piccolo"
+  },
+  {
+    "n": 938,
+    "jp": "芥",
+    "on": "カイ、ケ",
+    "kun": "からし、ごみ、あくた",
+    "en": "mustard, rape, dust, trash, rubbish"
+  },
+  {
+    "n": 939,
+    "jp": "其",
+    "on": "キ、ギ、ゴ",
+    "kun": "それ、その",
+    "en": "that"
+  },
+  {
+    "n": 940,
+    "jp": "玲",
+    "on": "レイ",
+    "kun": "",
+    "en": "sound of jewels"
+  },
+  {
+    "n": 941,
+    "jp": "奴",
+    "on": "ド",
+    "kun": "やつ、やっこ",
+    "en": "guy, slave, manservant, fellow"
+  },
+  {
+    "n": 942,
+    "jp": "錠",
+    "on": "ジョウ",
+    "kun": "",
+    "en": "lock, fetters, shackles"
+  },
+  {
+    "n": 943,
+    "jp": "拳",
+    "on": "ケン、ゲン",
+    "kun": "こぶし",
+    "en": "fist"
+  },
+  {
+    "n": 944,
+    "jp": "翔",
+    "on": "ショウ",
+    "kun": "かけ(る)、と(ぶ)",
+    "en": "soar, fly"
+  },
+  {
+    "n": 945,
+    "jp": "遷",
+    "on": "セン",
+    "kun": "うつ(る)、みやこがえ",
+    "en": "transition, move, change"
+  },
+  {
+    "n": 946,
+    "jp": "拙",
+    "on": "セツ",
+    "kun": "つたな(い)",
+    "en": "bungling, clumsy, unskillful"
+  },
+  {
+    "n": 947,
+    "jp": "侍",
+    "on": "ジ、シ",
+    "kun": "さむらい、はべ(る)",
+    "en": "waiter, samurai, wait upon, serve"
+  },
+  {
+    "n": 948,
+    "jp": "尺",
+    "on": "シャク、セキ",
+    "kun": "さし",
+    "en": "shaku, Japanese foot, measure, scale, rule"
+  },
+  {
+    "n": 949,
+    "jp": "峠",
+    "on": "",
+    "kun": "とうげ",
+    "en": "mountain peak, mountain pass, climax, crest, (kokuji)"
+  },
+  {
+    "n": 950,
+    "jp": "篤",
+    "on": "トク",
+    "kun": "あつ(い)",
+    "en": "fervent, kind, cordial, serious, deliberate"
+  },
+  {
+    "n": 951,
+    "jp": "肇",
+    "on": "チョウ、ジョウ、トウ",
+    "kun": "はじ(める)、はじめ",
+    "en": "beginning"
+  },
+  {
+    "n": 952,
+    "jp": "渇",
+    "on": "カツ",
+    "kun": "かわ(く)",
+    "en": "thirst, dry up, parch"
+  },
+  {
+    "n": 953,
+    "jp": "榎",
+    "on": "カ",
+    "kun": "えのき",
+    "en": "lotus tree, nettle tree, hackberry"
+  },
+  {
+    "n": 954,
+    "jp": "劉",
+    "on": "リュウ、ル",
+    "kun": "ころ(す)",
+    "en": "weapon of war, logging axe, kill en masse, peeling, sparse, faded"
+  },
+  {
+    "n": 955,
+    "jp": "幡",
+    "on": "マン、ハン、バン、ホン",
+    "kun": "はた",
+    "en": "flag"
+  },
+  {
+    "n": 956,
+    "jp": "諏",
+    "on": "シュ、ス",
+    "kun": "そう、はか(る)",
+    "en": "consult"
+  },
+  {
+    "n": 957,
+    "jp": "叔",
+    "on": "シュク",
+    "kun": "",
+    "en": "uncle, youth"
+  },
+  {
+    "n": 958,
+    "jp": "雌",
+    "on": "シ",
+    "kun": "め-、めす、めん",
+    "en": "feminine, female"
+  },
+  {
+    "n": 959,
+    "jp": "亨",
+    "on": "コウ、キョウ、ホウ",
+    "kun": "とお(る)",
+    "en": "pass through, go smoothly"
+  },
+  {
+    "n": 960,
+    "jp": "堪",
+    "on": "カン、タン",
+    "kun": "た(える)、たま(る)、こら(える)、こた(える)",
+    "en": "withstand, endure, support, resist"
+  },
+  {
+    "n": 961,
+    "jp": "叙",
+    "on": "ジョ",
+    "kun": "つい(ず)、ついで",
+    "en": "confer, relate, narrate, describe"
+  },
+  {
+    "n": 962,
+    "jp": "酢",
+    "on": "サク",
+    "kun": "す",
+    "en": "vinegar, sour, acid, tart"
+  },
+  {
+    "n": 963,
+    "jp": "吟",
+    "on": "ギン",
+    "kun": "",
+    "en": "versify, singing, recital"
+  },
+  {
+    "n": 964,
+    "jp": "逓",
+    "on": "テイ",
+    "kun": "かわ(る)、たがいに",
+    "en": "relay, in turn, sending"
+  },
+  {
+    "n": 965,
+    "jp": "痕",
+    "on": "コン",
+    "kun": "あと",
+    "en": "mark, foot print"
+  },
+  {
+    "n": 966,
+    "jp": "嶺",
+    "on": "レイ、リョウ",
+    "kun": "みね",
+    "en": "peak, summit"
+  },
+  {
+    "n": 967,
+    "jp": "袖",
+    "on": "シュウ",
+    "kun": "そで",
+    "en": "sleeve, wing (building), extension, give cold shoulder"
+  },
+  {
+    "n": 968,
+    "jp": "甚",
+    "on": "ジン",
+    "kun": "はなは(だ)、はなは(だしい)",
+    "en": "tremendously, very, great, exceedingly"
+  },
+  {
+    "n": 969,
+    "jp": "喬",
+    "on": "キョウ",
+    "kun": "たか(い)",
+    "en": "high, boasting"
+  },
+  {
+    "n": 970,
+    "jp": "崔",
+    "on": "ガイ、サイ、スイ",
+    "kun": "がけ",
+    "en": "cliff, bluff, precipice"
+  },
+  {
+    "n": 971,
+    "jp": "妖",
+    "on": "ヨウ",
+    "kun": "あや(しい)、なま(めく)、わざわ(い)",
+    "en": "attractive, bewitching, calamity"
+  },
+  {
+    "n": 972,
+    "jp": "琵",
+    "on": "ビ、ヒ",
+    "kun": "",
+    "en": "glissando on strings, lute"
+  },
+  {
+    "n": 973,
+    "jp": "琶",
+    "on": "ハ、ベ、ワ",
+    "kun": "",
+    "en": "lute"
+  },
+  {
+    "n": 974,
+    "jp": "聯",
+    "on": "レン",
+    "kun": "つら(なる)、つら(ねる)",
+    "en": "party, gang, clique"
+  },
+  {
+    "n": 975,
+    "jp": "蘇",
+    "on": "ソ、ス",
+    "kun": "よみがえ(る)",
+    "en": "be resuscitated, revived, perilla, shiso"
+  },
+  {
+    "n": 976,
+    "jp": "闇",
+    "on": "アン、オン",
+    "kun": "やみ、くら(い)",
+    "en": "get dark, gloom, disorder"
+  },
+  {
+    "n": 977,
+    "jp": "崇",
+    "on": "スウ",
+    "kun": "あが(める)",
+    "en": "adore, respect, revere, worship"
+  },
+  {
+    "n": 978,
+    "jp": "漆",
+    "on": "シツ",
+    "kun": "うるし",
+    "en": "lacquer, varnish, seven"
+  },
+  {
+    "n": 979,
+    "jp": "岬",
+    "on": "コウ",
+    "kun": "みさき",
+    "en": "headland, cape, spit, promontory"
+  },
+  {
+    "n": 980,
+    "jp": "癖",
+    "on": "ヘキ",
+    "kun": "くせ、くせ(に)",
+    "en": "mannerism, habit, vice, trait, fault, kink"
+  },
+  {
+    "n": 981,
+    "jp": "愉",
+    "on": "ユ",
+    "kun": "たの(しい)、たの(しむ)",
+    "en": "pleasure, happy, rejoice"
+  },
+  {
+    "n": 982,
+    "jp": "寅",
+    "on": "イン",
+    "kun": "とら",
+    "en": "sign of the tiger, 3-5AM, third sign of Chinese zodiac"
+  },
+  {
+    "n": 983,
+    "jp": "捉",
+    "on": "ソク、サク",
+    "kun": "とら(える)",
+    "en": "catch, capture"
+  },
+  {
+    "n": 984,
+    "jp": "礁",
+    "on": "ショウ",
+    "kun": "",
+    "en": "reef, sunken rock"
+  },
+  {
+    "n": 985,
+    "jp": "乃",
+    "on": "ナイ、ダイ、ノ、アイ",
+    "kun": "の、すなわ(ち)、なんじ",
+    "en": "from, possessive particle, whereupon, accordingly"
+  },
+  {
+    "n": 986,
+    "jp": "洲",
+    "on": "シュウ、ス",
+    "kun": "しま",
+    "en": "continent, sandbar, island, country"
+  },
+  {
+    "n": 987,
+    "jp": "屯",
+    "on": "トン",
+    "kun": "たむろ",
+    "en": "barracks, police station, camp, ton"
+  },
+  {
+    "n": 988,
+    "jp": "樽",
+    "on": "ソン",
+    "kun": "たる",
+    "en": "barrel, cask, keg"
+  },
+  {
+    "n": 989,
+    "jp": "樺",
+    "on": "カ",
+    "kun": "かば、かんば",
+    "en": "birch, dark red"
+  },
+  {
+    "n": 990,
+    "jp": "槙",
+    "on": "テン、シン",
+    "kun": "まき、こずえ",
+    "en": "twig, ornamental evergreen"
+  },
+  {
+    "n": 991,
+    "jp": "薩",
+    "on": "サツ、サチ",
+    "kun": "",
+    "en": "salvation, Buddha"
+  },
+  {
+    "n": 992,
+    "jp": "姻",
+    "on": "イン",
+    "kun": "",
+    "en": "matrimony, marry"
+  },
+  {
+    "n": 993,
+    "jp": "巌",
+    "on": "ガン",
+    "kun": "いわ、いわお、けわ(しい)",
+    "en": "rock, crag, boulder"
+  },
+  {
+    "n": 994,
+    "jp": "淀",
+    "on": "テン、デン",
+    "kun": "よど(む)",
+    "en": "pool, eddy"
+  },
+  {
+    "n": 995,
+    "jp": "麹",
+    "on": "キク",
+    "kun": "こうじ",
+    "en": "malt, yeast"
+  },
+  {
+    "n": 996,
+    "jp": "賭",
+    "on": "ト",
+    "kun": "か(ける)、かけ",
+    "en": "gamble, wager, bet"
+  },
+  {
+    "n": 997,
+    "jp": "擬",
+    "on": "ギ",
+    "kun": "まが(い)、もど(き)",
+    "en": "mimic, aim (a gun) at, nominate, imitate"
+  },
+  {
+    "n": 998,
+    "jp": "塀",
+    "on": "ヘイ、ベイ",
+    "kun": "",
+    "en": "fence, wall, (kokuji)"
+  },
+  {
+    "n": 999,
+    "jp": "唇",
+    "on": "シン",
+    "kun": "くちびる",
+    "en": "lips"
+  },
+  {
+    "n": 1000,
+    "jp": "睦",
+    "on": "ボク、モク",
+    "kun": "むつ(まじい)、むつ(む)、むつ(ぶ)",
+    "en": "intimate, friendly, harmonious"
+  },
+  {
+    "n": 1001,
+    "jp": "閑",
+    "on": "カン",
+    "kun": "",
+    "en": "leisure"
+  },
+  {
+    "n": 1002,
+    "jp": "胡",
+    "on": "ウ、コ、ゴ",
+    "kun": "なんぞ",
+    "en": "barbarian, foreign"
+  },
+  {
+    "n": 1003,
+    "jp": "幽",
+    "on": "ユウ",
+    "kun": "ふか(い)、かす(か)、くら(い)、しろ(い)",
+    "en": "seclude, confine to a room, deep, profound, secluded, faint, dark, tranquil, calm"
+  },
+  {
+    "n": 1004,
+    "jp": "峻",
+    "on": "シュン",
+    "kun": "けわ(しい)、たか(い)",
+    "en": "high, steep"
+  },
+  {
+    "n": 1005,
+    "jp": "曹",
+    "on": "ソウ、ゾウ",
+    "kun": "",
+    "en": "office, official, comrade, fellow"
+  },
+  {
+    "n": 1006,
+    "jp": "哨",
+    "on": "ショウ",
+    "kun": "みはり",
+    "en": "scout, sentinel"
+  },
+  {
+    "n": 1007,
+    "jp": "詠",
+    "on": "エイ",
+    "kun": "よ(む)、うた(う)",
+    "en": "recitation, poem, song, composing"
+  },
+  {
+    "n": 1008,
+    "jp": "炒",
+    "on": "ソウ、ショウ",
+    "kun": "い(る)、いた(める)",
+    "en": "broil, parch, roast, fry"
+  },
+  {
+    "n": 1009,
+    "jp": "屏",
+    "on": "ヘイ、ビョウ",
+    "kun": "おお(う)、しりぞ(く)、びょう(ぶ)",
+    "en": "wall, fence"
+  },
+  {
+    "n": 1010,
+    "jp": "卑",
+    "on": "ヒ",
+    "kun": "いや(しい)",
+    "en": "lowly, base, vile, vulgar, despise"
+  },
+  {
+    "n": 1011,
+    "jp": "侮",
+    "on": "ブ",
+    "kun": "あなど(る)",
+    "en": "scorn, despise, make light of, contempt"
+  },
+  {
+    "n": 1012,
+    "jp": "鋳",
+    "on": "チュウ、イ、シュ、シュウ",
+    "kun": "い(る)",
+    "en": "casting, mint"
+  },
+  {
+    "n": 1013,
+    "jp": "抹",
+    "on": "マツ",
+    "kun": "",
+    "en": "rub, paint, erase"
+  },
+  {
+    "n": 1014,
+    "jp": "尉",
+    "on": "イ、ジョウ",
+    "kun": "",
+    "en": "military officer, jailer, old man, rank"
+  },
+  {
+    "n": 1015,
+    "jp": "槻",
+    "on": "キ",
+    "kun": "つき",
+    "en": "Zelkova tree"
+  },
+  {
+    "n": 1016,
+    "jp": "隷",
+    "on": "レイ",
+    "kun": "したが(う)、しもべ",
+    "en": "slave, servant, prisoner, criminal, follower"
+  },
+  {
+    "n": 1017,
+    "jp": "禍",
+    "on": "カ",
+    "kun": "わざわい",
+    "en": "calamity, misfortune, evil, curse"
+  },
+  {
+    "n": 1018,
+    "jp": "蝶",
+    "on": "チョウ",
+    "kun": "",
+    "en": "butterfly"
+  },
+  {
+    "n": 1019,
+    "jp": "酪",
+    "on": "ラク",
+    "kun": "",
+    "en": "dairy products, whey, broth, fruit juice"
+  },
+  {
+    "n": 1020,
+    "jp": "茎",
+    "on": "ケイ、キョウ",
+    "kun": "くき",
+    "en": "stalk, stem"
+  },
+  {
+    "n": 1021,
+    "jp": "汎",
+    "on": "ハン、ブ、フウ、ホウ、ホン",
+    "kun": "ただよ(う)、ひろ(い)",
+    "en": "pan"
+  },
+  {
+    "n": 1022,
+    "jp": "頃",
+    "on": "ケイ、キョウ",
+    "kun": "ころ、ごろ、しばら(く)",
+    "en": "time, about, toward"
+  },
+  {
+    "n": 1023,
+    "jp": "帥",
+    "on": "スイ",
+    "kun": "",
+    "en": "commander, leading troops, governor"
+  },
+  {
+    "n": 1024,
+    "jp": "梁",
+    "on": "リョウ",
+    "kun": "はり、うつばり、うちばり、やな、はし",
+    "en": "weir, fish trap, beam, girder"
+  },
+  {
+    "n": 1025,
+    "jp": "逝",
+    "on": "セイ",
+    "kun": "ゆ(く)、い(く)",
+    "en": "departed, die"
+  },
+  {
+    "n": 1026,
+    "jp": "汽",
+    "on": "キ",
+    "kun": "",
+    "en": "vapor, steam"
+  },
+  {
+    "n": 1027,
+    "jp": "謎",
+    "on": "メイ、ベイ",
+    "kun": "なぞ",
+    "en": "riddle, puzzle, enigma, hint, tip"
+  },
+  {
+    "n": 1028,
+    "jp": "琢",
+    "on": "タク",
+    "kun": "みが(く)",
+    "en": "polish"
+  },
+  {
+    "n": 1029,
+    "jp": "箕",
+    "on": "キ",
+    "kun": "み",
+    "en": "winnowing"
+  },
+  {
+    "n": 1030,
+    "jp": "匿",
+    "on": "トク",
+    "kun": "かくま(う)",
+    "en": "hide, shelter, shield"
+  },
+  {
+    "n": 1031,
+    "jp": "爪",
+    "on": "ソウ",
+    "kun": "つめ、つま-",
+    "en": "claw, nail, talon"
+  },
+  {
+    "n": 1032,
+    "jp": "芭",
+    "on": "バ、ハ",
+    "kun": "",
+    "en": "banana"
+  },
+  {
+    "n": 1033,
+    "jp": "逗",
+    "on": "トウ、ズ",
+    "kun": "とど(まる)",
+    "en": "stop"
+  },
+  {
+    "n": 1034,
+    "jp": "苫",
+    "on": "セン",
+    "kun": "とま",
+    "en": "rush matting"
+  },
+  {
+    "n": 1035,
+    "jp": "伴",
+    "on": "ケン",
+    "kun": "かぎ",
+    "en": "key"
+  },
+  {
+    "n": 1036,
+    "jp": "襟",
+    "on": "キン",
+    "kun": "えり",
+    "en": "collar, neck, lapel, one's inner feelings"
+  },
+  {
+    "n": 1037,
+    "jp": "蛍",
+    "on": "ケイ",
+    "kun": "ほたる",
+    "en": "lightning-bug, firefly"
+  },
+  {
+    "n": 1038,
+    "jp": "楢",
+    "on": "シュウ、ユウ",
+    "kun": "なら",
+    "en": "oak"
+  },
+  {
+    "n": 1039,
+    "jp": "蕉",
+    "on": "ショウ",
+    "kun": "",
+    "en": "banana, plantain"
+  },
+  {
+    "n": 1040,
+    "jp": "兜",
+    "on": "トウ、ト",
+    "kun": "かぶと",
+    "en": "helmet, head piece"
+  },
+  {
+    "n": 1041,
+    "jp": "寡",
+    "on": "カ",
+    "kun": "",
+    "en": "widow, minority, few"
+  },
+  {
+    "n": 1042,
+    "jp": "琉",
+    "on": "リュウ、ル",
+    "kun": "",
+    "en": "precious stone, gem, lapis lazuli"
+  },
+  {
+    "n": 1043,
+    "jp": "痢",
+    "on": "リ",
+    "kun": "",
+    "en": "diarrhea"
+  },
+  {
+    "n": 1044,
+    "jp": "庸",
+    "on": "ヨウ",
+    "kun": "",
+    "en": "commonplace, ordinary, employment"
+  },
+  {
+    "n": 1045,
+    "jp": "朋",
+    "on": "ホウ",
+    "kun": "とも",
+    "en": "companion, friend"
+  },
+  {
+    "n": 1046,
+    "jp": "坑",
+    "on": "コウ",
+    "kun": "",
+    "en": "pit, hole"
+  },
+  {
+    "n": 1047,
+    "jp": "姑",
+    "on": "コ",
+    "kun": "しゅうとめ、しゅうと、おば、しばらく",
+    "en": "mother-in-law"
+  },
+  {
+    "n": 1048,
+    "jp": "烏",
+    "on": "ウ、オ",
+    "kun": "からす、いずくんぞ、なんぞ",
+    "en": "crow, raven"
+  },
+  {
+    "n": 1049,
+    "jp": "藍",
+    "on": "ラン",
+    "kun": "あい",
+    "en": "indigo"
+  },
+  {
+    "n": 1050,
+    "jp": "僑",
+    "on": "キョウ",
+    "kun": "",
+    "en": "expatriate, person living abroad, temporary home"
+  },
+  {
+    "n": 1051,
+    "jp": "賊",
+    "on": "ゾク",
+    "kun": "",
+    "en": "burglar, rebel, traitor, robber"
+  },
+  {
+    "n": 1052,
+    "jp": "搾",
+    "on": "サク",
+    "kun": "しぼ(る)",
+    "en": "squeeze"
+  },
+  {
+    "n": 1053,
+    "jp": "奄",
+    "on": "エン",
+    "kun": "おお(う)、たちまち",
+    "en": "cover, suffocate, obstruct"
+  },
+  {
+    "n": 1054,
+    "jp": "臼",
+    "on": "キュウ、グ",
+    "kun": "うす、うすづ(く)",
+    "en": "mortar"
+  },
+  {
+    "n": 1055,
+    "jp": "畔",
+    "on": "ハン",
+    "kun": "あぜ、くろ、ほとり",
+    "en": "paddy ridge, levee"
+  },
+  {
+    "n": 1056,
+    "jp": "遼",
+    "on": "リョウ",
+    "kun": "",
+    "en": "distant"
+  },
+  {
+    "n": 1057,
+    "jp": "唄",
+    "on": "バイ",
+    "kun": "うた、うた(う)",
+    "en": "song, ballad"
+  },
+  {
+    "n": 1058,
+    "jp": "孔",
+    "on": "コウ、ク",
+    "kun": "あな",
+    "en": "cavity, hole, slit, very, great, exceedingly"
+  },
+  {
+    "n": 1059,
+    "jp": "橘",
+    "on": "キツ",
+    "kun": "たちばな",
+    "en": "mandarin orange"
+  },
+  {
+    "n": 1060,
+    "jp": "漱",
+    "on": "ソウ、シュウ、ス",
+    "kun": "くちすす(ぐ)、くちそそ(ぐ)、うがい、すす(ぐ)",
+    "en": "gargle, rinse mouth"
+  },
+  {
+    "n": 1061,
+    "jp": "呂",
+    "on": "ロ、リョ",
+    "kun": "せぼね",
+    "en": "spine, backbone"
+  },
+  {
+    "n": 1062,
+    "jp": "桧",
+    "on": "カイ",
+    "kun": "ひのき、ひ",
+    "en": "Japanese cypress"
+  },
+  {
+    "n": 1063,
+    "jp": "拷",
+    "on": "ゴウ",
+    "kun": "",
+    "en": "torture, beat"
+  },
+  {
+    "n": 1064,
+    "jp": "宋",
+    "on": "ソウ",
+    "kun": "",
+    "en": "dwell, Sung dynasty"
+  },
+  {
+    "n": 1065,
+    "jp": "嬢",
+    "on": "ジョウ",
+    "kun": "むすめ",
+    "en": "lass, girl, Miss, daughter"
+  },
+  {
+    "n": 1066,
+    "jp": "苑",
+    "on": "エン、オン",
+    "kun": "その、う(つ)",
+    "en": "garden, farm, park"
+  },
+  {
+    "n": 1067,
+    "jp": "巽",
+    "on": "ソン",
+    "kun": "たつみ",
+    "en": "southeast"
+  },
+  {
+    "n": 1068,
+    "jp": "杜",
+    "on": "ト、トウ、ズ",
+    "kun": "もり、ふさ(ぐ)、やまなし",
+    "en": "woods, grove"
+  },
+  {
+    "n": 1069,
+    "jp": "渓",
+    "on": "ケイ",
+    "kun": "たに、たにがわ",
+    "en": "mountain stream, valley"
+  },
+  {
+    "n": 1070,
+    "jp": "翁",
+    "on": "オウ",
+    "kun": "おきな",
+    "en": "venerable old man"
+  },
+  {
+    "n": 1071,
+    "jp": "藝",
+    "on": "ゲイ、ウン",
+    "kun": "う(える)、のり、わざ",
+    "en": "art, craft, performance, acting, trick, stunt"
+  },
+  {
+    "n": 1072,
+    "jp": "廉",
+    "on": "レン",
+    "kun": "",
+    "en": "bargain, reason, charge, suspicion, point, account, purity"
+  },
+  {
+    "n": 1073,
+    "jp": "牙",
+    "on": "ガ、ゲ",
+    "kun": "きば、は",
+    "en": "tusk, fang, tusk radical (no. 92)"
+  },
+  {
+    "n": 1074,
+    "jp": "謹",
+    "on": "キン",
+    "kun": "つつし(む)",
+    "en": "discreet, reverently, humbly"
+  },
+  {
+    "n": 1075,
+    "jp": "瞳",
+    "on": "ドウ、トウ",
+    "kun": "ひとみ",
+    "en": "pupil (of eye)"
+  },
+  {
+    "n": 1076,
+    "jp": "湧",
+    "on": "ユウ、ヨウ、ユ",
+    "kun": "わ(く)",
+    "en": "boil, ferment, seethe, uproar, breed"
+  },
+  {
+    "n": 1077,
+    "jp": "欣",
+    "on": "キン、ゴン、コン",
+    "kun": "よろこ(ぶ)",
+    "en": "take pleasure in, rejoice"
+  },
+  {
+    "n": 1078,
+    "jp": "窯",
+    "on": "ヨウ",
+    "kun": "かま",
+    "en": "kiln, oven, furnace"
+  },
+  {
+    "n": 1079,
+    "jp": "褒",
+    "on": "ホウ",
+    "kun": "ほ(める)",
+    "en": "praise, extol"
+  },
+  {
+    "n": 1080,
+    "jp": "醜",
+    "on": "シュウ",
+    "kun": "みにく(い)、しこ",
+    "en": "ugly, unclean, shame, bad looking"
+  },
+  {
+    "n": 1081,
+    "jp": "魏",
+    "on": "ギ",
+    "kun": "たか(い)",
+    "en": "high, large, Kingdom of Wei"
+  },
+  {
+    "n": 1082,
+    "jp": "篇",
+    "on": "ヘン",
+    "kun": "",
+    "en": "volume, chapter, book, editing, compilation"
+  },
+  {
+    "n": 1083,
+    "jp": "升",
+    "on": "ショウ",
+    "kun": "ます",
+    "en": "measuring box, 1.8 liter"
+  },
+  {
+    "n": 1084,
+    "jp": "此",
+    "on": "シ",
+    "kun": "これ、この、ここ",
+    "en": "this, current, next, coming, last, past"
+  },
+  {
+    "n": 1085,
+    "jp": "峯",
+    "on": "ホウ",
+    "kun": "みね、ね",
+    "en": "peak, summit"
+  },
+  {
+    "n": 1086,
+    "jp": "殉",
+    "on": "ジュン",
+    "kun": "",
+    "en": "martyrdom, follow by resigning"
+  },
+  {
+    "n": 1087,
+    "jp": "煩",
+    "on": "ハン、ボン",
+    "kun": "わずら(う)、うるさ(がる)",
+    "en": "anxiety, trouble, worry, pain, ill, annoy, nuisance, irksome"
+  },
+  {
+    "n": 1088,
+    "jp": "巴",
+    "on": "ハ",
+    "kun": "ともえ、うずまき",
+    "en": "comma-design"
+  },
+  {
+    "n": 1089,
+    "jp": "禎",
+    "on": "テイ",
+    "kun": "さいわ(い)",
+    "en": "happiness, blessed, good fortune, auspicious"
+  },
+  {
+    "n": 1090,
+    "jp": "枕",
+    "on": "チン、シン",
+    "kun": "まくら",
+    "en": "pillow"
+  },
+  {
+    "n": 1091,
+    "jp": "劾",
+    "on": "ガイ",
+    "kun": "",
+    "en": "censure, criminal investigation"
+  },
+  {
+    "n": 1092,
+    "jp": "菩",
+    "on": "ボ",
+    "kun": "",
+    "en": "kind of grass, sacred tree"
+  },
+  {
+    "n": 1093,
+    "jp": "堕",
+    "on": "ダ",
+    "kun": "お(ちる)、くず(す)",
+    "en": "degenerate, descend to, lapse into"
+  },
+  {
+    "n": 1094,
+    "jp": "丼",
+    "on": "トン、タン、ショウ、セイ",
+    "kun": "どんぶり",
+    "en": "bowl, bowl of food"
+  },
+  {
+    "n": 1095,
+    "jp": "租",
+    "on": "ソ",
+    "kun": "",
+    "en": "tariff, crop tax, borrowing"
+  },
+  {
+    "n": 1096,
+    "jp": "檜",
+    "on": "カイ",
+    "kun": "ひのき、ひ",
+    "en": "Japanese cypress"
+  },
+  {
+    "n": 1097,
+    "jp": "稜",
+    "on": "リョウ、ロウ",
+    "kun": "いつ、かど",
+    "en": "angle, edge, corner, power, majesty"
+  },
+  {
+    "n": 1098,
+    "jp": "牟",
+    "on": "ボウ、ム",
+    "kun": "",
+    "en": "pupil (eye), moo (cow sound)"
+  },
+  {
+    "n": 1099,
+    "jp": "桟",
+    "on": "サン、セン",
+    "kun": "かけはし",
+    "en": "scaffold, cleat, frame, jetty, bolt (door)"
+  },
+  {
+    "n": 1100,
+    "jp": "榊",
+    "on": "",
+    "kun": "さかき",
+    "en": "sacred Shinto tree, (kokuji)"
+  },
+  {
+    "n": 1101,
+    "jp": "錫",
+    "on": "セキ、シャク",
+    "kun": "すず、たま(う)",
+    "en": "copper, tin"
+  },
+  {
+    "n": 1102,
+    "jp": "荏",
+    "on": "ジン、ニン",
+    "kun": "",
+    "en": "bean, perilla, herb, soft, pliable"
+  },
+  {
+    "n": 1103,
+    "jp": "惧",
+    "on": "ク、グ",
+    "kun": "おそ(れる)",
+    "en": "fear, be afraid of, dread"
+  },
+  {
+    "n": 1104,
+    "jp": "倭",
+    "on": "ワ、イ",
+    "kun": "やまと、したが(う)",
+    "en": "Yamato, ancient Japan"
+  },
+  {
+    "n": 1105,
+    "jp": "婿",
+    "on": "セイ",
+    "kun": "むこ",
+    "en": "bridegroom, son-in-law"
+  },
+  {
+    "n": 1106,
+    "jp": "慕",
+    "on": "ボ",
+    "kun": "した(う)",
+    "en": "pining, yearn for, love dearly, adore"
+  },
+  {
+    "n": 1107,
+    "jp": "廟",
+    "on": "ビョウ、ミョウ",
+    "kun": "たまや、みたまや、やしろ",
+    "en": "mausoleum, shrine, palace"
+  },
+  {
+    "n": 1108,
+    "jp": "銚",
+    "on": "チョウ、ヨウ",
+    "kun": "なべ",
+    "en": "sake bottle"
+  },
+  {
+    "n": 1109,
+    "jp": "斐",
+    "on": "ヒ、イ",
+    "kun": "",
+    "en": "beautiful, patterned"
+  },
+  {
+    "n": 1110,
+    "jp": "罷",
+    "on": "ヒ",
+    "kun": "まか(り-)、や(める)",
+    "en": "quit, stop, leave, withdraw, go"
+  },
+  {
+    "n": 1111,
+    "jp": "矯",
+    "on": "キョウ",
+    "kun": "た(める)",
+    "en": "rectify, straighten, correct, reform, cure, control, pretend, falsify"
+  },
+  {
+    "n": 1112,
+    "jp": "某",
+    "on": "ボウ",
+    "kun": "それがし、なにがし",
+    "en": "so-and-so, one, a certain, that person"
+  },
+  {
+    "n": 1113,
+    "jp": "囚",
+    "on": "シュウ",
+    "kun": "とら(われる)",
+    "en": "captured, criminal, arrest, catch"
+  },
+  {
+    "n": 1114,
+    "jp": "魁",
+    "on": "カイ",
+    "kun": "さきがけ、かしら",
+    "en": "charging ahead of others"
+  },
+  {
+    "n": 1115,
+    "jp": "薮",
+    "on": "ソウ",
+    "kun": "やぶ",
+    "en": "thicket, bush, underbrush, grove"
+  },
+  {
+    "n": 1116,
+    "jp": "虹",
+    "on": "コウ",
+    "kun": "にじ",
+    "en": "rainbow"
+  },
+  {
+    "n": 1117,
+    "jp": "鴻",
+    "on": "コウ、ゴウ",
+    "kun": "おおとり、ひしくい、おおがり",
+    "en": "large bird, wild goose, large, great, powerful, prosperous"
+  },
+  {
+    "n": 1118,
+    "jp": "泌",
+    "on": "ヒツ、ヒ",
+    "kun": "",
+    "en": "ooze, flow, soak in, penetrate, secrete"
+  },
+  {
+    "n": 1119,
+    "jp": "於",
+    "on": "オ、ヨ",
+    "kun": "おい(て)、お(ける)、ああ、より",
+    "en": "at, in, on, as for"
+  },
+  {
+    "n": 1120,
+    "jp": "赳",
+    "on": "キュウ",
+    "kun": "",
+    "en": "strong and brave"
+  },
+  {
+    "n": 1121,
+    "jp": "漸",
+    "on": "ゼン",
+    "kun": "ようや(く)、やや、ようよ(う)、すす(む)",
+    "en": "steadily, gradually advancing, finally, barely"
+  },
+  {
+    "n": 1122,
+    "jp": "逢",
+    "on": "ホウ",
+    "kun": "あ(う)、むか(える)",
+    "en": "meeting, tryst, date, rendezvous"
+  },
+  {
+    "n": 1123,
+    "jp": "凧",
+    "on": "",
+    "kun": "いかのぼり、たこ",
+    "en": "kite, (kokuji)"
+  },
+  {
+    "n": 1124,
+    "jp": "鵜",
+    "on": "テイ、ダイ",
+    "kun": "う",
+    "en": "cormorant"
+  },
+  {
+    "n": 1125,
+    "jp": "庵",
+    "on": "アン",
+    "kun": "いおり、いお",
+    "en": "hermitage, retreat"
+  },
+  {
+    "n": 1126,
+    "jp": "膳",
+    "on": "ゼン、セン",
+    "kun": "かしわ、すす(める)、そな(える)",
+    "en": "small low table, tray"
+  },
+  {
+    "n": 1127,
+    "jp": "蚊",
+    "on": "ブン",
+    "kun": "か",
+    "en": "mosquito"
+  },
+  {
+    "n": 1128,
+    "jp": "葵",
+    "on": "キ",
+    "kun": "あおい",
+    "en": "hollyhock"
+  },
+  {
+    "n": 1129,
+    "jp": "厄",
+    "on": "ヤク",
+    "kun": "",
+    "en": "unlucky, misfortune, bad luck, disaster"
+  },
+  {
+    "n": 1130,
+    "jp": "藻",
+    "on": "ソウ",
+    "kun": "も",
+    "en": "seaweed, duckweed"
+  },
+  {
+    "n": 1131,
+    "jp": "萬",
+    "on": "マン、バン",
+    "kun": "よろず",
+    "en": "ten thousand, 10,000"
+  },
+  {
+    "n": 1132,
+    "jp": "禄",
+    "on": "ロク",
+    "kun": "さいわ(い)、ふち",
+    "en": "fief, allowance, pension, grant, happiness"
+  },
+  {
+    "n": 1133,
+    "jp": "孟",
+    "on": "モウ、ボウ、ミョウ",
+    "kun": "かしら",
+    "en": "chief, beginning"
+  },
+  {
+    "n": 1134,
+    "jp": "鴈",
+    "on": "ガン",
+    "kun": "かり、かりがね",
+    "en": "wild goose"
+  },
+  {
+    "n": 1135,
+    "jp": "狼",
+    "on": "ロウ",
+    "kun": "おおかみ",
+    "en": "wolf"
+  },
+  {
+    "n": 1136,
+    "jp": "嫡",
+    "on": "チャク、テキ",
+    "kun": "",
+    "en": "legitimate wife, direct descent (nonbastard)"
+  },
+  {
+    "n": 1137,
+    "jp": "呪",
+    "on": "ジュ、シュ、シュウ、ズ",
+    "kun": "まじな(う)、のろ(い)",
+    "en": "spell, curse, charm, malediction"
+  },
+  {
+    "n": 1138,
+    "jp": "斬",
+    "on": "ザン、サン、セン、ゼン",
+    "kun": "き(る)",
+    "en": "beheading, kill, murder"
+  },
+  {
+    "n": 1139,
+    "jp": "尖",
+    "on": "セン",
+    "kun": "とが(る)、さき、するど(い)",
+    "en": "be pointed, sharp, taper, displeased, angry, edgy"
+  },
+  {
+    "n": 1140,
+    "jp": "翫",
+    "on": "ガン",
+    "kun": "もてあそ(ぶ)",
+    "en": "take pleasure in, play instrument"
+  },
+  {
+    "n": 1141,
+    "jp": "嶽",
+    "on": "ガク",
+    "kun": "たけ",
+    "en": "peak"
+  },
+  {
+    "n": 1142,
+    "jp": "尭",
+    "on": "ギョウ",
+    "kun": "たか(い)",
+    "en": "high, far"
+  },
+  {
+    "n": 1143,
+    "jp": "怨",
+    "on": "エン、オン、ウン",
+    "kun": "うら(む)",
+    "en": "grudge, show resentment, be jealous"
+  },
+  {
+    "n": 1144,
+    "jp": "卿",
+    "on": "ケイ、キョウ",
+    "kun": "きみ",
+    "en": "you, lord, secretary, state minister"
+  },
+  {
+    "n": 1145,
+    "jp": "串",
+    "on": "カン、ケン、セン",
+    "kun": "くし、つらぬ(く)",
+    "en": "spit, skewer"
+  },
+  {
+    "n": 1146,
+    "jp": "已",
+    "on": "イ",
+    "kun": "や(む)、すで(に)、のみ、はなはだ",
+    "en": "stop, halt, previously, already, long ago"
+  },
+  {
+    "n": 1147,
+    "jp": "嚇",
+    "on": "カク",
+    "kun": "おど(す)",
+    "en": "menacing, dignity, majesty, threaten"
+  },
+  {
+    "n": 1148,
+    "jp": "巳",
+    "on": "シ",
+    "kun": "み",
+    "en": "sign of the snake or serpent, 9-11AM, sixth sign of Chinese zodiac"
+  },
+  {
+    "n": 1149,
+    "jp": "凸",
+    "on": "トツ",
+    "kun": "でこ",
+    "en": "convex, beetle brow, uneven"
+  },
+  {
+    "n": 1150,
+    "jp": "暢",
+    "on": "チョウ",
+    "kun": "のび(る)",
+    "en": "stretch"
+  },
+  {
+    "n": 1151,
+    "jp": "腫",
+    "on": "シュ、ショウ",
+    "kun": "は(れる)、は(れ)、は(らす)、はれもの",
+    "en": "tumor, swelling"
+  },
+  {
+    "n": 1152,
+    "jp": "粟",
+    "on": "ゾク、ショク、ソク",
+    "kun": "あわ、もみ",
+    "en": "millet"
+  },
+  {
+    "n": 1153,
+    "jp": "燕",
+    "on": "エン",
+    "kun": "つばめ、つばくら、つばくろ",
+    "en": "swallow (bird)"
+  },
+  {
+    "n": 1154,
+    "jp": "韻",
+    "on": "イン",
+    "kun": "",
+    "en": "rhyme, elegance, tone"
+  },
+  {
+    "n": 1155,
+    "jp": "綴",
+    "on": "テイ、テツ、テチ、ゲツ",
+    "kun": "と(じる)、つづ(る)、つづり、すみ(やか)",
+    "en": "compose, spell, write, bind (books)"
+  },
+  {
+    "n": 1156,
+    "jp": "埴",
+    "on": "ショク",
+    "kun": "はに、へな",
+    "en": "clay"
+  },
+  {
+    "n": 1157,
+    "jp": "霜",
+    "on": "ソウ",
+    "kun": "しも",
+    "en": "frost"
+  },
+  {
+    "n": 1158,
+    "jp": "餅",
+    "on": "ヘイ、ヒョウ",
+    "kun": "もち、もちい",
+    "en": "mochi rice cake"
+  },
+  {
+    "n": 1159,
+    "jp": "魯",
+    "on": "ロ",
+    "kun": "おろか",
+    "en": "foolish, Russia"
+  },
+  {
+    "n": 1160,
+    "jp": "硝",
+    "on": "ショウ",
+    "kun": "",
+    "en": "nitrate, saltpeter"
+  },
+  {
+    "n": 1161,
+    "jp": "牡",
+    "on": "ボ、ボウ",
+    "kun": "おす、お-、おん-",
+    "en": "male"
+  },
+  {
+    "n": 1162,
+    "jp": "箸",
+    "on": "チョ、チャク",
+    "kun": "はし",
+    "en": "chopsticks"
+  },
+  {
+    "n": 1163,
+    "jp": "勅",
+    "on": "チョク",
+    "kun": "いまし(める)、みことのり",
+    "en": "imperial order"
+  },
+  {
+    "n": 1164,
+    "jp": "芹",
+    "on": "キン",
+    "kun": "せり",
+    "en": "parsley"
+  },
+  {
+    "n": 1165,
+    "jp": "杏",
+    "on": "キョウ、アン、コウ",
+    "kun": "あんず",
+    "en": "apricot"
+  },
+  {
+    "n": 1166,
+    "jp": "迦",
+    "on": "カ、ケ",
+    "kun": "",
+    "en": "(used phonetically)"
+  },
+  {
+    "n": 1167,
+    "jp": "棺",
+    "on": "カン",
+    "kun": "",
+    "en": "coffin, casket"
+  },
+  {
+    "n": 1168,
+    "jp": "儒",
+    "on": "ジュ",
+    "kun": "",
+    "en": "Confucian"
+  },
+  {
+    "n": 1169,
+    "jp": "鳳",
+    "on": "ホウ、フウ",
+    "kun": "",
+    "en": "male mythical bird"
+  },
+  {
+    "n": 1170,
+    "jp": "馨",
+    "on": "ケイ、キョウ",
+    "kun": "かお(る)、かおり",
+    "en": "fragrant, balmy, favourable"
+  },
+  {
+    "n": 1171,
+    "jp": "斑",
+    "on": "ハン",
+    "kun": "ふ、まだら",
+    "en": "spot, blemish, speck, patches"
+  },
+  {
+    "n": 1172,
+    "jp": "蔭",
+    "on": "イン、オン",
+    "kun": "かげ",
+    "en": "shade, shadow, backing assistance"
+  },
+  {
+    "n": 1173,
+    "jp": "焉",
+    "on": "エン",
+    "kun": "いずく(んぞ)、ここに、これ",
+    "en": "how, why, then"
+  },
+  {
+    "n": 1174,
+    "jp": "慧",
+    "on": "ケイ、エ",
+    "kun": "さとい",
+    "en": "wise"
+  },
+  {
+    "n": 1175,
+    "jp": "祇",
+    "on": "ギ、キ、シ",
+    "kun": "くにつかみ、ただ、まさに",
+    "en": "national or local god, peaceful, great"
+  },
+  {
+    "n": 1176,
+    "jp": "伨",
+    "on": "シ",
+    "kun": "いた(る)、つか(む)、にえ",
+    "en": "gift, seriousness"
+  },
+  {
+    "n": 1177,
+    "jp": "愁",
+    "on": "シュウ",
+    "kun": "うれ(える)、うれ(い)",
+    "en": "distress, grieve, lament, be anxious"
+  },
+  {
+    "n": 1178,
+    "jp": "鷺",
+    "on": "ロ",
+    "kun": "さぎ",
+    "en": "heron"
+  },
+  {
+    "n": 1179,
+    "jp": "楼",
+    "on": "ロウ",
+    "kun": "たかどの",
+    "en": "watchtower, lookout, high building"
+  },
+  {
+    "n": 1180,
+    "jp": "彬",
+    "on": "ヒン、フン",
+    "kun": "うるわ(しい)、あき(らか)",
+    "en": "refined, gentle"
+  },
+  {
+    "n": 1181,
+    "jp": "袴",
+    "on": "コ、ク",
+    "kun": "はかま、ずぼん",
+    "en": "men's formal divided skirt"
+  },
+  {
+    "n": 1182,
+    "jp": "匡",
+    "on": "キョウ、オウ",
+    "kun": "すく(う)、ただ(す)",
+    "en": "correct, save, assist"
+  },
+  {
+    "n": 1183,
+    "jp": "眉",
+    "on": "ビ、ミ",
+    "kun": "まゆ",
+    "en": "eyebrow"
+  },
+  {
+    "n": 1184,
+    "jp": "苅",
+    "on": "ガイ、カイ",
+    "kun": "か(る)",
+    "en": "cutting (grass)"
+  },
+  {
+    "n": 1185,
+    "jp": "讃",
+    "on": "サン",
+    "kun": "ほ(める)、たた(える)",
+    "en": "praise, title on a picture"
+  },
+  {
+    "n": 1186,
+    "jp": "尹",
+    "on": "イン",
+    "kun": "おさ、ただ(す)",
+    "en": "an official rank"
+  },
+  {
+    "n": 1187,
+    "jp": "欽",
+    "on": "キン、コン",
+    "kun": "つつし(む)",
+    "en": "respect, revere, long for"
+  },
+  {
+    "n": 1188,
+    "jp": "薪",
+    "on": "シン",
+    "kun": "たきぎ、まき",
+    "en": "fuel, firewood, kindling"
+  },
+  {
+    "n": 1189,
+    "jp": "湛",
+    "on": "タン、チン、ジン、セン",
+    "kun": "しず(む)、たた(える)",
+    "en": "fill, wear (a smile), clear, pure, dense, deep"
+  },
+  {
+    "n": 1190,
+    "jp": "堆",
+    "on": "タイ、ツイ",
+    "kun": "うずたか(い)",
+    "en": "piled high"
+  },
+  {
+    "n": 1191,
+    "jp": "狐",
+    "on": "コ",
+    "kun": "きつね",
+    "en": "fox"
+  },
+  {
+    "n": 1192,
+    "jp": "褐",
+    "on": "カツ",
+    "kun": "",
+    "en": "brown, woollen kimono"
+  },
+  {
+    "n": 1193,
+    "jp": "鴎",
+    "on": "オウ",
+    "kun": "かもめ",
+    "en": "seagull"
+  },
+  {
+    "n": 1194,
+    "jp": "瀋",
+    "on": "シン",
+    "kun": "",
+    "en": "juice, broth"
+  },
+  {
+    "n": 1195,
+    "jp": "伾",
+    "on": "チョウ、テイ",
+    "kun": "ぬ(く)",
+    "en": "bravely volunteer, counter for guns, inksticks, palanquins"
+  },
+  {
+    "n": 1196,
+    "jp": "賜",
+    "on": "シ",
+    "kun": "たまわ(る)、たま(う)、たも(う)",
+    "en": "grant, gift, boon, results"
+  },
+  {
+    "n": 1197,
+    "jp": "嵯",
+    "on": "サ、シ",
+    "kun": "",
+    "en": "steep, craggy, rugged"
+  },
+  {
+    "n": 1198,
+    "jp": "雁",
+    "on": "ガン",
+    "kun": "かり、かりがね",
+    "en": "wild goose"
+  },
+  {
+    "n": 1199,
+    "jp": "佃",
+    "on": "テン、デン",
+    "kun": "つくだ",
+    "en": "cultivated rice field"
+  },
+  {
+    "n": 1200,
+    "jp": "綜",
+    "on": "ソウ",
+    "kun": "おさ(める)、す(べる)",
+    "en": "rule, synthesize"
+  },
+  {
+    "n": 1201,
+    "jp": "繕",
+    "on": "ゼン",
+    "kun": "つくろ(う)",
+    "en": "darning, repair, mend, trim, tidy up, adjust"
+  },
+  {
+    "n": 1202,
+    "jp": "狛",
+    "on": "ハク",
+    "kun": "こま",
+    "en": "archaic part of Korea, lion-dog shrine guards"
+  },
+  {
+    "n": 1203,
+    "jp": "壷",
+    "on": "コ",
+    "kun": "つぼ",
+    "en": "jar, pot, hinge knuckle, one's aim"
+  },
+  {
+    "n": 1204,
+    "jp": "橿",
+    "on": "キョウ",
+    "kun": "かし、もちのき",
+    "en": "oak"
+  },
+  {
+    "n": 1205,
+    "jp": "栓",
+    "on": "セン",
+    "kun": "",
+    "en": "plug, bolt, cork, bung, stopper"
+  },
+  {
+    "n": 1206,
+    "jp": "翠",
+    "on": "スイ",
+    "kun": "かわせみ、みどり",
+    "en": "green, kingfisher"
+  },
+  {
+    "n": 1207,
+    "jp": "鮎",
+    "on": "デン、ネン",
+    "kun": "あゆ、なまず",
+    "en": "freshwater trout, smelt"
+  },
+  {
+    "n": 1208,
+    "jp": "芯",
+    "on": "シン",
+    "kun": "",
+    "en": "wick"
+  },
+  {
+    "n": 1209,
+    "jp": "蜜",
+    "on": "ミツ、ビツ",
+    "kun": "",
+    "en": "honey, nectar, molasses"
+  },
+  {
+    "n": 1210,
+    "jp": "播",
+    "on": "ハ、バン、ハン",
+    "kun": "ま(く)",
+    "en": "plant, sow"
+  },
+  {
+    "n": 1211,
+    "jp": "榛",
+    "on": "シン、ハン",
+    "kun": "はしばみ、はり",
+    "en": "hazelnut, filbert"
+  },
+  {
+    "n": 1212,
+    "jp": "凹",
+    "on": "オウ",
+    "kun": "くぼ(む)、へこ(む)、ぼこ",
+    "en": "concave, hollow, sunken"
+  },
+  {
+    "n": 1213,
+    "jp": "艶",
+    "on": "エン",
+    "kun": "つや、なま(めかしい)、あで(やか)、つや(めく)",
+    "en": "glossy, luster, glaze, polish, charm, colorful, captivating"
+  },
+  {
+    "n": 1214,
+    "jp": "帖",
+    "on": "チョウ、ジョウ",
+    "kun": "かきもの",
+    "en": "quire (of paper), bundle of seaweed, counter for screens, notebook"
+  },
+  {
+    "n": 1215,
+    "jp": "桶",
+    "on": "ヨウ、トウ",
+    "kun": "おけ",
+    "en": "tub, bucket"
+  },
+  {
+    "n": 1216,
+    "jp": "惣",
+    "on": "ソウ",
+    "kun": "すべ(て)",
+    "en": "all"
+  },
+  {
+    "n": 1217,
+    "jp": "股",
+    "on": "コ",
+    "kun": "また、もも",
+    "en": "thigh, crotch"
+  },
+  {
+    "n": 1218,
+    "jp": "匂",
+    "on": "",
+    "kun": "にお(う)、にお(い)、にお(わせる)",
+    "en": "fragrant, stink, glow, insinuate, (kokuji)"
+  },
+  {
+    "n": 1219,
+    "jp": "鞍",
+    "on": "アン",
+    "kun": "くら",
+    "en": "saddle"
+  },
+  {
+    "n": 1220,
+    "jp": "蔦",
+    "on": "チョウ",
+    "kun": "つた",
+    "en": "vine, ivy"
+  },
+  {
+    "n": 1221,
+    "jp": "玩",
+    "on": "ガン",
+    "kun": "もちあそ(ぶ)、もてあそ(ぶ)",
+    "en": "play, take pleasure in, trifle with, make sport of"
+  },
+  {
+    "n": 1222,
+    "jp": "萱",
+    "on": "ケン",
+    "kun": "かや、かんぞう",
+    "en": "miscanthus reed"
+  },
+  {
+    "n": 1223,
+    "jp": "梯",
+    "on": "テイ、タイ",
+    "kun": "はしご",
+    "en": "ladder, stairs, insatiable drinking"
+  },
+  {
+    "n": 1224,
+    "jp": "雫",
+    "on": "ダ",
+    "kun": "しずく",
+    "en": "drop, trickle, dripping, (kokuji)"
+  },
+  {
+    "n": 1225,
+    "jp": "絆",
+    "on": "ハン",
+    "kun": "きずな、ほだ(す)、つな(ぐ)",
+    "en": "bonds, fetters"
+  },
+  {
+    "n": 1226,
+    "jp": "錬",
+    "on": "レン",
+    "kun": "ね(る)",
+    "en": "tempering, refine, drill, train, polish"
+  },
+  {
+    "n": 1227,
+    "jp": "湊",
+    "on": "ソウ",
+    "kun": "みなと、あつ(まる)",
+    "en": "port, harbor"
+  },
+  {
+    "n": 1228,
+    "jp": "蜂",
+    "on": "ホウ",
+    "kun": "はち",
+    "en": "bee, wasp, hornet"
+  },
+  {
+    "n": 1229,
+    "jp": "隼",
+    "on": "シュン、ジュン",
+    "kun": "はやぶさ",
+    "en": "falcon"
+  },
+  {
+    "n": 1230,
+    "jp": "舵",
+    "on": "ダ、タ",
+    "kun": "かじ",
+    "en": "rudder, helm, wheel"
+  },
+  {
+    "n": 1231,
+    "jp": "渚",
+    "on": "ショ",
+    "kun": "なぎさ",
+    "en": "strand, beach, shore"
+  },
+  {
+    "n": 1232,
+    "jp": "珂",
+    "on": "カ",
+    "kun": "",
+    "en": "jewel"
+  },
+  {
+    "n": 1233,
+    "jp": "煥",
+    "on": "カン",
+    "kun": "あきらか",
+    "en": "shine"
+  },
+  {
+    "n": 1234,
+    "jp": "衷",
+    "on": "チュウ",
+    "kun": "",
+    "en": "inmost, heart, mind, inside"
+  },
+  {
+    "n": 1235,
+    "jp": "逐",
+    "on": "チク",
+    "kun": "",
+    "en": "pursue, drive away, chase, accomplish, attain, commit"
+  },
+  {
+    "n": 1236,
+    "jp": "斥",
+    "on": "セキ",
+    "kun": "しりぞ(ける)",
+    "en": "reject, retreat, recede, withdraw, repel, repulse"
+  },
+  {
+    "n": 1237,
+    "jp": "稀",
+    "on": "キ、ケ",
+    "kun": "まれ、まばら",
+    "en": "rare, phenomenal, dilute (acid)"
+  },
+  {
+    "n": 1238,
+    "jp": "癌",
+    "on": "ガン",
+    "kun": "",
+    "en": "cancer, cancerous evil"
+  },
+  {
+    "n": 1239,
+    "jp": "峨",
+    "on": "ガ",
+    "kun": "けわ(しい)",
+    "en": "high mountain"
+  },
+  {
+    "n": 1240,
+    "jp": "嘘",
+    "on": "キョ、コ",
+    "kun": "うそ、ふ(く)",
+    "en": "lie, falsehood"
+  },
+  {
+    "n": 1241,
+    "jp": "旛",
+    "on": "ヘン、ハン",
+    "kun": "はた",
+    "en": "flag"
+  },
+  {
+    "n": 1242,
+    "jp": "篭",
+    "on": "ロウ、ル",
+    "kun": "かご、こ(める)、こも(る)、こ(む)",
+    "en": "seclude oneself, cage, coop, implied"
+  },
+  {
+    "n": 1243,
+    "jp": "芙",
+    "on": "フ",
+    "kun": "",
+    "en": "lotus, Mt Fuji"
+  },
+  {
+    "n": 1244,
+    "jp": "詔",
+    "on": "ショウ",
+    "kun": "みことのり",
+    "en": "imperial edict"
+  },
+  {
+    "n": 1245,
+    "jp": "皐",
+    "on": "コウ",
+    "kun": "さつき",
+    "en": "swamp, shore, fifth month"
+  },
+  {
+    "n": 1246,
+    "jp": "雛",
+    "on": "スウ、ス、ジュ",
+    "kun": "ひな、ひよこ",
+    "en": "chick, squab, duckling, doll"
+  },
+  {
+    "n": 1247,
+    "jp": "娼",
+    "on": "ショウ",
+    "kun": "あそびめ",
+    "en": "prostitute"
+  },
+  {
+    "n": 1248,
+    "jp": "篆",
+    "on": "テン",
+    "kun": "",
+    "en": "seal-style characters"
+  },
+  {
+    "n": 1249,
+    "jp": "伸",
+    "on": "コウ",
+    "kun": "さめ、みずち",
+    "en": "shark"
+  },
+  {
+    "n": 1250,
+    "jp": "椅",
+    "on": "イ",
+    "kun": "",
+    "en": "chair"
+  },
+  {
+    "n": 1251,
+    "jp": "惟",
+    "on": "イ、ユイ",
+    "kun": "おも(んみる)、これ、おも(うに)",
+    "en": "consider, reflect, think"
+  },
+  {
+    "n": 1252,
+    "jp": "牌",
+    "on": "ハイ",
+    "kun": "ぱい、ふだ",
+    "en": "label, signboard, medal, mahjong tiles"
+  },
+  {
+    "n": 1253,
+    "jp": "宕",
+    "on": "トウ",
+    "kun": "すぎる",
+    "en": "cave"
+  },
+  {
+    "n": 1254,
+    "jp": "喧",
+    "on": "ケン",
+    "kun": "やかま(しい)、かまびす(しい)",
+    "en": "noisy, boisterous"
+  },
+  {
+    "n": 1255,
+    "jp": "佑",
+    "on": "ユウ、ウ",
+    "kun": "たす(ける)",
+    "en": "help, assist"
+  },
+  {
+    "n": 1256,
+    "jp": "蒋",
+    "on": "ショウ、ソウ",
+    "kun": "まこも、はげ(ます)",
+    "en": "reed"
+  },
+  {
+    "n": 1257,
+    "jp": "樟",
+    "on": "ショウ",
+    "kun": "くす",
+    "en": "camphor"
+  },
+  {
+    "n": 1258,
+    "jp": "耀",
+    "on": "ヨウ",
+    "kun": "かがや(く)、ひかり",
+    "en": "shine, sparkle, gleam, twinkle"
+  },
+  {
+    "n": 1259,
+    "jp": "黛",
+    "on": "タイ",
+    "kun": "まゆずみ",
+    "en": "blackened eyebrows"
+  },
+  {
+    "n": 1260,
+    "jp": "叱",
+    "on": "シツ、シチ、カ",
+    "kun": "しか(る)",
+    "en": "scold, reprove"
+  },
+  {
+    "n": 1261,
+    "jp": "櫛",
+    "on": "シツ",
+    "kun": "くし、くしけず(る)",
+    "en": "comb"
+  },
+  {
+    "n": 1262,
+    "jp": "渥",
+    "on": "アク",
+    "kun": "あつ(い)、うるお(う)",
+    "en": "kindness, moisten"
+  },
+  {
+    "n": 1263,
+    "jp": "挨",
+    "on": "アイ",
+    "kun": "ひら(く)",
+    "en": "approach, draw near, push open"
+  },
+  {
+    "n": 1264,
+    "jp": "憧",
+    "on": "ショウ、トウ、ドウ",
+    "kun": "あこが(れる)",
+    "en": "yearn after, long for, aspire to, admire, adore"
+  },
+  {
+    "n": 1265,
+    "jp": "濡",
+    "on": "ジュ、ニュ",
+    "kun": "ぬれ(る)、うるお(い)",
+    "en": "get wet, damp, make love"
+  },
+  {
+    "n": 1266,
+    "jp": "槍",
+    "on": "ソウ、ショウ",
+    "kun": "やり",
+    "en": "spear, lance, javelin"
+  },
+  {
+    "n": 1267,
+    "jp": "宵",
+    "on": "ショウ",
+    "kun": "よい",
+    "en": "wee hours, evening, early night"
+  },
+  {
+    "n": 1268,
+    "jp": "襄",
+    "on": "ジョウ、ショウ",
+    "kun": "はら(う)",
+    "en": "rise, raise"
+  },
+  {
+    "n": 1269,
+    "jp": "妄",
+    "on": "モウ、ボウ",
+    "kun": "みだ(りに)",
+    "en": "delusion, unnecessarily, without authority, reckless"
+  },
+  {
+    "n": 1270,
+    "jp": "惇",
+    "on": "シュン、ジュン、トン",
+    "kun": "あつ(い)",
+    "en": "sincere, kind, considerate"
+  },
+  {
+    "n": 1271,
+    "jp": "蛋",
+    "on": "タン",
+    "kun": "",
+    "en": "barbarian, egg"
+  },
+  {
+    "n": 1272,
+    "jp": "脩",
+    "on": "シュウ",
+    "kun": "おさ(める)、なが(い)、ほじし",
+    "en": "dried meat"
+  },
+  {
+    "n": 1273,
+    "jp": "笘",
+    "on": "セン、チョウ",
+    "kun": "",
+    "en": "whip, cane, wooden writing slate"
+  },
+  {
+    "n": 1274,
+    "jp": "宍",
+    "on": "ニク、ジク",
+    "kun": "しし",
+    "en": "muscles, meat"
+  },
+  {
+    "n": 1275,
+    "jp": "甫",
+    "on": "ホ、フ",
+    "kun": "はじ(めて)",
+    "en": "for the first time, not until"
+  },
+  {
+    "n": 1276,
+    "jp": "酌",
+    "on": "シャク",
+    "kun": "く(む)",
+    "en": "bar-tending, serving sake, the host, draw (water), ladle, scoop, pump"
+  },
+  {
+    "n": 1277,
+    "jp": "蚕",
+    "on": "サン、テン",
+    "kun": "かいこ、こ",
+    "en": "silkworm"
+  },
+  {
+    "n": 1278,
+    "jp": "壕",
+    "on": "コウ、ゴウ",
+    "kun": "ほり",
+    "en": "trench, dugout, air raid shelter"
+  },
+  {
+    "n": 1279,
+    "jp": "嬉",
+    "on": "キ",
+    "kun": "うれ(しい)、たの(しむ)",
+    "en": "glad, pleased, rejoice"
+  },
+  {
+    "n": 1280,
+    "jp": "囃",
+    "on": "サツ、ソウ",
+    "kun": "はや(す)、はやし",
+    "en": "play (music), accompany, beat time, banter, jeer, applaud"
+  },
+  {
+    "n": 1281,
+    "jp": "蒼",
+    "on": "ソウ",
+    "kun": "あお(い)",
+    "en": "blue, pale"
+  },
+  {
+    "n": 1282,
+    "jp": "餌",
+    "on": "ジ、ニ",
+    "kun": "え、えば、えさ、もち",
+    "en": "food, bait, prey, tempting profit"
+  },
+  {
+    "n": 1283,
+    "jp": "簗",
+    "on": "リョウ",
+    "kun": "やな",
+    "en": "weir, fish trap, (kokuji)"
+  },
+  {
+    "n": 1284,
+    "jp": "峙",
+    "on": "ジ",
+    "kun": "そばだ(つ)",
+    "en": "tower, soar"
+  },
+  {
+    "n": 1285,
+    "jp": "粥",
+    "on": "イク、シュク、ジュク",
+    "kun": "かゆ、かい、ひさ(ぐ)",
+    "en": "rice gruel"
+  },
+  {
+    "n": 1286,
+    "jp": "舘",
+    "on": "カン",
+    "kun": "やかた、たて",
+    "en": "mansion, large building, palace"
+  },
+  {
+    "n": 1287,
+    "jp": "銕",
+    "on": "テツ",
+    "kun": "くろがね",
+    "en": "iron, strong, solid, firm"
+  },
+  {
+    "n": 1288,
+    "jp": "鄒",
+    "on": "スウ、シュ、シュウ",
+    "kun": "",
+    "en": "place name"
+  },
+  {
+    "n": 1289,
+    "jp": "蜷",
+    "on": "ケン",
+    "kun": "にな",
+    "en": "an edible river snail"
+  },
+  {
+    "n": 1290,
+    "jp": "暉",
+    "on": "キ",
+    "kun": "かが(やく)",
+    "en": "shine, light"
+  },
+  {
+    "n": 1291,
+    "jp": "捧",
+    "on": "ホウ",
+    "kun": "ささ(げる)",
+    "en": "lift up, give, offer, consecrate, sacrifice, dedicate"
+  },
+  {
+    "n": 1292,
+    "jp": "頒",
+    "on": "ハン",
+    "kun": "わ(かつ)、わ(ける)",
+    "en": "distribute, disseminate, partition, understand"
+  },
+  {
+    "n": 1293,
+    "jp": "只",
+    "on": "シ",
+    "kun": "ただ",
+    "en": "only, free, in addition"
+  },
+  {
+    "n": 1294,
+    "jp": "肢",
+    "on": "シ",
+    "kun": "",
+    "en": "limb, arms & legs"
+  },
+  {
+    "n": 1295,
+    "jp": "箏",
+    "on": "ソウ、ショウ",
+    "kun": "こと",
+    "en": "a koto"
+  },
+  {
+    "n": 1296,
+    "jp": "檀",
+    "on": "ダン、タン",
+    "kun": "まゆみ",
+    "en": "cedar, sandalwood, spindle tree"
+  },
+  {
+    "n": 1297,
+    "jp": "鵠",
+    "on": "コク、コウ",
+    "kun": "くぐい、まと",
+    "en": "swan"
+  },
+  {
+    "n": 1298,
+    "jp": "凱",
+    "on": "ガイ、カイ",
+    "kun": "かちどき、やわらぐ",
+    "en": "victory song"
+  },
+  {
+    "n": 1299,
+    "jp": "彗",
+    "on": "スイ、エ、ケイ、セイ",
+    "kun": "ほうき",
+    "en": "comet"
+  },
+  {
+    "n": 1300,
+    "jp": "謄",
+    "on": "トウ",
+    "kun": "",
+    "en": "mimeograph, copy"
+  },
+  {
+    "n": 1301,
+    "jp": "諌",
+    "on": "カン",
+    "kun": "いさ(め)",
+    "en": "remonstrate, admonish"
+  },
+  {
+    "n": 1302,
+    "jp": "樫",
+    "on": "",
+    "kun": "かし",
+    "en": "oak, (kokuji)"
+  },
+  {
+    "n": 1303,
+    "jp": "噂",
+    "on": "ソン",
+    "kun": "うわさ",
+    "en": "rumor, gossip"
+  },
+  {
+    "n": 1304,
+    "jp": "脊",
+    "on": "セキ",
+    "kun": "せ、せい",
+    "en": "spine, back"
+  },
+  {
+    "n": 1305,
+    "jp": "牝",
+    "on": "ヒン",
+    "kun": "めす、め-、めん",
+    "en": "female (animal)"
+  },
+  {
+    "n": 1306,
+    "jp": "梓",
+    "on": "シ",
+    "kun": "あずさ",
+    "en": "catalpa tree"
+  },
+  {
+    "n": 1307,
+    "jp": "洛",
+    "on": "ラク",
+    "kun": "",
+    "en": "Kyoto, city"
+  },
+  {
+    "n": 1308,
+    "jp": "醍",
+    "on": "ダイ、タイ、テイ",
+    "kun": "",
+    "en": "ceremonial sake"
+  },
+  {
+    "n": 1309,
+    "jp": "砦",
+    "on": "サイ",
+    "kun": "とりで",
+    "en": "fort, stronghold"
+  },
+  {
+    "n": 1310,
+    "jp": "丑",
+    "on": "チュウ",
+    "kun": "うし",
+    "en": "sign of the ox, second sign of Chinese zodiac"
+  },
+  {
+    "n": 1311,
+    "jp": "笏",
+    "on": "コツ",
+    "kun": "しゃく",
+    "en": "scepter, baton"
+  },
+  {
+    "n": 1312,
+    "jp": "蕨",
+    "on": "ケツ",
+    "kun": "わらび",
+    "en": "bracken fern"
+  },
+  {
+    "n": 1313,
+    "jp": "噺",
+    "on": "",
+    "kun": "はなし",
+    "en": "story, talk, (kokuji)"
+  },
+  {
+    "n": 1314,
+    "jp": "抒",
+    "on": "ジョ、ショ",
+    "kun": "く(む)、の(べる)",
+    "en": "express, ladle"
+  },
+  {
+    "n": 1315,
+    "jp": "嗣",
+    "on": "シ",
+    "kun": "",
+    "en": "heir, succeed"
+  },
+  {
+    "n": 1316,
+    "jp": "隈",
+    "on": "ワイ、エ",
+    "kun": "くま、すみ",
+    "en": "corner, nook, recess"
+  },
+  {
+    "n": 1317,
+    "jp": "叶",
+    "on": "キョウ",
+    "kun": "かな(える)、かな(う)",
+    "en": "grant, answer"
+  },
+  {
+    "n": 1318,
+    "jp": "凄",
+    "on": "セイ、サイ",
+    "kun": "さむ(い)、すご(い)、すさ(まじい)",
+    "en": "uncanny, weird, ghastly, amazing"
+  },
+  {
+    "n": 1319,
+    "jp": "汐",
+    "on": "セキ",
+    "kun": "しお、うしお、せい",
+    "en": "eventide, tide, salt water"
+  },
+  {
+    "n": 1320,
+    "jp": "絢",
+    "on": "ケン",
+    "kun": "",
+    "en": "brilliant, variegated"
+  },
+  {
+    "n": 1321,
+    "jp": "叩",
+    "on": "コウ",
+    "kun": "たた(く)、はた(く)、すぎ",
+    "en": "strike, beat, knock, pound"
+  },
+  {
+    "n": 1322,
+    "jp": "嫉",
+    "on": "シツ",
+    "kun": "そね(む)、ねた(む)、にく(む)",
+    "en": "jealousy, envy"
+  },
+  {
+    "n": 1323,
+    "jp": "朔",
+    "on": "サク",
+    "kun": "ついたち",
+    "en": "first day of month, new moon, north"
+  },
+  {
+    "n": 1324,
+    "jp": "蔡",
+    "on": "サイ",
+    "kun": "",
+    "en": "name, thistle"
+  },
+  {
+    "n": 1325,
+    "jp": "膝",
+    "on": "シツ",
+    "kun": "ひざ",
+    "en": "knee, lap"
+  },
+  {
+    "n": 1326,
+    "jp": "鍾",
+    "on": "ショウ、シュ",
+    "kun": "あつ(める)、さかずき、かね",
+    "en": "bell, cup, concentrate"
+  },
+  {
+    "n": 1327,
+    "jp": "仇",
+    "on": "キュウ、グ",
+    "kun": "あだ、あた、かたき、つれあい",
+    "en": "foe, enemy, revenge, grudge"
+  },
+  {
+    "n": 1328,
+    "jp": "伽",
+    "on": "カ、ガ、キャ、ギャ",
+    "kun": "とぎ",
+    "en": "nursing, attend, care for"
+  },
+  {
+    "n": 1329,
+    "jp": "夷",
+    "on": "イ",
+    "kun": "えびす、えみし、ころ(す)、たい(らげる)",
+    "en": "barbarian, savage, level"
+  },
+  {
+    "n": 1330,
+    "jp": "恣",
+    "on": "シ",
+    "kun": "ほしいまま",
+    "en": "selfish, arbitrary"
+  },
+  {
+    "n": 1331,
+    "jp": "瞑",
+    "on": "メイ、ベン、ミョウ、ミン、メン",
+    "kun": "めい(する)、つぶ(る)、つむ(る)、くら(い)",
+    "en": "close eyes, dark"
+  },
+  {
+    "n": 1332,
+    "jp": "畝",
+    "on": "ボウ、ホ、モ、ム",
+    "kun": "せ、うね",
+    "en": "furrow, 30 tsubo, ridge"
+  },
+  {
+    "n": 1333,
+    "jp": "抄",
+    "on": "ショウ",
+    "kun": "",
+    "en": "extract, selection, summary, copy"
+  },
+  {
+    "n": 1334,
+    "jp": "杭",
+    "on": "コウ",
+    "kun": "くい",
+    "en": "stake, post, picket"
+  },
+  {
+    "n": 1335,
+    "jp": "寓",
+    "on": "グウ、グ、ドウ",
+    "kun": "ぐう(する)、かこつ(ける)、よ(る)、かりずまい",
+    "en": "temporary home, lodging"
+  },
+  {
+    "n": 1336,
+    "jp": "麺",
+    "on": "メン、ベン",
+    "kun": "むぎこ",
+    "en": "noodles, wheat"
+  },
+  {
+    "n": 1337,
+    "jp": "戴",
+    "on": "タイ",
+    "kun": "いただ(く)",
+    "en": "be crowned with, live under, receive"
+  },
+  {
+    "n": 1338,
+    "jp": "爽",
+    "on": "ソウ",
+    "kun": "あき(らか)、さわ(やか)、たがう",
+    "en": "refreshing, bracing, resonant, sweet, clear"
+  },
+  {
+    "n": 1339,
+    "jp": "裾",
+    "on": "キョ、コ",
+    "kun": "すそ",
+    "en": "cuff, hem, foot of mountain"
+  },
+  {
+    "n": 1340,
+    "jp": "黎",
+    "on": "レイ、リ",
+    "kun": "くろ(い)",
+    "en": "dark, black, many"
+  },
+  {
+    "n": 1341,
+    "jp": "惰",
+    "on": "ダ",
+    "kun": "",
+    "en": "lazy, laziness"
+  },
+  {
+    "n": 1342,
+    "jp": "坐",
+    "on": "ザ、サ",
+    "kun": "すわ(る)、おわす、そぞろに、まします",
+    "en": "sit, zazen"
+  },
+  {
+    "n": 1343,
+    "jp": "鍼",
+    "on": "シン",
+    "kun": "はり、さ(す)",
+    "en": "needle, acupuncture"
+  },
+  {
+    "n": 1344,
+    "jp": "蛮",
+    "on": "バン",
+    "kun": "えびす",
+    "en": "barbarian, savage"
+  },
+  {
+    "n": 1345,
+    "jp": "塙",
+    "on": "カク、コウ",
+    "kun": "はなわ、かた(い)",
+    "en": "mound, hard"
+  },
+  {
+    "n": 1346,
+    "jp": "冴",
+    "on": "ゴ、コ",
+    "kun": "さ(える)、こお(る)、ひ(える)",
+    "en": "be clear, serene, cold, skillful"
+  },
+  {
+    "n": 1347,
+    "jp": "旺",
+    "on": "オウ、キョウ、ゴウ",
+    "kun": "かがや(き)、うつくし(い)、さかん",
+    "en": "flourishing, prosperous"
+  },
+  {
+    "n": 1348,
+    "jp": "葦",
+    "on": "イ",
+    "kun": "あし、よし、しお(れる)、しな(びる)、しぼ(む)、な(える)",
+    "en": "reed, bulrush"
+  },
+  {
+    "n": 1349,
+    "jp": "礒",
+    "on": "ギ、ガ",
+    "kun": "いそ、いわお",
+    "en": "rocky beach"
+  },
+  {
+    "n": 1350,
+    "jp": "咸",
+    "on": "カン、ゲン",
+    "kun": "",
+    "en": "all, everyone"
+  },
+  {
+    "n": 1351,
+    "jp": "萌",
+    "on": "ホウ",
+    "kun": "も(える)、きざ(す)、めばえ",
+    "en": "sprout, bud, moe"
+  },
+  {
+    "n": 1352,
+    "jp": "饗",
+    "on": "キョウ",
+    "kun": "う(ける)、もてな(す)",
+    "en": "feast, banquet, treat"
+  },
+  {
+    "n": 1353,
+    "jp": "歪",
+    "on": "ワイ、エ",
+    "kun": "いが(む)、いびつ、ひず(む)、ゆが(む)",
+    "en": "warp, bend, crooked"
+  },
+  {
+    "n": 1354,
+    "jp": "冥",
+    "on": "メイ、ミョウ",
+    "kun": "くら(い)",
+    "en": "dark, the underworld"
+  },
+  {
+    "n": 1355,
+    "jp": "偲",
+    "on": "サイ、シ",
+    "kun": "しの(ぶ)",
+    "en": "recollect, remember"
+  },
+  {
+    "n": 1356,
+    "jp": "壱",
+    "on": "イチ、イツ",
+    "kun": "ひとつ",
+    "en": "one (in documents)"
+  },
+  {
+    "n": 1357,
+    "jp": "瑠",
+    "on": "ル、リュウ",
+    "kun": "",
+    "en": "lapis lazuli"
+  },
+  {
+    "n": 1358,
+    "jp": "韮",
+    "on": "キュウ、ク",
+    "kun": "にら",
+    "en": "leek, chive"
+  },
+  {
+    "n": 1359,
+    "jp": "漕",
+    "on": "ソウ",
+    "kun": "こ(ぐ)、はこ(ぶ)",
+    "en": "row, paddle, scull"
+  },
+  {
+    "n": 1360,
+    "jp": "杵",
+    "on": "ショ、ソ",
+    "kun": "きね",
+    "en": "pestle"
+  },
+  {
+    "n": 1361,
+    "jp": "薔",
+    "on": "バ、ショウ、ショク、ソウ",
+    "kun": "みずたで",
+    "en": "rose"
+  },
+  {
+    "n": 1362,
+    "jp": "膠",
+    "on": "コウ、キョウ",
+    "kun": "にかわ、にべ",
+    "en": "glue, isinglass"
+  },
+  {
+    "n": 1363,
+    "jp": "允",
+    "on": "イン",
+    "kun": "じょう、まこと(に)、ゆるす",
+    "en": "allow, legitimate"
+  },
+  {
+    "n": 1364,
+    "jp": "眞",
+    "on": "シン",
+    "kun": "ま、まこと",
+    "en": "true, reality"
+  },
+  {
+    "n": 1365,
+    "jp": "蒙",
+    "on": "モウ、ボウ",
+    "kun": "こうむ(る)、おお(う)、くら(い)",
+    "en": "ignorance, Mongolia, receive"
+  },
+  {
+    "n": 1366,
+    "jp": "蕃",
+    "on": "バン、ハン",
+    "kun": "",
+    "en": "grow, multiply, barbarian"
+  },
+  {
+    "n": 1367,
+    "jp": "呑",
+    "on": "トン、ドン",
+    "kun": "の(む)",
+    "en": "swallow, absorb, drink"
+  },
+  {
+    "n": 1368,
+    "jp": "侯",
+    "on": "コウ",
+    "kun": "",
+    "en": "marquis, lord, daimyo"
+  },
+  {
+    "n": 1369,
+    "jp": "碓",
+    "on": "カク、タイ",
+    "kun": "たし(か)、かく(たる)",
+    "en": "mortar, pestle"
+  },
+  {
+    "n": 1370,
+    "jp": "茗",
+    "on": "ミョウ、メイ",
+    "kun": "ちゃ",
+    "en": "tea, tea plant"
+  },
+  {
+    "n": 1371,
+    "jp": "麓",
+    "on": "ロク",
+    "kun": "ふもと",
+    "en": "foot of a mountain"
+  },
+  {
+    "n": 1372,
+    "jp": "瀕",
+    "on": "ヒン",
+    "kun": "ほとり",
+    "en": "on the verge of, brink"
+  },
+  {
+    "n": 1373,
+    "jp": "蒔",
+    "on": "シ、ジ",
+    "kun": "う(える)、ま(く)",
+    "en": "sow (seeds), plant"
+  },
+  {
+    "n": 1374,
+    "jp": "鯉",
+    "on": "リ",
+    "kun": "こい",
+    "en": "carp"
+  },
+  {
+    "n": 1375,
+    "jp": "竪",
+    "on": "ジュ",
+    "kun": "たて、た(てる)、こども",
+    "en": "vertical, upright"
+  },
+  {
+    "n": 1376,
+    "jp": "弧",
+    "on": "コ",
+    "kun": "",
+    "en": "arc, bow"
+  },
+  {
+    "n": 1377,
+    "jp": "稽",
+    "on": "ケイ",
+    "kun": "かんが(える)、とど(める)",
+    "en": "think, consider, bow"
+  },
+  {
+    "n": 1378,
+    "jp": "瘤",
+    "on": "リュウ、ル",
+    "kun": "こぶ",
+    "en": "lump, bump, knob"
+  },
+  {
+    "n": 1379,
+    "jp": "澤",
+    "on": "タク",
+    "kun": "さわ、うるお(い)、うるお(す)、つや",
+    "en": "swamp, marsh, grace"
+  },
+  {
+    "n": 1380,
+    "jp": "溥",
+    "on": "フ、ハク",
+    "kun": "あまねし",
+    "en": "universal, wide"
+  },
+  {
+    "n": 1381,
+    "jp": "遥",
+    "on": "ヨウ",
+    "kun": "はる(か)",
+    "en": "far off, distant, long ago"
+  },
+  {
+    "n": 1382,
+    "jp": "蹴",
+    "on": "シュク、シュウ",
+    "kun": "け(る)",
+    "en": "kick"
+  },
+  {
+    "n": 1383,
+    "jp": "或",
+    "on": "ワク、コク、イキ",
+    "kun": "あ(る)、あるい、あるいは",
+    "en": "a certain, some, or, possibly"
+  },
+  {
+    "n": 1384,
+    "jp": "訃",
+    "on": "フ",
+    "kun": "しらせ",
+    "en": "obituary"
+  },
+  {
+    "n": 1385,
+    "jp": "矩",
+    "on": "ク",
+    "kun": "かね、かねざし、さしがね",
+    "en": "ruler, carpenter's square"
+  },
+  {
+    "n": 1386,
+    "jp": "厦",
+    "on": "カ、サ",
+    "kun": "いえ",
+    "en": "large building, mansion"
+  },
+  {
+    "n": 1387,
+    "jp": "冤",
+    "on": "エン",
+    "kun": "",
+    "en": "false charge, unjust"
+  },
+  {
+    "n": 1388,
+    "jp": "剥",
+    "on": "ハク、ホク",
+    "kun": "へ(ぐ)、む(く)、は(がれる)",
+    "en": "peel, strip, remove"
+  },
+  {
+    "n": 1389,
+    "jp": "舜",
+    "on": "シュン",
+    "kun": "",
+    "en": "legendary sage king"
+  },
+  {
+    "n": 1390,
+    "jp": "侠",
+    "on": "キョウ",
+    "kun": "きゃん、おとこだて",
+    "en": "chivalry, heroism"
+  },
+  {
+    "n": 1391,
+    "jp": "贅",
+    "on": "ゼイ、セイ",
+    "kun": "いぼ",
+    "en": "luxury, wart"
+  },
+  {
+    "n": 1392,
+    "jp": "伺",
+    "on": "ジョウ",
+    "kun": "つえ",
+    "en": "staff, cane"
+  },
+  {
+    "n": 1393,
+    "jp": "蓋",
+    "on": "ガイ、カイ、コウ",
+    "kun": "ふた、けだ(し)、おお(う)、かさ、かこう",
+    "en": "cover, lid, flap"
+  },
+  {
+    "n": 1394,
+    "jp": "畏",
+    "on": "イ",
+    "kun": "おそ(れる)、かしこま(る)、かしこ、かしこ(し)",
+    "en": "fear, revere, awe"
+  },
+  {
+    "n": 1395,
+    "jp": "喉",
+    "on": "コウ",
+    "kun": "のど",
+    "en": "throat, gullet, windpipe"
+  },
+  {
+    "n": 1396,
+    "jp": "汪",
+    "on": "オウ",
+    "kun": "",
+    "en": "vast, deep (of water)"
+  },
+  {
+    "n": 1397,
+    "jp": "猷",
+    "on": "ユウ、ヨウ",
+    "kun": "はかりごと、はか(る)",
+    "en": "plan, scheme"
+  },
+  {
+    "n": 1398,
+    "jp": "瑛",
+    "on": "エイ",
+    "kun": "",
+    "en": "crystal, luster of gems"
+  },
+  {
+    "n": 1399,
+    "jp": "搜",
+    "on": "ソウ、シュ、シュウ",
+    "kun": "さが(す)",
+    "en": "search, look for"
+  },
+  {
+    "n": 1400,
+    "jp": "曼",
+    "on": "マン、バン",
+    "kun": "なが(い)",
+    "en": "long, mandala"
+  },
+  {
+    "n": 1401,
+    "jp": "附",
+    "on": "フ",
+    "kun": "つ(ける)、つ(く)",
+    "en": "affixed, attach, refer to, append"
+  },
+  {
+    "n": 1402,
+    "jp": "彪",
+    "on": "ヒョウ、ヒュウ",
+    "kun": "あや",
+    "en": "spotted, mottled, patterned, small tiger"
+  },
+  {
+    "n": 1403,
+    "jp": "撚",
+    "on": "ネン",
+    "kun": "よ(る)、よ(れる)、より、ひね(る)",
+    "en": "twist, twine, kinky"
+  },
+  {
+    "n": 1404,
+    "jp": "噛",
+    "on": "コウ、ゴウ",
+    "kun": "か(む)、か(じる)",
+    "en": "chew, bite, gnaw"
+  },
+  {
+    "n": 1405,
+    "jp": "卯",
+    "on": "ボウ、モウ",
+    "kun": "う",
+    "en": "sign of the hare or rabbit, fourth sign of Chinese zodiac, 5-7AM, east"
+  },
+  {
+    "n": 1406,
+    "jp": "桝",
+    "on": "",
+    "kun": "ます",
+    "en": "measuring box, (kokuji)"
+  },
+  {
+    "n": 1407,
+    "jp": "撫",
+    "on": "ブ、フ",
+    "kun": "な(でる)",
+    "en": "stroke, pat, smooth down"
+  },
+  {
+    "n": 1408,
+    "jp": "喋",
+    "on": "チョウ、トウ",
+    "kun": "しゃべ(る)、ついば(む)",
+    "en": "talk, chat, chatter"
+  },
+  {
+    "n": 1409,
+    "jp": "但",
+    "on": "タン",
+    "kun": "ただ(し)",
+    "en": "however, but"
+  },
+  {
+    "n": 1410,
+    "jp": "溢",
+    "on": "イツ",
+    "kun": "こぼ(れる)、あふ(れる)、み(ちる)",
+    "en": "overflow, inundate, spill"
+  },
+  {
+    "n": 1411,
+    "jp": "闊",
+    "on": "カツ",
+    "kun": "ひろ(い)",
+    "en": "wide"
+  },
+  {
+    "n": 1412,
+    "jp": "藏",
+    "on": "ゾウ、ソウ",
+    "kun": "くら、おさ(める)、かく(れる)",
+    "en": "hide, own, have, possess"
+  },
+  {
+    "n": 1413,
+    "jp": "浙",
+    "on": "セツ",
+    "kun": "",
+    "en": "name of a Chinese river"
+  },
+  {
+    "n": 1414,
+    "jp": "彭",
+    "on": "ホウ",
+    "kun": "",
+    "en": "swelling, sound of drum"
+  },
+  {
+    "n": 1415,
+    "jp": "淘",
+    "on": "トウ",
+    "kun": "よな(げる)",
+    "en": "select"
+  },
+  {
+    "n": 1416,
+    "jp": "剃",
+    "on": "テイ",
+    "kun": "まい、そ(る)、す(る)",
+    "en": "shave"
+  },
+  {
+    "n": 1417,
+    "jp": "揃",
+    "on": "セン",
+    "kun": "そろ(える)、き(る)",
+    "en": "be complete, uniform, all present"
+  },
+  {
+    "n": 1418,
+    "jp": "綺",
+    "on": "キ",
+    "kun": "あや",
+    "en": "figured cloth, beautiful"
+  },
+  {
+    "n": 1419,
+    "jp": "徘",
+    "on": "ハイ",
+    "kun": "さまよ(う)",
+    "en": "wander"
+  },
+  {
+    "n": 1420,
+    "jp": "巷",
+    "on": "コウ",
+    "kun": "ちまた",
+    "en": "fork in road, scene, arena, theater"
+  },
+  {
+    "n": 1421,
+    "jp": "竿",
+    "on": "カン",
+    "kun": "さお",
+    "en": "pole, rod, scale beam, violin neck"
+  },
+  {
+    "n": 1422,
+    "jp": "蟹",
+    "on": "カイ",
+    "kun": "かに",
+    "en": "crab"
+  },
+  {
+    "n": 1423,
+    "jp": "芋",
+    "on": "ウ",
+    "kun": "いも",
+    "en": "potato"
+  },
+  {
+    "n": 1424,
+    "jp": "袁",
+    "on": "エン、オン",
+    "kun": "",
+    "en": "long kimono"
+  },
+  {
+    "n": 1425,
+    "jp": "舩",
+    "on": "セン",
+    "kun": "ふね、ふな-",
+    "en": "boat, ship, vessel"
+  },
+  {
+    "n": 1426,
+    "jp": "拭",
+    "on": "ショク、シキ",
+    "kun": "ぬぐ(う)、ふ(く)",
+    "en": "wipe, mop, swab"
+  },
+  {
+    "n": 1427,
+    "jp": "茜",
+    "on": "セン",
+    "kun": "あかね",
+    "en": "madder, red dye, Turkey red"
+  },
+  {
+    "n": 1428,
+    "jp": "凌",
+    "on": "リョウ",
+    "kun": "しの(ぐ)",
+    "en": "endure, keep out, stave off, tide over, defy, slight, surpass"
+  },
+  {
+    "n": 1429,
+    "jp": "頬",
+    "on": "キョウ",
+    "kun": "ほお、ほほ",
+    "en": "cheeks, jaw"
+  },
+  {
+    "n": 1430,
+    "jp": "厨",
+    "on": "シュウ、ズ、チュ、チュウ",
+    "kun": "くりや",
+    "en": "kitchen"
+  },
+  {
+    "n": 1431,
+    "jp": "犀",
+    "on": "サイ、セイ",
+    "kun": "",
+    "en": "rhinoceros"
+  },
+  {
+    "n": 1432,
+    "jp": "簑",
+    "on": "サ、サイ",
+    "kun": "みの",
+    "en": "a coat, raincoat"
+  },
+  {
+    "n": 1433,
+    "jp": "皓",
+    "on": "コウ",
+    "kun": "しろ(い)、ひか(る)",
+    "en": "white, clear"
+  },
+  {
+    "n": 1434,
+    "jp": "伻",
+    "on": "ソ、コウ",
+    "kun": "よみがえ(る)",
+    "en": "be resuscitated, revived"
+  },
+  {
+    "n": 1435,
+    "jp": "洸",
+    "on": "コウ",
+    "kun": "",
+    "en": "sparkling water"
+  },
+  {
+    "n": 1436,
+    "jp": "毬",
+    "on": "キュウ",
+    "kun": "いが、まり",
+    "en": "burr, ball"
+  },
+  {
+    "n": 1437,
+    "jp": "檄",
+    "on": "ケキ",
+    "kun": "げき(する)、ふれぶみ",
+    "en": "written appeal, manifesto"
+  },
+  {
+    "n": 1438,
+    "jp": "姚",
+    "on": "ヨウ、チョウ",
+    "kun": "うつく(しい)",
+    "en": "beautiful"
+  },
+  {
+    "n": 1439,
+    "jp": "蛭",
+    "on": "シツ、チツ",
+    "kun": "ひる",
+    "en": "leech"
+  },
+  {
+    "n": 1440,
+    "jp": "婆",
+    "on": "バ",
+    "kun": "ばば、ばあ",
+    "en": "old woman, grandma, wet nurse"
+  },
+  {
+    "n": 1441,
+    "jp": "叢",
+    "on": "ソウ、ス",
+    "kun": "くさむら、むら(がる)、むら",
+    "en": "plexus, clump of bushes, thicket"
+  },
+  {
+    "n": 1442,
+    "jp": "椙",
+    "on": "",
+    "kun": "すぎ",
+    "en": "Japanese cedar, cryptomeria, (kokuji)"
+  },
+  {
+    "n": 1443,
+    "jp": "轟",
+    "on": "ゴウ、コウ",
+    "kun": "とどろ(かす)、とどろ(く)",
+    "en": "roar, thunder, boom, resound"
+  },
+  {
+    "n": 1444,
+    "jp": "贋",
+    "on": "ガン",
+    "kun": "にせ",
+    "en": "counterfeit, forgery"
+  },
+  {
+    "n": 1445,
+    "jp": "洒",
+    "on": "シャ、ソン、サイ、セン、セイ",
+    "kun": "すす(ぐ)、あら(う)",
+    "en": "wash, sprinkle"
+  },
+  {
+    "n": 1446,
+    "jp": "貰",
+    "on": "セイ、シャ",
+    "kun": "もら(う)",
+    "en": "get, have, obtain"
+  },
+  {
+    "n": 1447,
+    "jp": "儲",
+    "on": "チョ",
+    "kun": "もう(ける)、もう(かる)、もうけ、たくわ(える)",
+    "en": "be profitable, yield profit"
+  },
+  {
+    "n": 1448,
+    "jp": "緋",
+    "on": "ヒ",
+    "kun": "あけ、あか",
+    "en": "scarlet, cardinal"
+  },
+  {
+    "n": 1449,
+    "jp": "諜",
+    "on": "チョウ",
+    "kun": "ちょう(ずる)、うかが(う)、しめ(す)",
+    "en": "spy out, reconnoiter"
+  },
+  {
+    "n": 1450,
+    "jp": "鯛",
+    "on": "チョウ",
+    "kun": "たい",
+    "en": "sea bream, red snapper"
+  },
+  {
+    "n": 1451,
+    "jp": "蓼",
+    "on": "シン、リク、リョウ",
+    "kun": "たで",
+    "en": "luxurious grass, a smartweed"
+  },
+  {
+    "n": 1452,
+    "jp": "伫",
+    "on": "オウ",
+    "kun": "かめ、みか",
+    "en": "jar, jug, vat"
+  },
+  {
+    "n": 1453,
+    "jp": "喘",
+    "on": "ゼン、セン",
+    "kun": "あえ(ぐ)、せき",
+    "en": "pant, gasp, breathe hard"
+  },
+  {
+    "n": 1454,
+    "jp": "怜",
+    "on": "レイ、レン、リョウ",
+    "kun": "あわ(れむ)、さと(い)",
+    "en": "wise"
+  },
+  {
+    "n": 1455,
+    "jp": "溜",
+    "on": "リュウ",
+    "kun": "た(まる)、たま(る)、したた(る)",
+    "en": "collect, gather, be in arrears"
+  },
+  {
+    "n": 1456,
+    "jp": "邑",
+    "on": "ユウ",
+    "kun": "むら",
+    "en": "village, rural community, right village radical (no. 163)"
+  },
+  {
+    "n": 1457,
+    "jp": "鉾",
+    "on": "ボウ、ム",
+    "kun": "ほこ",
+    "en": "halberd, arms, festival float"
+  },
+  {
+    "n": 1458,
+    "jp": "倣",
+    "on": "ホウ",
+    "kun": "なら(う)",
+    "en": "emulate, imitate"
+  },
+  {
+    "n": 1459,
+    "jp": "碧",
+    "on": "ヘキ、ヒャク",
+    "kun": "",
+    "en": "blue, green"
+  },
+  {
+    "n": 1460,
+    "jp": "燈",
+    "on": "トウ",
+    "kun": "ひ、ほ-、ともしび、とも(す)、あかり",
+    "en": "lamp, light, counter for lights"
+  },
+  {
+    "n": 1461,
+    "jp": "諦",
+    "on": "テイ、タイ",
+    "kun": "あきら(める)、つまびらか、まこと",
+    "en": "truth, clarity, abandon, give up"
+  },
+  {
+    "n": 1462,
+    "jp": "煎",
+    "on": "セン",
+    "kun": "せん(じる)、い(る)、に(る)",
+    "en": "broil, parch, roast, boil"
+  },
+  {
+    "n": 1463,
+    "jp": "瓜",
+    "on": "カ、ケ",
+    "kun": "うり",
+    "en": "melon"
+  },
+  {
+    "n": 1464,
+    "jp": "緻",
+    "on": "チ",
+    "kun": "こまか(い)",
+    "en": "fine (i.e. not coarse)"
+  },
+  {
+    "n": 1465,
+    "jp": "哺",
+    "on": "ホ",
+    "kun": "はぐく(む)、ふく(む)",
+    "en": "nurse, suckle"
+  },
+  {
+    "n": 1466,
+    "jp": "槌",
+    "on": "ツイ",
+    "kun": "つち",
+    "en": "hammer, mallet"
+  },
+  {
+    "n": 1467,
+    "jp": "啄",
+    "on": "タク、ツク、トク",
+    "kun": "ついば(む)、つつ(く)",
+    "en": "peck, pick up"
+  },
+  {
+    "n": 1468,
+    "jp": "穣",
+    "on": "ジョウ",
+    "kun": "わら、ゆたか",
+    "en": "good crops, prosperity, 10**28"
+  },
+  {
+    "n": 1469,
+    "jp": "嗜",
+    "on": "シ",
+    "kun": "たしな(む)、この(む)",
+    "en": "like, taste, modest"
+  },
+  {
+    "n": 1470,
+    "jp": "偕",
+    "on": "カイ",
+    "kun": "ともに",
+    "en": "together"
+  },
+  {
+    "n": 1471,
+    "jp": "罵",
+    "on": "バ",
+    "kun": "ののし(る)",
+    "en": "abuse, insult"
+  },
+  {
+    "n": 1472,
+    "jp": "酉",
+    "on": "ユウ",
+    "kun": "とり",
+    "en": "west, bird, sign of the bird, 5-7PM, tenth sign of Chinese zodiac, sake radical (no. 164)"
+  },
+  {
+    "n": 1473,
+    "jp": "蹄",
+    "on": "テイ",
+    "kun": "ひづめ",
+    "en": "hoof"
+  },
+  {
+    "n": 1474,
+    "jp": "頚",
+    "on": "ケイ",
+    "kun": "くび",
+    "en": "neck, head"
+  },
+  {
+    "n": 1475,
+    "jp": "胚",
+    "on": "ハイ",
+    "kun": "はらみ、はら(む)",
+    "en": "embryo"
+  },
+  {
+    "n": 1476,
+    "jp": "牢",
+    "on": "ロウ",
+    "kun": "かた(い)、ひとや",
+    "en": "prison, jail, hardness"
+  },
+  {
+    "n": 1477,
+    "jp": "糞",
+    "on": "フン",
+    "kun": "くそ",
+    "en": "shit, feces, excrement"
+  },
+  {
+    "n": 1478,
+    "jp": "悌",
+    "on": "テイ、ダイ",
+    "kun": "",
+    "en": "serving our elders"
+  },
+  {
+    "n": 1479,
+    "jp": "吊",
+    "on": "チョウ",
+    "kun": "つ(る)、つる(す)",
+    "en": "suspend, hang, wear (sword)"
+  },
+  {
+    "n": 1480,
+    "jp": "楕",
+    "on": "ダ、タ",
+    "kun": "",
+    "en": "ellipse"
+  },
+  {
+    "n": 1481,
+    "jp": "鮭",
+    "on": "カイ、ケイ",
+    "kun": "さけ、しゃけ、ふぐ",
+    "en": "salmon"
+  },
+  {
+    "n": 1482,
+    "jp": "乞",
+    "on": "コツ、キツ、キ、キケ、コチ",
+    "kun": "こ(う)",
+    "en": "beg, invite, ask"
+  },
+  {
+    "n": 1483,
+    "jp": "倹",
+    "on": "ケン",
+    "kun": "つま(しい)、つづまやか",
+    "en": "frugal, economy, thrifty"
+  },
+  {
+    "n": 1484,
+    "jp": "嗅",
+    "on": "キュウ",
+    "kun": "か(ぐ)",
+    "en": "smell, sniff, scent"
+  },
+  {
+    "n": 1485,
+    "jp": "詫",
+    "on": "タ",
+    "kun": "わび、わび(しい)、かこつ、わ(びる)",
+    "en": "apologize"
+  },
+  {
+    "n": 1486,
+    "jp": "鱒",
+    "on": "ソン、セン、ザン",
+    "kun": "ます",
+    "en": "salmon trout"
+  },
+  {
+    "n": 1487,
+    "jp": "蔑",
+    "on": "ベツ",
+    "kun": "ないがしろ、なみ(する)、くらい、さげす(む)",
+    "en": "ignore, despise, neglect, ridicule"
+  },
+  {
+    "n": 1488,
+    "jp": "轍",
+    "on": "テツ",
+    "kun": "わだちい、わだち",
+    "en": "rut, wheel track"
+  },
+  {
+    "n": 1489,
+    "jp": "醤",
+    "on": "ショウ",
+    "kun": "ひしお",
+    "en": "a kind of miso"
+  },
+  {
+    "n": 1490,
+    "jp": "惚",
+    "on": "コツ",
+    "kun": "ほけ(る)、ぼ(ける)、ほ(れる)",
+    "en": "fall in love with, admire, grow senile"
+  },
+  {
+    "n": 1491,
+    "jp": "廣",
+    "on": "コウ",
+    "kun": "ひろ(い)",
+    "en": "broad, wide, spacious"
+  },
+  {
+    "n": 1492,
+    "jp": "藁",
+    "on": "コウ",
+    "kun": "わら",
+    "en": "straw"
+  },
+  {
+    "n": 1493,
+    "jp": "柚",
+    "on": "ユ、ユウ、ジク",
+    "kun": "ゆず",
+    "en": "citron"
+  },
+  {
+    "n": 1494,
+    "jp": "舛",
+    "on": "ブ、セン",
+    "kun": "まい、そむ(く)",
+    "en": "dancing radical (no. 136)"
+  },
+  {
+    "n": 1495,
+    "jp": "縞",
+    "on": "コウ",
+    "kun": "しま、しろぎぬ",
+    "en": "stripe"
+  },
+  {
+    "n": 1496,
+    "jp": "謳",
+    "on": "オウ、ウ",
+    "kun": "うた(う)",
+    "en": "extol, declare, express"
+  },
+  {
+    "n": 1497,
+    "jp": "杞",
+    "on": "コ、キ",
+    "kun": "",
+    "en": "river willow"
+  },
+  {
+    "n": 1498,
+    "jp": "鱗",
+    "on": "リン",
+    "kun": "うろこ、こけ、こけら",
+    "en": "scales (fish)"
+  },
+  {
+    "n": 1499,
+    "jp": "繭",
+    "on": "ケン",
+    "kun": "まゆ、きぬ",
+    "en": "cocoon"
+  },
+  {
+    "n": 1500,
+    "jp": "釘",
+    "on": "テイ、チョウ",
+    "kun": "くぎ",
+    "en": "nail, tack, peg"
+  },
+  {
+    "n": 1501,
+    "jp": "弛",
+    "on": "チ、シ",
+    "kun": "たる(む)、たゆ(む)、ゆる(む)",
+    "en": "slacken, relax"
+  },
+  {
+    "n": 1502,
+    "jp": "狸",
+    "on": "リ、ライ",
+    "kun": "たぬき",
+    "en": "tanuki, raccoon"
+  },
+  {
+    "n": 1503,
+    "jp": "壬",
+    "on": "ニン、ジン、イ",
+    "kun": "みずのえ",
+    "en": "9th calendar sign"
+  },
+  {
+    "n": 1504,
+    "jp": "硯",
+    "on": "ケン、ゲン",
+    "kun": "すずり",
+    "en": "inkstone"
+  }
+]
