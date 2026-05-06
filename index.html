@@ -195,7 +195,7 @@ let filtered   = [];
 let detailIdx  = null;
 let currentPage = 1;
 
-let fcIdx = 0, fcFlipped = false, fcOk = 0, fcNo = 0;
+let fcDeck = [], fcTotal = 0, fcFlipped = false, fcOk = 0, fcNo = 0;
 let qIdx = 0,  qOk = 0,  qTotal = 0, qItems = [];
 
 const COMING = { vocab:true };
@@ -351,15 +351,16 @@ function startCards() {
       '<div class="empty"><span class="empty-k">暗</span><div class="empty-t">Switch to Browse first to load kanji.</div></div>';
     return;
   }
-  fcIdx = 0; fcFlipped = false; fcOk = 0; fcNo = 0;
+  fcDeck = [...ALL_DATA]; fcTotal = ALL_DATA.length;
+  fcFlipped = false; fcOk = 0; fcNo = 0;
   showCard();
 }
 
 function showCard() {
-  if (fcIdx >= ALL_DATA.length) {
+  if (!fcDeck.length) {
     document.getElementById('cards-body').innerHTML = `
       <div class="result detail-wrap">
-        <div class="result-pct">${Math.round(fcOk/ALL_DATA.length*100)}<span style="font-size:32px">%</span></div>
+        <div class="result-pct">${Math.round(fcOk/fcTotal*100)}<span style="font-size:32px">%</span></div>
         <div class="result-lbl">Deck complete · 完了</div>
         <div class="result-grid">
           <div class="rg"><div class="rg-n" style="color:var(--teal)">${fcOk}</div><div class="rg-l">Got it</div></div>
@@ -369,14 +370,14 @@ function showCard() {
       </div>`;
     return;
   }
-  const k   = ALL_DATA[fcIdx];
-  const pct = Math.round(fcIdx / ALL_DATA.length * 100);
+  const k   = fcDeck[0];
+  const pct = Math.round(fcOk / fcTotal * 100);
   fcFlipped = false;
   document.getElementById('cards-body').innerHTML = `
     <div class="fc-wrap">
       <div class="fc-prog-row">
         <div class="fc-bar"><div class="fc-bar-fill" style="width:${pct}%"></div></div>
-        <div class="fc-pos">${fcIdx+1} / ${ALL_DATA.length}</div>
+        <div class="fc-pos">${fcOk} / ${fcTotal} mastered</div>
       </div>
       <div class="fc-card" id="fc-card" onclick="flipCard()">
         <div id="fc-inner" style="width:100%;text-align:center">
@@ -395,7 +396,7 @@ function showCard() {
 function flipCard() {
   if (fcFlipped) return;
   fcFlipped = true;
-  const k = ALL_DATA[fcIdx];
+  const k = fcDeck[0];
   document.getElementById('fc-inner').innerHTML = `
     <div class="fc-answer">
       <div class="fc-ans-en">${k.en}</div>
@@ -406,7 +407,11 @@ function flipCard() {
   document.getElementById('fc-btns').style.display = 'grid';
 }
 
-function markCard(good) { if(good) fcOk++; else fcNo++; fcIdx++; showCard(); }
+function markCard(good) {
+  if (good) { fcDeck.shift(); fcOk++; }
+  else fcNo++;
+  showCard();
+}
 
 /* ── Quiz ── */
 function startQuiz() {
